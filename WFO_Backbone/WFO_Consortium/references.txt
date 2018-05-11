@@ -1,0 +1,997 @@
+taxonID	identifier	namePublishedIn	URI
+wfo-7000000001	ref-7000000001	Gen. Pl. 102–103. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Acanthaceae/
+wfo-7000000002	ref-7000000002	Nat. Pflanzenfam. 1: 256. 1897. (4 Oct 1897)	http://www.theplantlist.org/1.1/browse/A/Achariaceae/
+wfo-7000000003	ref-7000000003	Nat. Pflanzenfam. (ed. 2) 16c: 174. 1934. (28 Apr 1934)	http://www.theplantlist.org/1.1/browse/A/Achatocarpaceae/
+wfo-7000000004	ref-7000000004	Tekhno-Bot. Slovar. 6. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Acoraceae/
+wfo-7000000005	ref-7000000005	Rec. Domin. Mus. 4: 177. 1962.	http://www.theplantlist.org/1.1/browse/B/Acrobolbaceae/
+wfo-7000000006	ref-7000000006	Nat. Pflanzenfam. (ed. 2) 21: 36. 1925. (30 Jul 1925)	http://www.theplantlist.org/1.1/browse/A/Actinidiaceae/
+wfo-7000000007	ref-7000000007	J. Hattori Bot. Lab. 35: 327. 1972. (23 Mar 1972)	http://www.theplantlist.org/1.1/browse/B/Adelanthaceae/
+wfo-7000000008	ref-7000000008	Preuss. Pfl.-Gatt. 198. 1839. (1--7 Sep 1839)	http://www.theplantlist.org/1.1/browse/A/Adoxaceae/
+wfo-7000000009	ref-7000000009	Syllabus (ed. 8) 250. 1920. (Jan--Feb 1920)	http://www.theplantlist.org/1.1/browse/A/Aextoxicaceae/
+wfo-7000000010	ref-7000000010	Tekhno-Bot. Slovar. 15. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Aizoaceae/
+wfo-7000000011	ref-7000000011	Bull. Misc. Inform. Kew 1912: 380. 1912. (13 Dec 1912)	http://www.theplantlist.org/1.1/browse/A/Akaniaceae/
+wfo-7000000012	ref-7000000012	Tabl. Regn. Veg. 2: 157. 1799. (5 May 1799)	http://www.theplantlist.org/1.1/browse/A/Alismataceae/
+wfo-7000000013	ref-7000000013	Pečen. Mhi Morfol., Filog, Klassifik. 119. 1975.	http://www.theplantlist.org/1.1/browse/B/Allisoniaceae/
+wfo-7000000014	ref-7000000014	Kew Bull. 18: 249. 1965. (18 Dec 1965)	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/
+wfo-7000000015	ref-7000000015	Anal. Fam. Pl. 57, 58. 1829.	http://www.theplantlist.org/1.1/browse/A/Alstroemeriaceae/
+wfo-7000000016	ref-7000000016	Osnov. Bot. 271. 1841.	http://www.theplantlist.org/1.1/browse/A/Altingiaceae/
+wfo-7000000017	ref-7000000017	Gen. Pl. 87–88. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Amaranthaceae/
+wfo-7000000018	ref-7000000018	Expos. Fam. Nat. 1: 134. 1805. (Feb-Apr 1805)	http://www.theplantlist.org/1.1/browse/A/Amaryllidaceae/
+wfo-7000000019	ref-7000000019	Rev. Bryol. 12: 26. 1885.	http://www.theplantlist.org/1.1/browse/B/Amblystegiaceae/
+wfo-7000000020	ref-7000000020	Bull. Mus. Natl. Hist. Nat., sér. 2 20: 384. 1948. (25 Oct 1948)	http://www.theplantlist.org/1.1/browse/A/Amborellaceae/
+wfo-7000000021	ref-7000000021	Taxon 59(1): 232–233. 2010.	http://www.theplantlist.org/1.1/browse/A/Anacampserotaceae/
+wfo-7000000022	ref-7000000022	Narr. Exped. Zaire 431. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Anacardiaceae/
+wfo-7000000023	ref-7000000023	Kew Bull. 19: 489. 1965. (26 Jul 1965)	http://www.theplantlist.org/1.1/browse/A/Anarthriaceae/
+wfo-7000000024	ref-7000000024	Phytotaxa 3: 48. 2010.	http://www.theplantlist.org/1.1/browse/B/Anastrophyllaceae/
+wfo-7000000025	ref-7000000025	Ann. Bot. Syst. 2: 175. 1851. (15--16 Dec 1851)	http://www.theplantlist.org/1.1/browse/A/Ancistrocladaceae/
+wfo-7000000026	ref-7000000026	Anal. Fam. Pl. 68. 1829.	http://www.theplantlist.org/1.1/browse/B/Andreaeaceae/
+wfo-7000000027	ref-7000000027	Phytologia 33: 410. 1976.	http://www.theplantlist.org/1.1/browse/B/Andreaeobryaceae/
+wfo-7000000028	ref-7000000028	Fil. Spec. 23. 1841. (3-10 Sep 1841)	http://www.theplantlist.org/1.1/browse/P/Anemiaceae/
+wfo-7000000029	ref-7000000029	Höh. Crypt. Preuss. 11. 1858.	http://www.theplantlist.org/1.1/browse/B/Aneuraceae/
+wfo-7000000030	ref-7000000030	Fl. Malay. Penin. 1: 700. 1922. (13-22 Jul 1922)	http://www.theplantlist.org/1.1/browse/A/Anisophylleaceae/
+wfo-7000000031	ref-7000000031	Gen. Pl. 283. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Annonaceae/
+wfo-7000000032	ref-7000000032	J. Hattori Bot. Lab. 26: 236. 1963.	http://www.theplantlist.org/1.1/browse/B/Antheliaceae/
+wfo-7000000033	ref-7000000033	Anal. Fam. Pl. 68. 1829.	http://www.theplantlist.org/1.1/browse/B/Anthocerotaceae/
+wfo-7000000034	ref-7000000034	Prosyllab. Tracheophyt. 27. 2001. (23 Dec 2001)	http://www.theplantlist.org/1.1/browse/A/Aphanopetalaceae/
+wfo-7000000035	ref-7000000035	Bot. Žhurn. (Moscow & Leningrad) 70(12): 1691. 1985. (13 Dec 1985)	http://www.theplantlist.org/1.1/browse/A/Aphloiaceae/
+wfo-7000000036	ref-7000000036	Intr. Nat. Syst. Bot. (ed. 2) 21. 1836. (13 Jun 1836)	http://www.theplantlist.org/1.1/browse/A/Apiaceae/
+wfo-7000000038	ref-7000000038	Gen. Pl. 143–144. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Apocynaceae/
+wfo-7000000039	ref-7000000039	Sist. Magnol. 42. 1987. (24 Jun 1987)	http://www.theplantlist.org/1.1/browse/A/Apodanthaceae/
+wfo-7000000040	ref-7000000040	Bot. Mag. , ad pl. 4894. 1856. (1 Jan 1856)	http://www.theplantlist.org/1.1/browse/A/Aponogetonaceae/
+wfo-7000000041	ref-7000000041	Přir. Rostlin 2(110): 440, 438. 1825.	http://www.theplantlist.org/1.1/browse/A/Aquifoliaceae/
+wfo-7000000042	ref-7000000042	Gen. Pl. 23. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Araceae/
+wfo-7000000043	ref-7000000043	Gen. Pl. 217. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Araliaceae/
+wfo-7000000044	ref-7000000044	Syn. Nadelhölz. 17: 1. 1865. (17--18 Jan 1865)	http://www.theplantlist.org/1.1/browse/G/Araucariaceae/
+wfo-7000000045	ref-7000000045	Coroll. Bryol. Eur. 5. 1856.	http://www.theplantlist.org/1.1/browse/B/Archidiaceae/
+wfo-7000000046	ref-7000000046	Prir. Rostlin 266. 1820. (Jan--Apr 1820)	http://www.theplantlist.org/1.1/browse/A/Arecaceae/
+wfo-7000000047	ref-7000000047	Sist. Magnol. 208. 1987. (24 Jun 1987)	http://www.theplantlist.org/1.1/browse/A/Argophyllaceae/
+wfo-7000000048	ref-7000000048	Gen. Pl. 72–73. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Aristolochiaceae/
+wfo-7000000049	ref-7000000049	Ord. Fam. Prof. Nakai 1943.	http://www.theplantlist.org/1.1/browse/B/Arnelliaceae/
+wfo-7000000050	ref-7000000050	Gen. Pl. 40. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Asparagaceae/
+wfo-7000000051	ref-7000000051	Hist. Brit. Ferns 6. 1840. (1--5 Feb 1840)	http://www.theplantlist.org/1.1/browse/P/Aspleniaceae/
+wfo-7000000052	ref-7000000052	Anal. Fam. Pl. 59, 61. 1829.	http://www.theplantlist.org/1.1/browse/A/Asteliaceae/
+wfo-7000000053	ref-7000000053	Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 12(2): 205. 1990. (24 Nov 1990)	http://www.theplantlist.org/1.1/browse/A/Asteropeiaceae/
+wfo-7000000054	ref-7000000054	Voy. Terra Austral. 2: 553. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Atherospermataceae/
+wfo-7000000055	ref-7000000055	Taxon 5: 25. 1956. (25 Mar 1956)	http://www.theplantlist.org/1.1/browse/P/Athyriaceae/
+wfo-7000000056	ref-7000000056	Syn. Musc. Eur. CXXXIX, 411. 1860.	http://www.theplantlist.org/1.1/browse/B/Aulacomniaceae/
+wfo-7000000057	ref-7000000057	Cact. Succ. J. (Los Angeles) 15: 64. 1943. (May 1943)	http://www.theplantlist.org/1.1/browse/A/Austrobaileyaceae/
+wfo-7000000058	ref-7000000058	New Phytol. 10: 42. 1911.	http://www.theplantlist.org/1.1/browse/B/Aytoniaceae/
+wfo-7000000059	ref-7000000059	Gen. Pl. 3: v, 341. 1880. (7 Feb 1880)	http://www.theplantlist.org/1.1/browse/A/Balanopaceae/
+wfo-7000000060	ref-7000000060	Mém. Mus. Hist. Nat. 8: 429. 1822. (Nov 1822)	http://www.theplantlist.org/1.1/browse/A/Balanophoraceae/
+wfo-7000000061	ref-7000000061	Mitt. Thüring. Bot. Ges. 1: 23. 1955.	http://www.theplantlist.org/1.1/browse/B/Balantiopsaceae/
+wfo-7000000062	ref-7000000062	Dict. Class. Hist. Nat. 2: 173. 1822. (31 Dec 1822)	http://www.theplantlist.org/1.1/browse/A/Balsaminaceae/
+wfo-7000000063	ref-7000000063	J. Jap. Bot. 18: 105. 1942.	http://www.theplantlist.org/1.1/browse/A/Barbeuiaceae/
+wfo-7000000064	ref-7000000064	Fl. Trop. Afr. 6(2): 14. 1916. (14 Mar 1916)	http://www.theplantlist.org/1.1/browse/A/Barbeyaceae/
+wfo-7000000065	ref-7000000065	Sp. Musc. Frond. 90. 1830.	http://www.theplantlist.org/1.1/browse/B/Bartramiaceae/
+wfo-7000000066	ref-7000000066	Fl. Tellur. 3: 44. 1837. (Nov--Dec 1837)	http://www.theplantlist.org/1.1/browse/A/Basellaceae/
+wfo-7000000067	ref-7000000067	Clav. Class. 17. 1838. (18--24 Mar 1838)	http://www.theplantlist.org/1.1/browse/A/Bataceae/
+wfo-7000000068	ref-7000000068	Aphor. Bot. 200. 1824. (13 Jun 1824)	http://www.theplantlist.org/1.1/browse/A/Begoniaceae/
+wfo-7000000069	ref-7000000069	Gen. Pl. 286. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Berberidaceae/
+wfo-7000000070	ref-7000000070	Bot. Zhurn. (St. Petersburg) 70: –1691. 1985. (13 Dec 1985)	http://www.theplantlist.org/1.1/browse/A/Berberidopsidaceae/
+wfo-7000000071	ref-7000000071	Nat. Arr. Brit. Pl. 2: 222, 243. 1822. (10 Jan 1822)	http://www.theplantlist.org/1.1/browse/A/Betulaceae/
+wfo-7000000072	ref-7000000072	Anal. Nat. Ordn. Gew. 14. 1856.	http://www.theplantlist.org/1.1/browse/A/Biebersteiniaceae/
+wfo-7000000073	ref-7000000073	Gen. Pl. 137. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Bignoniaceae/
+wfo-7000000074	ref-7000000074	Malvac., Buttner., Tiliac. 17. 1822. (20 Apr 1822)	http://www.theplantlist.org/1.1/browse/A/Bixaceae/
+wfo-7000000075	ref-7000000075	Fam. Monocotyledons 155. 1985.	http://www.theplantlist.org/1.1/browse/A/Blandfordiaceae/
+wfo-7000000076	ref-7000000076	Höh. Crypt. Preuss. 14. 1858.	http://www.theplantlist.org/1.1/browse/B/Blasiaceae/
+wfo-7000000077	ref-7000000077	Hist. Brit. Ferns (ed. 2) 8. 1844.	http://www.theplantlist.org/1.1/browse/P/Blechnaceae/
+wfo-7000000078	ref-7000000078	Bull. Natl. Sci. Mus. 22: 25. 1948.	http://www.theplantlist.org/1.1/browse/A/Bonnetiaceae/
+wfo-7000000079	ref-7000000079	Gen. Pl. 128. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Boraginaceae/
+wfo-7000000080	ref-7000000080	Kew Bull. 52: 416. 1997. (Jul 1997)	http://www.theplantlist.org/1.1/browse/A/Boryaceae/
+wfo-7000000081	ref-7000000081	Syn. Musc. Eur. (ed. 2) CXV [as XCV], 637. 1876.	http://www.theplantlist.org/1.1/browse/B/Brachytheciaceae/
+wfo-7000000082	ref-7000000082	Outlines Bot. 854, 1093, 1123. 1835. (Feb 1835)	http://www.theplantlist.org/1.1/browse/A/Brassicaceae/
+wfo-7000000083	ref-7000000083	Phytologia 47: 317. 1981.	http://www.theplantlist.org/1.1/browse/B/Brevianthaceae/
+wfo-7000000084	ref-7000000084	Gen. Pl. 49–50. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Bromeliaceae/
+wfo-7000000085	ref-7000000085	Coroll. Bryol. Eur. 6. 1856.	http://www.theplantlist.org/1.1/browse/B/Bruchiaceae/
+wfo-7000000086	ref-7000000086	Nat. Pflanzenfam. 1: 182. 1897. (2 Aug 1897)	http://www.theplantlist.org/1.1/browse/A/Brunelliaceae/
+wfo-7000000087	ref-7000000087	Prodr. 2: 43. 1825. (Nov 1825)	http://www.theplantlist.org/1.1/browse/A/Bruniaceae/
+wfo-7000000088	ref-7000000088	Sp. Musc. Frond. 47. 1830.	http://www.theplantlist.org/1.1/browse/B/Bryaceae/
+wfo-7000000089	ref-7000000089	Bryologist 51: 9. 1948.	http://www.theplantlist.org/1.1/browse/B/Bryobartramiaceae/
+wfo-7000000090	ref-7000000090	J. Bot. (Morot) 6: 183. 1892.	http://www.theplantlist.org/1.1/browse/B/Bryoxiphiaceae/
+wfo-7000000091	ref-7000000091	Enum. Pl. Javae 27. 1827. (Oct-Dec 1827)	http://www.theplantlist.org/1.1/browse/A/Burmanniaceae/
+wfo-7000000092	ref-7000000092	Ann. Sci. Nat. (Paris) 2: 346. 1824. (Jul 1824)	http://www.theplantlist.org/1.1/browse/A/Burseraceae/
+wfo-7000000093	ref-7000000093	Hist. Nat. Pl. 8: 194. 1804.	http://www.theplantlist.org/1.1/browse/A/Butomaceae/
+wfo-7000000094	ref-7000000094	Comment. Bot. 54. 1822. (Nov-Dec 1822)	http://www.theplantlist.org/1.1/browse/A/Buxaceae/
+wfo-7000000095	ref-7000000095	Sp. Musc. Frond. 23. 1830.	http://www.theplantlist.org/1.1/browse/B/Buxbaumiaceae/
+wfo-7000000096	ref-7000000096	Acta Bot. Bohem. 1: 3. 1922.	http://www.theplantlist.org/1.1/browse/A/Byblidaceae/
+wfo-7000000097	ref-7000000097	Dict. Class. Hist. Nat. 2: 608. 1822. (31 Dec 1822)	http://www.theplantlist.org/1.1/browse/A/Cabombaceae/
+wfo-7000000098	ref-7000000098	Gen. Pl. 310. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Cactaceae/
+wfo-7000000099	ref-7000000099	Amer. J. Bot. 88: 357. 2001. (23 Feb 2001)	http://www.theplantlist.org/1.1/browse/A/Calceolariaceae/
+wfo-7000000100	ref-7000000100	Bot. Centralbl. 77: 394. 1899.	http://www.theplantlist.org/1.1/browse/B/Calomniaceae/
+wfo-7000000101	ref-7000000101	Theoria Syst. Pl. 121. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Calophyllaceae/
+wfo-7000000102	ref-7000000102	Bot. Reg. 5: pl. 404. 1819. (1 Oct 1819)	http://www.theplantlist.org/1.1/browse/A/Calycanthaceae/
+wfo-7000000103	ref-7000000103	Mém. Mus. Hist. Nat. 6: 74. 1820. (Nov 1820)	http://www.theplantlist.org/1.1/browse/A/Calyceraceae/
+wfo-7000000104	ref-7000000104	Gen. Eur. N.- Amer. Bryin. 11. 1897.	http://www.theplantlist.org/1.1/browse/B/Calymperaceae/
+wfo-7000000105	ref-7000000105	Skand. Fl. 2(a): 189. 1928.	http://www.theplantlist.org/1.1/browse/B/Calypogeiaceae/
+wfo-7000000106	ref-7000000106	Gen. Pl. 163. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Campanulaceae/
+wfo-7000000107	ref-7000000107	Anal. Fam. Pl. 57–58. 1829.	http://www.theplantlist.org/1.1/browse/A/Campynemataceae/
+wfo-7000000108	ref-7000000108	Nov. Gen. Sp. Pl. 3: 168, 170. 1832. (Sep 1832)	http://www.theplantlist.org/1.1/browse/A/Canellaceae/
+wfo-7000000109	ref-7000000109	Tekhno-Bot. Slovar. 99. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Cannabaceae/
+wfo-7000000110	ref-7000000110	Gen. Pl. 62. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Cannaceae/
+wfo-7000000111	ref-7000000111	Gen. Pl. 242. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Capparaceae/
+wfo-7000000112	ref-7000000112	Gen. Pl. 210–211. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Caprifoliaceae/
+wfo-7000000113	ref-7000000113	Rumphia 3: 205. 1847. (Jun 1847)	http://www.theplantlist.org/1.1/browse/A/Cardiopteridaceae/
+wfo-7000000114	ref-7000000114	Anal. Fam. Pl. 37, 42. 1829.	http://www.theplantlist.org/1.1/browse/A/Caricaceae/
+wfo-7000000115	ref-7000000115	Kew Bull. 19: 511. 1965. (26 Jul 1965)	http://www.theplantlist.org/1.1/browse/A/Carlemanniaceae/
+wfo-7000000116	ref-7000000116	Hort. Suburb. Calcutt. 88. 1845. (Aug-Dec 1845)	http://www.theplantlist.org/1.1/browse/A/Caryocaraceae/
+wfo-7000000117	ref-7000000117	Gen. Pl. 299. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Caryophyllaceae/
+wfo-7000000118	ref-7000000118	Voy. Terra Austral. 2: 571. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Casuarinaceae/
+wfo-7000000119	ref-7000000119	Nova Hedwigia 41: 115. 1985.	http://www.theplantlist.org/1.1/browse/B/Catagoniaceae/
+wfo-7000000120	ref-7000000120	Nat. Pflanzenfam. 220[I,3]: 629. 1904.	http://www.theplantlist.org/1.1/browse/B/Catoscopiaceae/
+wfo-7000000121	ref-7000000121	Voy. Terra Austral. 2: 554. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Celastraceae/
+wfo-7000000122	ref-7000000122	Gen. Pl. 119. 1836. (Dec 1836)	http://www.theplantlist.org/1.1/browse/A/Centrolepidaceae/
+wfo-7000000123	ref-7000000123	Bot. Rev. (Lancaster) 71: 48. 2005. (20 May 2005)	http://www.theplantlist.org/1.1/browse/A/Centroplacaceae/
+wfo-7000000124	ref-7000000124	Anal. Fam. Pl. 59, 61. 1829.	http://www.theplantlist.org/1.1/browse/A/Cephalotaceae/
+wfo-7000000125	ref-7000000125	Krypt.-Fl. Deutschl., Moose 465. 1904.	http://www.theplantlist.org/1.1/browse/B/Cephaloziaceae/
+wfo-7000000126	ref-7000000126	Mém. Soc. Bot. France 29: 1. 1920.	http://www.theplantlist.org/1.1/browse/B/Cephaloziellaceae/
+wfo-7000000127	ref-7000000127	Nat. Arr. Brit. Pl. 2: 395, 554. 1822. (10 Jan 1822)	http://www.theplantlist.org/1.1/browse/A/Ceratophyllaceae/
+wfo-7000000128	ref-7000000128	Syllabus (ed. 5) 126. 1907. (20--22 Jul 1907)	http://www.theplantlist.org/1.1/browse/A/Cercidiphyllaceae/
+wfo-7000000129	ref-7000000129	J. Hattori Bot. Lab. 23: 68. 1960.	http://www.theplantlist.org/1.1/browse/B/Chaetophyllopsaceae/
+wfo-7000000130	ref-7000000130	Bot. Mag. 48: sub pl. 2190. 1820. (1 Nov 1820)	http://www.theplantlist.org/1.1/browse/A/Chloranthaceae/
+wfo-7000000131	ref-7000000131	J. Bryol. 7: 206. 1972.	http://www.theplantlist.org/1.1/browse/B/Chonecoleaceae/
+wfo-7000000132	ref-7000000132	Narr. Exped. Zaire 433. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Chrysobalanaceae/
+wfo-7000000133	ref-7000000133	Taxon 55(3): 712. 2006. (21 Sep 2006)	http://www.theplantlist.org/1.1/browse/P/Cibotiaceae/
+wfo-7000000134	ref-7000000134	Syn. Musc. Eur. 193. 1860.	http://www.theplantlist.org/1.1/browse/B/Cinclidotaceae/
+wfo-7000000135	ref-7000000135	Fam. Fl. Pl., Dicot. 1: 98. 1926. (15 Jan 1926)	http://www.theplantlist.org/1.1/browse/A/Circaeasteraceae/
+wfo-7000000136	ref-7000000136	Gen. Pl. 294. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Cistaceae/
+wfo-7000000137	ref-7000000137	Přir. Rostlin 2(64): 253. 1825.	http://www.theplantlist.org/1.1/browse/A/Cleomaceae/
+wfo-7000000138	ref-7000000138	Linnaea 24(1): 12. 1851. (May 1851)	http://www.theplantlist.org/1.1/browse/A/Clethraceae/
+wfo-7000000139	ref-7000000139	New Phytol. 10: 42. 1911.	http://www.theplantlist.org/1.1/browse/B/Cleveaceae/
+wfo-7000000140	ref-7000000140	Gen. Eur. N.- Amer. Bryin. 7. 1897.	http://www.theplantlist.org/1.1/browse/B/Climaciaceae/
+wfo-7000000141	ref-7000000141	Intr. Nat. Syst. Bot. (ed. 2) 74. 1836. (13 Jun 1836)	http://www.theplantlist.org/1.1/browse/A/Clusiaceae/
+wfo-7000000142	ref-7000000142	Essai Propr. Méd. Pl. 56. 1804. (Jul 1804)	http://www.theplantlist.org/1.1/browse/A/Colchicaceae/
+wfo-7000000143	ref-7000000143	Edinburgh New Philos. J. 6: 46, 49. 1828. (Oct--Dec 1828)	http://www.theplantlist.org/1.1/browse/A/Columelliaceae/
+wfo-7000000144	ref-7000000144	Prodr. 351. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Combretaceae/
+wfo-7000000145	ref-7000000145	Hist. Nat. Pl. 8: 177. 1804.	http://www.theplantlist.org/1.1/browse/A/Commelinaceae/
+wfo-7000000146	ref-7000000146	Prae. Ord. Nat. Pl. 538. 1792. (Apr 1792)	http://www.theplantlist.org/1.1/browse/A/Compositae/
+wfo-7000000147	ref-7000000147	Narr. Exped. Zaire 431. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Connaraceae/
+wfo-7000000148	ref-7000000148	J. Bryol. 7: 207. 1972.	http://www.theplantlist.org/1.1/browse/B/Conocephalaceae/
+wfo-7000000149	ref-7000000149	Gen. Pl. 132. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Convolvulaceae/
+wfo-7000000150	ref-7000000150	Prodr. 1: 739. 1824. (Jan 1824)	http://www.theplantlist.org/1.1/browse/A/Coriariaceae/
+wfo-7000000151	ref-7000000151	Přir. Rostlin 2(23): 92, 91. 1825.	http://www.theplantlist.org/1.1/browse/A/Cornaceae/
+wfo-7000000152	ref-7000000152	Malesia 1: 238. 1878. (Sep 1878)	http://www.theplantlist.org/1.1/browse/A/Corsiaceae/
+wfo-7000000153	ref-7000000153	Syllabus 44. 1892.	http://www.theplantlist.org/1.1/browse/B/Corsiniaceae/
+wfo-7000000154	ref-7000000154	Nat. Pflanzenfam. 1: 185. 1897. (4 Oct 1897)	http://www.theplantlist.org/1.1/browse/A/Corynocarpaceae/
+wfo-7000000155	ref-7000000155	J. Jap. Bot. 17: 203. 1941. (Apr 1941)	http://www.theplantlist.org/1.1/browse/A/Costaceae/
+wfo-7000000156	ref-7000000156	Expos. Fam. Nat. 2: 123. 1805. (Feb-Apr 1805)	http://www.theplantlist.org/1.1/browse/A/Crassulaceae/
+wfo-7000000157	ref-7000000157	Nat. Pflanzenfam., Nachträge 1: 185. 1897. (2 Aug 1897)	http://www.theplantlist.org/1.1/browse/A/Crossosomataceae/
+wfo-7000000158	ref-7000000158	Coroll. Bryol. Eur. 97. 1856.	http://www.theplantlist.org/1.1/browse/B/Cryphaeaceae/
+wfo-7000000159	ref-7000000159	Consp. Fl. Angol. 1: 248, 392. 1951. (20 Aug 1951)	http://www.theplantlist.org/1.1/browse/A/Ctenolophonaceae/
+wfo-7000000160	ref-7000000160	Gen. Pl. 393–394. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Cucurbitaceae/
+wfo-7000000161	ref-7000000161	Webbia 24: 702. 1970. (28 Apr 1970)	http://www.theplantlist.org/1.1/browse/P/Culcitaceae/
+wfo-7000000162	ref-7000000162	Voy. Terra Austral. 2: 548. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Cunoniaceae/
+wfo-7000000163	ref-7000000163	Nat. Arr. Brit. Pl. 2: 222, 225. 1822. (10 Jan 1822)	http://www.theplantlist.org/1.1/browse/G/Cupressaceae/
+wfo-7000000164	ref-7000000164	Sist. Magnol. 214. 1987. (24 Jun 1987)	http://www.theplantlist.org/1.1/browse/A/Curtisiaceae/
+wfo-7000000165	ref-7000000165	Wesen Farrenkr. 119. 1827. (Jul-Sep 1827)	http://www.theplantlist.org/1.1/browse/P/Cyatheaceae/
+wfo-7000000166	ref-7000000166	Syn. Pl. 2: 630. 1807. (Sep 1807)	http://www.theplantlist.org/1.1/browse/G/Cycadaceae/
+wfo-7000000167	ref-7000000167	Dict. Class. Hist. Nat. 5: 222. 1824. (15 May 1824)	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/
+wfo-7000000168	ref-7000000168	Stud. Text-book Bot. 553. 1895. (Oct 1895)	http://www.theplantlist.org/1.1/browse/A/Cymodoceaceae/
+wfo-7000000169	ref-7000000169	Nix. Pl. 23. 1833. (17 Sep 1833)	http://www.theplantlist.org/1.1/browse/A/Cynomoriaceae/
+wfo-7000000170	ref-7000000170	Gen. Pl. 26. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Cyperaceae/
+wfo-7000000171	ref-7000000171	Veg. Kingd. 445. 1846. (14--28 Mar 1846)	http://www.theplantlist.org/1.1/browse/A/Cyrillaceae/
+wfo-7000000172	ref-7000000172	Musci Buitenzorg 3: 655. 1908.	http://www.theplantlist.org/1.1/browse/B/Cyrtopodaceae/
+wfo-7000000173	ref-7000000173	Kew Bull. 41(4): 797. 1986.	http://www.theplantlist.org/1.1/browse/P/Cystodiaceae/
+wfo-7000000174	ref-7000000174	Turczaninowia 4: 60. 2001. (15 May 2001)	http://www.theplantlist.org/1.1/browse/P/Cystopteridaceae/
+wfo-7000000175	ref-7000000175	Dict. Class. Hist. Nat. 5: 301. 1824. (15 May 1824)	http://www.theplantlist.org/1.1/browse/A/Cytinaceae/
+wfo-7000000176	ref-7000000176	Syn. Musc. Eur. 478. 1860.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/
+wfo-7000000177	ref-7000000177	Prodr. 16(1): 1. 1869. (Nov 1869)	http://www.theplantlist.org/1.1/browse/A/Daphniphyllaceae/
+wfo-7000000178	ref-7000000178	Anal. Fam. Pl. 54–55. 1829.	http://www.theplantlist.org/1.1/browse/A/Dasypogonaceae/
+wfo-7000000179	ref-7000000179	Anal. Fam. Pl. 13, 14. 1829.	http://www.theplantlist.org/1.1/browse/A/Datiscaceae/
+wfo-7000000180	ref-7000000180	Reis. Br.-Guiana 3: 883. 1848[1849]. (7-10 Mar 1849)	http://www.theplantlist.org/1.1/browse/P/Davalliaceae/
+wfo-7000000181	ref-7000000181	J. Arnold Arbor. 23: 357. 1942. (15 Jul 1942)	http://www.theplantlist.org/1.1/browse/A/Degeneriaceae/
+wfo-7000000182	ref-7000000182	J. Hattori Bot. Lab. 64: 93. 1988.	http://www.theplantlist.org/1.1/browse/B/Dendrocerotaceae/
+wfo-7000000183	ref-7000000183	Vortr. Bot. Stammesgesch. 2: 655. 1909. (July-Sept. 1909)	http://www.theplantlist.org/1.1/browse/P/Dennstaedtiaceae/
+wfo-7000000184	ref-7000000184	Intr. Nat. Syst. Bot. (ed. 2) 233. 1836. (13 Jun 1836)	http://www.theplantlist.org/1.1/browse/A/Diapensiaceae/
+wfo-7000000185	ref-7000000185	Fl. Bras. 12(1): 365. 1886. (1 Apr. 1886)	http://www.theplantlist.org/1.1/browse/A/Dichapetalaceae/
+wfo-7000000186	ref-7000000186	Reis. Br.-Guiana 3: 1047. 1848[1849]. (7-10 Mar 1849)	http://www.theplantlist.org/1.1/browse/P/Dicksoniaceae/
+wfo-7000000187	ref-7000000187	Nat. Pflanzenfam. (ed. 2) 10: 214. 1924.	http://www.theplantlist.org/1.1/browse/B/Dicnemonaceae/
+wfo-7000000188	ref-7000000188	Coroll. Bryol. Eur. 11. 1856.	http://www.theplantlist.org/1.1/browse/B/Dicranaceae/
+wfo-7000000189	ref-7000000189	Nat. Pflanzenfam. 3(5): 462. 1896. (May 1896)	http://www.theplantlist.org/1.1/browse/A/Didiereaceae/
+wfo-7000000190	ref-7000000190	Parad. Lond. sub t. 73. 1806[1807]. (1 Jun 1807)	http://www.theplantlist.org/1.1/browse/A/Dilleniaceae/
+wfo-7000000191	ref-7000000191	Kew Bull. 6: 333. 1951[1952]. (26 Jan 1952)	http://www.theplantlist.org/1.1/browse/A/Dioncophyllaceae/
+wfo-7000000192	ref-7000000192	Prodr. 294. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Dioscoreaceae/
+wfo-7000000193	ref-7000000193	Brittonia 4: 69, 73. 1941. (16 Dec 1941)	http://www.theplantlist.org/1.1/browse/A/Dipentodontaceae/
+wfo-7000000194	ref-7000000194	Syllabus (ed. 8) 86. 1919[1920].	http://www.theplantlist.org/1.1/browse/B/Diphysciaceae/
+wfo-7000000195	ref-7000000195	Phytotaxa 19: 15. 2011. (18 Feb 2011)	http://www.theplantlist.org/1.1/browse/P/Diplaziopsidaceae/
+wfo-7000000196	ref-7000000196	Philos. Trans., Ser. B 194: 487, 499, 502. 1901. (Dec 1901)	http://www.theplantlist.org/1.1/browse/P/Dipteridaceae/
+wfo-7000000197	ref-7000000197	Bijdr. Fl. Ned. Ind. 222. 1825. (20 Sep--7 Dec 1825)	http://www.theplantlist.org/1.1/browse/A/Dipterocarpaceae/
+wfo-7000000198	ref-7000000198	Fam. Fl. Pl., Dicot. (ed. 2) 248. 1959. (18 Jun 1959)	http://www.theplantlist.org/1.1/browse/A/Dirachmaceae/
+wfo-7000000199	ref-7000000199	Coroll. Bryol. Eur. 59. 1856.	http://www.theplantlist.org/1.1/browse/B/Disceliaceae/
+wfo-7000000200	ref-7000000200	Laubm. Deutschl. 1: 482. 1887.	http://www.theplantlist.org/1.1/browse/B/Ditrichaceae/
+wfo-7000000201	ref-7000000201	Fam. Monocotyledons 175. 1985.	http://www.theplantlist.org/1.1/browse/A/Doryanthaceae/
+wfo-7000000202	ref-7000000202	Parad. Lond. , ad t. 95. 1808. (15 Jun 1808)	http://www.theplantlist.org/1.1/browse/A/Droseraceae/
+wfo-7000000203	ref-7000000203	Preslia 61: 122. 1989. (10 Apr 1989)	http://www.theplantlist.org/1.1/browse/A/Drosophyllaceae/
+wfo-7000000205	ref-7000000205	Revista Sudamer. Bot. 9: 15. 1949. (Jun 1949)	http://www.theplantlist.org/1.1/browse/P/Dryopteridaceae/
+wfo-7000000206	ref-7000000206	Nat. Pflanzenfam. 4(1): 153. 1891. (Dec 1891)	http://www.theplantlist.org/1.1/browse/A/Ebenaceae/
+wfo-7000000207	ref-7000000207	Kew Bull. 19: 495. 1965. (26 Jul 1965)	http://www.theplantlist.org/1.1/browse/A/Ecdeiocoleaceae/
+wfo-7000000208	ref-7000000208	Nat. Pflanzenfam. I(3): 1216. 1909.	http://www.theplantlist.org/1.1/browse/B/Echinodiaceae/
+wfo-7000000209	ref-7000000209	Gen. Pl. 74–75. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Elaeagnaceae/
+wfo-7000000210	ref-7000000210	Essai Propr. Méd. Pl. 87. 1816. (4--11 May 1816)	http://www.theplantlist.org/1.1/browse/A/Elaeocarpaceae/
+wfo-7000000211	ref-7000000211	Anal. Fam. Pl. 44, 49. 1829.	http://www.theplantlist.org/1.1/browse/A/Elatinaceae/
+wfo-7000000212	ref-7000000212	Theoria Syst. Pl. 140. 1858.	http://www.theplantlist.org/1.1/browse/A/Emblingiaceae/
+wfo-7000000213	ref-7000000213	Coroll. Bryol. Eur. 38. 1856.	http://www.theplantlist.org/1.1/browse/B/Encalyptaceae/
+wfo-7000000214	ref-7000000214	Gen. Eur. N.- Amer. Bryin. 7. 1897.	http://www.theplantlist.org/1.1/browse/B/Entodontaceae/
+wfo-7000000215	ref-7000000215	Anal. Fam. Pl. 11, 12. 1829.	http://www.theplantlist.org/1.1/browse/G/Ephedraceae/
+wfo-7000000216	ref-7000000216	Coroll. Bryol. Eur. 3. 1856.	http://www.theplantlist.org/1.1/browse/B/Ephemeraceae/
+wfo-7000000217	ref-7000000217	Essai Propr. Méd. Pl. 49. 1804. (Jul 1804)	http://www.theplantlist.org/1.1/browse/P/Equisetaceae/
+wfo-7000000218	ref-7000000218	Gen. Pl. 159–160. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Ericaceae/
+wfo-7000000219	ref-7000000219	Tekhno-Bot. Slovar. 237. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Eriocaulaceae/
+wfo-7000000220	ref-7000000220	Nat. Pflanzenfam. I(3): 706. 1905.	http://www.theplantlist.org/1.1/browse/B/Erpodiaceae/
+wfo-7000000221	ref-7000000221	Nov. Gen. Sp. (quarto ed.) 5: 175. 1822. (25 Feb 1822)	http://www.theplantlist.org/1.1/browse/A/Erythroxylaceae/
+wfo-7000000222	ref-7000000222	Anal. Fam. Pl. 35, 37. 1829.	http://www.theplantlist.org/1.1/browse/A/Escalloniaceae/
+wfo-7000000223	ref-7000000223	Syllabus (ed. 5) 139. 1907. (Jul 1907)	http://www.theplantlist.org/1.1/browse/A/Eucommiaceae/
+wfo-7000000224	ref-7000000224	Gen. Pl. 384–385. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Euphorbiaceae/
+wfo-7000000225	ref-7000000225	Pittieria 18: 16. 1989. (Nov 1989)	http://www.theplantlist.org/1.1/browse/A/Euphroniaceae/
+wfo-7000000226	ref-7000000226	Dict. Univ. Hist. Nat. 5: 511. 1845. (29 May 1845)	http://www.theplantlist.org/1.1/browse/A/Eupomatiaceae/
+wfo-7000000227	ref-7000000227	Samenpflanzen 17. 1910. (12 Nov 1910)	http://www.theplantlist.org/1.1/browse/A/Eupteleaceae/
+wfo-7000000228	ref-7000000228	Nat. Pflanzenfam. (ed. 2) 10: 420. 1924.	http://www.theplantlist.org/1.1/browse/B/Eustichiaceae/
+wfo-7000000229	ref-7000000229	J. Bryol. 7: 208. 1972.	http://www.theplantlist.org/1.1/browse/B/Exormothecaceae/
+wfo-7000000230	ref-7000000230	Coroll. Bryol. Eur. 102. 1856.	http://www.theplantlist.org/1.1/browse/B/Fabroniaceae/
+wfo-7000000231	ref-7000000231	Anal. Fam. Pl. 11, 12. 1829.	http://www.theplantlist.org/1.1/browse/A/Fagaceae/
+wfo-7000000232	ref-7000000232	Coroll. Bryol. Eur. 20. 1856.	http://www.theplantlist.org/1.1/browse/B/Fissidentaceae/
+wfo-7000000233	ref-7000000233	Prodr. 1: 255. 1824. (Jan 1824)	http://www.theplantlist.org/1.1/browse/A/Flacourtiaceae/
+wfo-7000000234	ref-7000000234	Anal. Fam. Pl. 59, 60. 1829.	http://www.theplantlist.org/1.1/browse/A/Flagellariaceae/
+wfo-7000000235	ref-7000000235	Coroll. Bryol. Eur. 96. 1856.	http://www.theplantlist.org/1.1/browse/B/Fontinalaceae/
+wfo-7000000236	ref-7000000236	Magyar Bir. Moh-fl. 20. 1885.	http://www.theplantlist.org/1.1/browse/B/Fossombroniaceae/
+wfo-7000000237	ref-7000000237	Prodr. 3: 349. 1828. (Mar 1828)	http://www.theplantlist.org/1.1/browse/A/Fouquieriaceae/
+wfo-7000000238	ref-7000000238	Dict. Rais. Bot. 188. 1817. (12--19 Apr 1817)	http://www.theplantlist.org/1.1/browse/A/Frankeniaceae/
+wfo-7000000239	ref-7000000239	Sp. Musc. Frond. 43. 1830.	http://www.theplantlist.org/1.1/browse/B/Funariaceae/
+wfo-7000000240	ref-7000000240	Edwardss Bot. Reg. 20: sub t. 1686. 1834. (1 Jul 1834)	http://www.theplantlist.org/1.1/browse/A/Garryaceae/
+wfo-7000000241	ref-7000000241	Prodr. 14: 491. 1856. (Oct 1856)	http://www.theplantlist.org/1.1/browse/A/Geissolomataceae/
+wfo-7000000242	ref-7000000242	Cladistics 10(2): 206. 1994[1995]. (Jun 1995)	http://www.theplantlist.org/1.1/browse/A/Gelsemiaceae/
+wfo-7000000243	ref-7000000243	Gen. Pl. 141. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Gentianaceae/
+wfo-7000000244	ref-7000000244	Höh. Crypt. Preuss. 34. 1858.	http://www.theplantlist.org/1.1/browse/B/Geocalycaceae/
+wfo-7000000245	ref-7000000245	Gen. Pl. 268. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Geraniaceae/
+wfo-7000000246	ref-7000000246	Taxon 55(4): 962. 2006. (20 Dec 2006)	http://www.theplantlist.org/1.1/browse/A/Gerrardinaceae/
+wfo-7000000247	ref-7000000247	Essai Propr. Méd. Pl., ed. 2 192. 1816. (11 May 1816)	http://www.theplantlist.org/1.1/browse/A/Gesneriaceae/
+wfo-7000000248	ref-7000000248	Öfversigt af Kongl. Svenska Vetenskaps-Akademiens Förhandlingar 1864: 592. 1865.	http://www.theplantlist.org/1.1/browse/B/Gigaspermaceae/
+wfo-7000000249	ref-7000000249	Nat. Pflanzenfam. 1: 19. 1897. (16 Jul 1897)	http://www.theplantlist.org/1.1/browse/G/Ginkgoaceae/
+wfo-7000000250	ref-7000000250	J. Jap. Bot. 18: 102. 1942. (Mar 1942)	http://www.theplantlist.org/1.1/browse/A/Gisekiaceae/
+wfo-7000000251	ref-7000000251	Reliq. Haenk. 1: 70. 1825. (Jun-Nov 1825)	http://www.theplantlist.org/1.1/browse/P/Gleicheniaceae/
+wfo-7000000252	ref-7000000252	Nov. Pl. Expos. 23. 1833. (Aug-Dec 1833)	http://www.theplantlist.org/1.1/browse/G/Gnetaceae/
+wfo-7000000253	ref-7000000253	Man. Bryol. 425. 1932.	http://www.theplantlist.org/1.1/browse/B/Goebeliellaceae/
+wfo-7000000254	ref-7000000254	Ber. Deutsch. Bot. Ges. 14: 232. 1896. (19 Aug 1896)	http://www.theplantlist.org/1.1/browse/A/Gomortegaceae/
+wfo-7000000255	ref-7000000255	Prodr. 573. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Goodeniaceae/
+wfo-7000000256	ref-7000000256	Ann. Mag. Nat. Hist., ser. 3 9: 292. 1862. (Apr 1862)	http://www.theplantlist.org/1.1/browse/A/Goupiaceae/
+wfo-7000000257	ref-7000000257	Disp. Méth. Mousses 19. 1825.	http://www.theplantlist.org/1.1/browse/B/Grimmiaceae/
+wfo-7000000258	ref-7000000258	Ann. Nat. Hist. 3: 261. 1839. (Dec 1839)	
+wfo-7000000259	ref-7000000259	Fl. Franç. (ed. 3) 4(2): 405. 1805. (17 Sep 1805)	http://www.theplantlist.org/1.1/browse/A/Grossulariaceae/
+wfo-7000000260	ref-7000000260	Pl. Vasc. Gen. 1: 323, 2: 239. 1841. (18--24 Jul 1841)	http://www.theplantlist.org/1.1/browse/A/Grubbiaceae/
+wfo-7000000261	ref-7000000261	Syst. Bot. 31(4): 736. 2006. (15 Dec 2006)	http://www.theplantlist.org/1.1/browse/A/Guamatelaceae/
+wfo-7000000262	ref-7000000262	Pl. Vasc. Gen. 1: 345, 346, 2: 257. 1836–1843[1842]. (13–15 Feb 1842)	http://www.theplantlist.org/1.1/browse/A/Gunneraceae/
+wfo-7000000263	ref-7000000263	Höh. Crypt. Preuss. 16. 1958.	http://www.theplantlist.org/1.1/browse/B/Gymnomitriaceae/
+wfo-7000000264	ref-7000000264	Dict. Univ. Hist. Nat. 6: 450. 1845.	http://www.theplantlist.org/1.1/browse/A/Gyrostemonaceae/
+wfo-7000000265	ref-7000000265	Trans. Brit. Bryol. Soc. 6: 87. 1970.	http://www.theplantlist.org/1.1/browse/B/Gyrothyraceae/
+wfo-7000000266	ref-7000000266	Prodr. 299. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Haemodoraceae/
+wfo-7000000267	ref-7000000267	Bol. Soc. Argent. Bot. 23: 161. 1984. (29 Aug 1984)	http://www.theplantlist.org/1.1/browse/A/Halophytaceae/
+wfo-7000000268	ref-7000000268	Voy. Terra Austral. 2: 549. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Haloragaceae/
+wfo-7000000269	ref-7000000269	Narr. Journey China 374. 1818. (15 Aug 1818)	http://www.theplantlist.org/1.1/browse/A/Hamamelidaceae/
+wfo-7000000270	ref-7000000270	Kew Bull. 18: 260. 1964. (8 Dec 1964)	http://www.theplantlist.org/1.1/browse/A/Hanguanaceae/
+wfo-7000000271	ref-7000000271	Arch. Naturwiss. Landesdurchf. Bohmen 5(4): 17. 1883.	http://www.theplantlist.org/1.1/browse/B/Haplomitriaceae/
+wfo-7000000272	ref-7000000272	Ceiba 42(1): 33. 2001[2002].	http://www.theplantlist.org/1.1/browse/A/Haptanthaceae/
+wfo-7000000273	ref-7000000273	Coroll. Bryol. Eur. 52. 1856.	http://www.theplantlist.org/1.1/browse/B/Hedwigiaceae/
+wfo-7000000274	ref-7000000274	J. Jap. Bot. 17: 201. 1941. (Apr 1941)	http://www.theplantlist.org/1.1/browse/A/Heliconiaceae/
+wfo-7000000275	ref-7000000275	Nat. Pflanzenfam. I(3): 973. 1907.	http://www.theplantlist.org/1.1/browse/B/Helicophyllaceae/
+wfo-7000000276	ref-7000000276	Ann. Sci. Nat., Bot., sér. 2 6: 69. 1836. (Aug 1836)	http://www.theplantlist.org/1.1/browse/A/Helwingiaceae/
+wfo-7000000277	ref-7000000277	Bryologist 61: 284. 1958.	http://www.theplantlist.org/1.1/browse/B/Herbertaceae/
+wfo-7000000278	ref-7000000278	Bijdr. Fl. Ned. Ind. (11): 550. 1825[1826]. (24 Jan 1826)	http://www.theplantlist.org/1.1/browse/A/Hernandiaceae/
+wfo-7000000279	ref-7000000279	Bot. Jahrb. Syst. 55: 126. 1917. (27 Nov 1917)	http://www.theplantlist.org/1.1/browse/A/Himantandraceae/
+wfo-7000000280	ref-7000000280	Coroll. Bryol. Eur. 101. 1856.	http://www.theplantlist.org/1.1/browse/B/Hookeriaceae/
+wfo-7000000281	ref-7000000281	Rev. Int. Bot. Appl. Agric. Trop. 27: 28. 1947. (Jan-Feb 1947)	http://www.theplantlist.org/1.1/browse/A/Huaceae/
+wfo-7000000282	ref-7000000282	Fl. Bras. Merid. (quarto ed.) 2(13): 87. 1829. (10 Oct 1829)	http://www.theplantlist.org/1.1/browse/A/Humiriaceae/
+wfo-7000000283	ref-7000000283	New Zealand J. Bot. 14: 195. 1976. (22 Jun 1976)	http://www.theplantlist.org/1.1/browse/A/Hydatellaceae/
+wfo-7000000284	ref-7000000284	Aphor. Bot. (7): 88. 1821. (21 Dec 1821)	http://www.theplantlist.org/1.1/browse/A/Hydnoraceae/
+wfo-7000000285	ref-7000000285	Anal. Fam. Pl. 36, 38. 1829.	http://www.theplantlist.org/1.1/browse/A/Hydrangeaceae/
+wfo-7000000286	ref-7000000286	Gen. Pl. 67. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Hydrocharitaceae/
+wfo-7000000287	ref-7000000287	Bot. Reg. 7: sub t. 566. 1821. (1 Aug 1821)	http://www.theplantlist.org/1.1/browse/A/Hydroleaceae/
+wfo-7000000288	ref-7000000288	Bot. Jahrb. Syst. 20: 136. 1894. (16 Nov 1894)	http://www.theplantlist.org/1.1/browse/A/Hydrostachyaceae/
+wfo-7000000289	ref-7000000289	Nova Guinea 12(2): 125. 1914.	http://www.theplantlist.org/1.1/browse/B/Hylocomiaceae/
+wfo-7000000290	ref-7000000290	Consp. Regn. Veg. 3. 1835. (Sep-Oct 1835)	http://www.theplantlist.org/1.1/browse/P/Hymenophyllaceae/
+wfo-7000000291	ref-7000000291	J. Hattori Bot. Lab. 26: 296. 1963.	http://www.theplantlist.org/1.1/browse/B/Hymenophytaceae/
+wfo-7000000292	ref-7000000292	Gen. Pl. 254. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Hypericaceae/
+wfo-7000000293	ref-7000000293	Coroll. Bryol. Eur. 113. 1856.	http://www.theplantlist.org/1.1/browse/B/Hypnaceae/
+wfo-7000000294	ref-7000000294	Nat. Pflanzenfam. I(3): 1166. 1909.	http://www.theplantlist.org/1.1/browse/B/Hypnodendraceae/
+wfo-7000000295	ref-7000000295	Acta Phytotax. Sin. 13(1): 96. 1975.	http://www.theplantlist.org/1.1/browse/P/Hypodematiaceae/
+wfo-7000000296	ref-7000000296	J. Proc. Linn. Soc., Bot., Suppl. 2: 147. 1859.	http://www.theplantlist.org/1.1/browse/B/Hypopterygiaceae/
+wfo-7000000297	ref-7000000297	Voy. Terra Austral. 2: 576. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Hypoxidaceae/
+wfo-7000000298	ref-7000000298	Ann. Mag. Nat. Hist., ser. 2 8: 174. 1851. (Sep 1851)	http://www.theplantlist.org/1.1/browse/A/Icacinaceae/
+wfo-7000000299	ref-7000000299	Gen. Pl. 57. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Iridaceae/
+wfo-7000000300	ref-7000000300	Consp. Fl. Angol. 1: 279, 395. 1951. (20 Aug 1951)	http://www.theplantlist.org/1.1/browse/A/Irvingiaceae/
+wfo-7000000301	ref-7000000301	Anal. Fam. Pl. 67. 1829.	http://www.theplantlist.org/1.1/browse/P/Isoëtaceae/
+wfo-7000000302	ref-7000000302	Theoria Syst. Pl. 151. 1858. (Apr--Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Iteaceae/
+wfo-7000000303	ref-7000000303	Chosakuronbun Mokuroku 234. 1943. (20 Jul 1943)	http://www.theplantlist.org/1.1/browse/A/Ixioliriaceae/
+wfo-7000000304	ref-7000000304	Fl. Ned. Ind. 1(2): viii, 494. 1858. (30 Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Ixonanthaceae/
+wfo-7000000305	ref-7000000305	J. Hattori Bot. Lab. 36: 395. 1972[1973].	http://www.theplantlist.org/1.1/browse/B/Jackiellaceae/
+wfo-7000000306	ref-7000000306	Taxon 19(6): 888–889. 1970. (30 Dec 1970)	http://www.theplantlist.org/1.1/browse/A/Joinvilleaceae/
+wfo-7000000307	ref-7000000307	Höh. Crypt. Preuss. 40. 1958.	http://www.theplantlist.org/1.1/browse/B/Jubulaceae/
+wfo-7000000308	ref-7000000308	J. Bryol. 19: 308. 1996.	http://www.theplantlist.org/1.1/browse/B/Jubulopsaceae/
+wfo-7000000309	ref-7000000309	Vers. Arzneikr. Pfl. 143. 1818. (May 1818)	http://www.theplantlist.org/1.1/browse/A/Juglandaceae/
+wfo-7000000310	ref-7000000310	Gen. Pl. 43. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Juncaceae/
+wfo-7000000311	ref-7000000311	Démonstr. Bot. 9. 1808. (May 1808)	http://www.theplantlist.org/1.1/browse/A/Juncaginaceae/
+wfo-7000000312	ref-7000000312	Bot. Damen 256. 1828.	http://www.theplantlist.org/1.1/browse/B/Jungermanniaceae/
+wfo-7000000313	ref-7000000313	Sist. Filog. Cvetk. Rast. 321. 1967. (4 Feb 1967)	http://www.theplantlist.org/1.1/browse/A/Kirkiaceae/
+wfo-7000000314	ref-7000000314	Nat. Pflanzenfam. 3(6): 319. 1895. (14 May 1895)	http://www.theplantlist.org/1.1/browse/A/Koeberliniaceae/
+wfo-7000000315	ref-7000000315	Anal. Fam. Pl. 20, 23. 1829.	http://www.theplantlist.org/1.1/browse/A/Krameriaceae/
+wfo-7000000316	ref-7000000316	Nov. Gen. Sp. Pl. 1: 154, 158. 1826. (Jan-Mar 1826)	http://www.theplantlist.org/1.1/browse/A/Lacistemataceae/
+wfo-7000000317	ref-7000000317	Nat. Pflanzenfam. 3(2): 19. 1888. (27 Jan 1888)	http://www.theplantlist.org/1.1/browse/A/Lactoridaceae/
+wfo-7000000318	ref-7000000318	Tekhno-Bot. Slovar. 355. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Lamiaceae/
+wfo-7000000319	ref-7000000319	Monogr. Syst. Bot. Missouri Bot. Gard. 25: 71. 1988. (Jun 1988)	http://www.theplantlist.org/1.1/browse/A/Lanariaceae/
+wfo-7000000320	ref-7000000320	Trans. Linn. Soc. London 13(1): 212. 1821. (21 Jun 1821)	http://www.theplantlist.org/1.1/browse/A/Lardizabalaceae/
+wfo-7000000321	ref-7000000321	Gen. Pl. 80. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Lauraceae/
+wfo-7000000322	ref-7000000322	Dict. Class. Hist. Nat. 9: 259. 1825. (25 Feb 1825)	http://www.theplantlist.org/1.1/browse/A/Lecythidaceae/
+wfo-7000000323	ref-7000000323	Gen. Pl. 345. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Leguminosae/
+wfo-7000000324	ref-7000000324	Fl. Ibér. Briof., Hepát. 1: 703. 1919.	http://www.theplantlist.org/1.1/browse/B/Lejeuneaceae/
+wfo-7000000325	ref-7000000325	Nat. Pflanzenfam. 226[I,3]: 863. 1906.	http://www.theplantlist.org/1.1/browse/B/Lembophyllaceae/
+wfo-7000000326	ref-7000000326	Fl. Paris (ed. fol.) 1: 23. 1808. (18 Jan 1808)	http://www.theplantlist.org/1.1/browse/A/Lentibulariaceae/
+wfo-7000000327	ref-7000000327	Cape Monthly Mag.	http://www.theplantlist.org/1.1/browse/B/Lepicoleaceae/
+wfo-7000000328	ref-7000000328	Bull. Jard. Bot. État Bruxelles 20: 38. 1950. (Jun 1950)	http://www.theplantlist.org/1.1/browse/A/Lepidobotryaceae/
+wfo-7000000329	ref-7000000329	Ord. Fam. Prof. Nakai 200. 1943.	http://www.theplantlist.org/1.1/browse/B/Lepidolaenaceae/
+wfo-7000000330	ref-7000000330	Krypt.-Fl. Schlesien 1: 310. 1877.	http://www.theplantlist.org/1.1/browse/B/Lepidoziaceae/
+wfo-7000000331	ref-7000000331	Coroll. Bryol. Eur. 98. 1856.	http://www.theplantlist.org/1.1/browse/B/Leptodontaceae/
+wfo-7000000332	ref-7000000332	Nat. Pflanzenfam. I(3): 771. 1906.	http://www.theplantlist.org/1.1/browse/B/Lepyrodontaceae/
+wfo-7000000333	ref-7000000333	Coroll. Bryol. Eur. 109. 1856.	http://www.theplantlist.org/1.1/browse/B/Leskeaceae/
+wfo-7000000334	ref-7000000334	Coroll. Bryol. Eur. 108. 1856.	http://www.theplantlist.org/1.1/browse/B/Leucodontaceae/
+wfo-7000000335	ref-7000000335	Nat. Pflanzenfam. I(3): 1095. 1908.	http://www.theplantlist.org/1.1/browse/B/Leucomiaceae/
+wfo-7000000336	ref-7000000336	Gen. Pl. 48. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Liliaceae/
+wfo-7000000337	ref-7000000337	Bot. Rev. (Lancaster) 71: 128. 2005. (20 May 2005)	http://www.theplantlist.org/1.1/browse/A/Limeaceae/
+wfo-7000000338	ref-7000000338	London Edinburgh Philos. Mag. & J. Sci. 3: 70–71. 1833. (Jul 1833)	http://www.theplantlist.org/1.1/browse/A/Limnanthaceae/
+wfo-7000000339	ref-7000000339	Vers. Arzneikr. Pfl. 107. 1818. (May 1818)	http://www.theplantlist.org/1.1/browse/A/Linaceae/
+wfo-7000000340	ref-7000000340	Pl. Biol. (Stuttgart) 7(1): 76. 2005. (28 Jan 2005)	http://www.theplantlist.org/1.1/browse/A/Linderniaceae/
+wfo-7000000341	ref-7000000341	Reis. Br.-Guiana 3: 883, 1048. 1848[1849]. (7-10 Mar 1849)	http://www.theplantlist.org/1.1/browse/P/Lindsaeaceae/
+wfo-7000000342	ref-7000000342	Ann. Mus. Natl. Hist. Nat. 5: 21. 1804.	http://www.theplantlist.org/1.1/browse/A/Loasaceae/
+wfo-7000000343	ref-7000000343	Nov. Gen. Sp. Pl. 2: 133. 1827. (Jan-Jun 1827)	http://www.theplantlist.org/1.1/browse/A/Loganiaceae/
+wfo-7000000344	ref-7000000344	Taxon 5: 25. 1956. (25 Mar 1956)	http://www.theplantlist.org/1.1/browse/P/Lomariopsidaceae/
+wfo-7000000345	ref-7000000345	New Syllab. Pl. Fam 353. 2006. (May 2006)	http://www.theplantlist.org/1.1/browse/P/Lonchitidaceae/
+wfo-7000000346	ref-7000000346	Phytologia 90: 416. 2008. (Dec 2008)	http://www.theplantlist.org/1.1/browse/A/Lophiocarpaceae/
+wfo-7000000347	ref-7000000347	Syllab. Musc.	http://www.theplantlist.org/1.1/browse/B/Lophocoleaceae/
+wfo-7000000348	ref-7000000348	Revista Sudamer. Bot. 10: 4. 1951.	http://www.theplantlist.org/1.1/browse/A/Lophopyxidaceae/
+wfo-7000000349	ref-7000000349	Nomencl. Bot.	http://www.theplantlist.org/1.1/browse/B/Lophoziaceae/
+wfo-7000000350	ref-7000000350	Ann. Mus. Natl. Hist. Nat. 12: 292. 1808.	http://www.theplantlist.org/1.1/browse/A/Loranthaceae/
+wfo-7000000351	ref-7000000351	Fl. Malay. Penin. 4: 291. 1924. (1 Dec 1924)	http://www.theplantlist.org/1.1/browse/A/Lowiaceae/
+wfo-7000000352	ref-7000000352	Gefässbündel Farrn 31. 1847.	http://www.theplantlist.org/1.1/browse/P/Loxsomataceae/
+wfo-7000000353	ref-7000000353	Höh. Crypt. Preuss. 9. 1858.	http://www.theplantlist.org/1.1/browse/B/Lunulariaceae/
+wfo-7000000354	ref-7000000354	Hist. Nat. Vég. 4: 293. 1802. (21 Nov 1802)	http://www.theplantlist.org/1.1/browse/P/Lycopodiaceae/
+wfo-7000000355	ref-7000000355	Handb. Allg. Bot. 3: 520. 1840.	http://www.theplantlist.org/1.1/browse/P/Lygodiaceae/
+wfo-7000000356	ref-7000000356	Expos. Fam. Nat. 2: 175. 1805. (Feb-Apr 1805)	http://www.theplantlist.org/1.1/browse/A/Lythraceae/
+wfo-7000000357	ref-7000000357	Gen. Pl. 280. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Magnoliaceae/
+wfo-7000000358	ref-7000000358	Ist. Bot. Reale Univ. Reale Lab. Crittog. Pavia, Atti	http://www.theplantlist.org/1.1/browse/B/Makinoaceae/
+wfo-7000000359	ref-7000000359	Gen. Pl. 252. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Malpighiaceae/
+wfo-7000000360	ref-7000000360	Gen. Pl. 271. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Malvaceae/
+wfo-7000000361	ref-7000000361	Voy. Terra Austral. 2: 575. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Marantaceae/
+wfo-7000000362	ref-7000000362	Enum. Filic. 31. 1824. (8 Apr-29 May 1824)	http://www.theplantlist.org/1.1/browse/P/Marattiaceae/
+wfo-7000000363	ref-7000000363	Prir. Rostlin 218. 1820. (Jan-Apr 1820)	http://www.theplantlist.org/1.1/browse/A/Marcgraviaceae/
+wfo-7000000364	ref-7000000364	Nat. Syst. Bot. 412. 1836.	http://www.theplantlist.org/1.1/browse/B/Marchantiaceae/
+wfo-7000000365	ref-7000000365	Hist. Nat. Vég. 5: 126. 1802. (21 Nov 1802)	http://www.theplantlist.org/1.1/browse/P/Marsileaceae/
+wfo-7000000366	ref-7000000366	Char. Ess. Fam. 130. 1847. (30 Jun 1847)	http://www.theplantlist.org/1.1/browse/A/Martyniaceae/
+wfo-7000000367	ref-7000000367	36: 345. 1972.	http://www.theplantlist.org/1.1/browse/B/Mastigophoraceae/
+wfo-7000000368	ref-7000000368	Gefässbündel Farrn 32. 1847.	http://www.theplantlist.org/1.1/browse/P/Matoniaceae/
+wfo-7000000369	ref-7000000369	Abh. Königl. Akad. Wiss. Berlin 1840: 93. 1842.	http://www.theplantlist.org/1.1/browse/A/Mayacaceae/
+wfo-7000000370	ref-7000000370	Coroll. Bryol. Eur. 82. 1856.	http://www.theplantlist.org/1.1/browse/B/Meesiaceae/
+wfo-7000000371	ref-7000000371	Bot. Wörterb. 2: 8. 1797.	http://www.theplantlist.org/1.1/browse/A/Melanthiaceae/
+wfo-7000000372	ref-7000000372	Gen. Pl. 328. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Melastomataceae/
+wfo-7000000373	ref-7000000373	Gen. Pl. 263. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Meliaceae/
+wfo-7000000374	ref-7000000374	Prim. Lin. Syst. Nat. 100. 1834. (2 Nov 1834)	http://www.theplantlist.org/1.1/browse/A/Melianthaceae/
+wfo-7000000375	ref-7000000375	Gen. Pl. 284–285. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Menispermaceae/
+wfo-7000000376	ref-7000000376	Anal. Fam. Pl. 20, 25. 1829.	http://www.theplantlist.org/1.1/browse/A/Menyanthaceae/
+wfo-7000000377	ref-7000000377	Bull. Natl. Sci. Mus. Tokyo, B 1: 62. 1975.	http://www.theplantlist.org/1.1/browse/B/Mesoptychiaceae/
+wfo-7000000378	ref-7000000378	Webbia 24(2): 701–702. 1970. (28 Apr 1970)	http://www.theplantlist.org/1.1/browse/P/Metaxyaceae/
+wfo-7000000379	ref-7000000379	Gen. Eur. N.- Amer. Bryin. 7. 1897.	http://www.theplantlist.org/1.1/browse/B/Meteoriaceae/
+wfo-7000000380	ref-7000000380	Iconogr. Fam. Regn. Veg. 2: ad. t. 142. 1860-1870.	http://www.theplantlist.org/1.1/browse/A/Metteniusaceae/
+wfo-7000000381	ref-7000000381	Höh. Crypt. Preuss. 10. 1858.	http://www.theplantlist.org/1.1/browse/B/Metzgeriaceae/
+wfo-7000000382	ref-7000000382	J. Bryol. 9: 523. 1977.	http://www.theplantlist.org/1.1/browse/B/Microtheciellaceae/
+wfo-7000000383	ref-7000000383	Theoria Syst. Pl. 236. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Misodendraceae/
+wfo-7000000384	ref-7000000384	Bot. Mag. (Tokyo) 25(299): 252–253. 1911. (20 Dec 1911)	http://www.theplantlist.org/1.1/browse/A/Mitrastemonaceae/
+wfo-7000000385	ref-7000000385	Nat. Pflanzenfam. I(3): 532. 1903.	http://www.theplantlist.org/1.1/browse/B/Mitteniaceae/
+wfo-7000000386	ref-7000000386	J. Hattori Bot. Lab. 67: 291. 1989.	http://www.theplantlist.org/1.1/browse/B/Mizutaniaceae/
+wfo-7000000387	ref-7000000387	Sp. Musc. Frond. 25. 1830.	http://www.theplantlist.org/1.1/browse/B/Mniaceae/
+wfo-7000000388	ref-7000000388	Beitr. Bot. 2: 158. 1825. (Dec 1825)	http://www.theplantlist.org/1.1/browse/A/Molluginaceae/
+wfo-7000000389	ref-7000000389	Ann. Mus. Natl. Hist. Nat. 14: 133. 1809.	http://www.theplantlist.org/1.1/browse/A/Monimiaceae/
+wfo-7000000390	ref-7000000390	J. S. African Bot. 35: 110. 1961.	http://www.theplantlist.org/1.1/browse/B/Monocarpaceae/
+wfo-7000000391	ref-7000000391	Consp. Musc. Eur.	http://www.theplantlist.org/1.1/browse/B/Monocleaceae/
+wfo-7000000392	ref-7000000392	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/1.1/browse/B/Monosoleniaceae/
+wfo-7000000393	ref-7000000393	Ann. Gén. Sci. Phys. 5: 349. 1820. (Jul-Sep 1820)	http://www.theplantlist.org/1.1/browse/A/Montiaceae/
+wfo-7000000394	ref-7000000394	Chosakuronbun Mokuroku 243. 1943. (20 Jul 1943)	http://www.theplantlist.org/1.1/browse/A/Montiniaceae/
+wfo-7000000395	ref-7000000395	Gen. Pl. 13. 1835.	http://www.theplantlist.org/1.1/browse/A/Moraceae/
+wfo-7000000396	ref-7000000396	Tekhno-Bot. Slovar. 404. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Moringaceae/
+wfo-7000000397	ref-7000000397	Taxon 47(1): 38. 1998. (13 Feb 1998)	http://www.theplantlist.org/1.1/browse/A/Muntingiaceae/
+wfo-7000000398	ref-7000000398	Gen. Pl. 61. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Musaceae/
+wfo-7000000399	ref-7000000399	Tent. Syst. Pl. Vasc. lii. 2001. (23 Dec 2001)	http://www.theplantlist.org/1.1/browse/A/Myodocarpaceae/
+wfo-7000000400	ref-7000000400	Nov. Gen. Sp. (quarto ed.) 2: 16. 1817. (28 Apr 1817)	http://www.theplantlist.org/1.1/browse/A/Myricaceae/
+wfo-7000000401	ref-7000000401	Syn. Musc. Eur. (ed. 2) CXI, 589. 1876.	http://www.theplantlist.org/1.1/browse/B/Myriniaceae/
+wfo-7000000402	ref-7000000402	Prodr. 399. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Myristicaceae/
+wfo-7000000403	ref-7000000403	Nat. Pflanzenfam. 3(2a): 103. 1891. (9 Mar 1891)	http://www.theplantlist.org/1.1/browse/A/Myrothamnaceae/
+wfo-7000000404	ref-7000000404	Gen. Pl. 322–323. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Myrtaceae/
+wfo-7000000405	ref-7000000405	Musci Buitenzorg 4: 1663. 1923.	http://www.theplantlist.org/1.1/browse/B/Myuriaceae/
+wfo-7000000406	ref-7000000406	Skand. Vaxtfam. 64. 1846.	http://www.theplantlist.org/1.1/browse/A/Nartheciaceae/
+wfo-7000000407	ref-7000000407	Coroll. Bryol. Eur. 99. 1856.	http://www.theplantlist.org/1.1/browse/B/Neckeraceae/
+wfo-7000000408	ref-7000000408	Dict. Class. Hist. Nat. 11: 492. 1827. (10 Feb 1827)	http://www.theplantlist.org/1.1/browse/A/Nelumbonaceae/
+wfo-7000000409	ref-7000000409	Ill. Jap. Hepat. 1: 176. 1974.	http://www.theplantlist.org/1.1/browse/B/Neotrichocoleaceae/
+wfo-7000000410	ref-7000000410	Anal. Fam. Pl. 14, 16. 1829.	http://www.theplantlist.org/1.1/browse/A/Nepenthaceae/
+wfo-7000000411	ref-7000000411	Webbia 29(1): 8–11. 1974[1975]. (10 Feb 1975)	http://www.theplantlist.org/1.1/browse/P/Nephrolepidaceae/
+wfo-7000000412	ref-7000000412	Allg. Med.-Pharm. Fl. 4: 1476. 1835. (Jan-Oct 1835)	http://www.theplantlist.org/1.1/browse/A/Neuradaceae/
+wfo-7000000413	ref-7000000413	Intr. Nat. Syst. Bot. 149. 1830. (27 Sep 1830)	http://www.theplantlist.org/1.1/browse/A/Nitrariaceae/
+wfo-7000000414	ref-7000000414	First Intern. Conf. Palinol. Reports Soviet Palinol. 21. 1962. (28 Dec 1962)	http://www.theplantlist.org/1.1/browse/A/Nothofagaceae/
+wfo-7000000415	ref-7000000415	Lebermoose Erg. 200. 1940.	http://www.theplantlist.org/1.1/browse/B/Notothyladaceae/
+wfo-7000000416	ref-7000000416	Gen. Pl. 90. 1789. (4 Nov 1789)	http://www.theplantlist.org/1.1/browse/A/Nyctaginaceae/
+wfo-7000000417	ref-7000000417	Ann. Bot. (König & Sims) 2: 70. 1805. (Jun 1805)	http://www.theplantlist.org/1.1/browse/A/Nymphaeaceae/
+wfo-7000000418	ref-7000000418	Nouv. Bull. Sci. Soc. Philom. Paris 2: 209. 1811. (Jan 1811)	http://www.theplantlist.org/1.1/browse/A/Ochnaceae/
+wfo-7000000419	ref-7000000419	Cuscatlania 1(5): 10. 1991.	http://www.theplantlist.org/1.1/browse/B/Octoblepharaceae/
+wfo-7000000420	ref-7000000420	Syn. Musc. Eur. (ed. 2) XCVIII, 354. 1876.	http://www.theplantlist.org/1.1/browse/B/Oedipodiaceae/
+wfo-7000000421	ref-7000000421	Narr. Exped. Zaire 452. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Olacaceae/
+wfo-7000000422	ref-7000000422	Fl. Portug. 1: 62. 1809. (1 Sept 1809)	http://www.theplantlist.org/1.1/browse/A/Oleaceae/
+wfo-7000000423	ref-7000000423	Webbia 20(2): 745. 1965. (20 Dec 1965)	http://www.theplantlist.org/1.1/browse/P/Oleandraceae/
+wfo-7000000424	ref-7000000424	Gen. Pl. 317–318. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Onagraceae/
+wfo-7000000425	ref-7000000425	Kew Bull. 18(2): 264. 1965. (8 Dec 1965)	http://www.theplantlist.org/1.1/browse/A/Oncothecaceae/
+wfo-7000000426	ref-7000000426	Webbia 24: 708. 1970. (28 Apr 1970)	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/
+wfo-7000000427	ref-7000000427	Tekhno-Bot. Slovar. 438. 1820. (27 Mar 1820)	http://www.theplantlist.org/1.1/browse/P/Ophioglossaceae/
+wfo-7000000428	ref-7000000428	Crit. Overz. Olacin. 136. 1886. (7 Jul 1886)	http://www.theplantlist.org/1.1/browse/A/Opiliaceae/
+wfo-7000000429	ref-7000000429	Gen. Pl. 64–65. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Orchidaceae/
+wfo-7000000430	ref-7000000430	Tabl. Regn. Veg. 2: 292. 1799. (5 May 1799)	http://www.theplantlist.org/1.1/browse/A/Orobanchaceae/
+wfo-7000000431	ref-7000000431	J. Taiwan Mus. 36(2): 74. 1983.	http://www.theplantlist.org/1.1/browse/B/Orthorrhynchiaceae/
+wfo-7000000432	ref-7000000432	Disp. Méth. Mousses 13. 1825.	http://www.theplantlist.org/1.1/browse/B/Orthotrichaceae/
+wfo-7000000433	ref-7000000433	Tekhno-Bot. Slovar. 445. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/P/Osmundaceae/
+wfo-7000000434	ref-7000000434	Narr. Exped. Zaire 433. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Oxalidaceae/
+wfo-7000000436	ref-7000000436	Anal. Nat. 176. 1815. (Apr-Jul 1815)	http://www.theplantlist.org/1.1/browse/A/Paeoniaceae/
+wfo-7000000437	ref-7000000437	Krypt.-Fl. Deutschl., Moose 423. 1904.	http://www.theplantlist.org/1.1/browse/B/Pallaviciniaceae/
+wfo-7000000438	ref-7000000438	Syllabus (ed. 7) 223. 1912-1913. (Oct 1913-Mar 1913)	http://www.theplantlist.org/1.1/browse/A/Pandaceae/
+wfo-7000000439	ref-7000000439	Prodr. 340. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Pandanaceae/
+wfo-7000000440	ref-7000000440	Gen. Pl. 235–236. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Papaveraceae/
+wfo-7000000441	ref-7000000441	Kew Bull. 18: 265. 1965. (8 Dec 1965)	http://www.theplantlist.org/1.1/browse/A/Paracryphiaceae/
+wfo-7000000442	ref-7000000442	Fl. Calvados (ed. 2) 334. 1806. (30 May 1806)	http://www.theplantlist.org/1.1/browse/A/Passifloraceae/
+wfo-7000000443	ref-7000000443	J. Jap. Bot. 24: 13. 1949. (10 Dec 1949)	http://www.theplantlist.org/1.1/browse/A/Paulowniaceae/
+wfo-7000000444	ref-7000000444	Prodr. 519. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Pedaliaceae/
+wfo-7000000445	ref-7000000445	Höh. Crypt. Preuss. 13. 1858.	http://www.theplantlist.org/1.1/browse/B/Pelliaceae/
+wfo-7000000446	ref-7000000446	Dict. Class. Hist. Nat. 13: 171. 1828. (1 Mar 1828)	http://www.theplantlist.org/1.1/browse/A/Penaeaceae/
+wfo-7000000447	ref-7000000447	Theoria Syst. Pl. 301. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Pennantiaceae/
+wfo-7000000448	ref-7000000448	Fl. W. Trop. Afr. 1: 461. 1928. (Jul 1928)	http://www.theplantlist.org/1.1/browse/A/Pentadiplandraceae/
+wfo-7000000449	ref-7000000449	Theoria Syst. Pl. 95. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Pentaphragmataceae/
+wfo-7000000450	ref-7000000450	Nat. Pflanzenfam., Nachträge 1: 214. 1897. (4 Oct 1897)	http://www.theplantlist.org/1.1/browse/A/Pentaphylacaceae/
+wfo-7000000451	ref-7000000451	Man. Fl. N. States 475. 1901. (16 Oct 1901)	http://www.theplantlist.org/1.1/browse/A/Penthoraceae/
+wfo-7000000452	ref-7000000452	Monatsber. Königl. Preuss. Akad. Wiss. Berlin 1859: 241, 246. 1859. (10-30 Mar 1859)	http://www.theplantlist.org/1.1/browse/A/Peraceae/
+wfo-7000000453	ref-7000000453	Arq. Serv. Florest. 3: 4. 1950.	http://www.theplantlist.org/1.1/browse/A/Peridiscaceae/
+wfo-7000000454	ref-7000000454	Bot. J. Linn. Soc. 164: 23–24, f. 1, 3. 2010.	http://www.theplantlist.org/1.1/browse/A/Petenaeaceae/
+wfo-7000000455	ref-7000000455	Fam. Fl. Pl., Monocot. 2: 113. 1934. (20 Aug 1934)	http://www.theplantlist.org/1.1/browse/A/Petermanniaceae/
+wfo-7000000456	ref-7000000456	Fam. Fl. Pl., Monocot. 2: 36. 1934. (20 Aug 1934)	http://www.theplantlist.org/1.1/browse/A/Petrosaviaceae/
+wfo-7000000457	ref-7000000457	Sist. Filog. Cvetk. Rast. 343, 374. 1967. (4 Feb 1967)	http://www.theplantlist.org/1.1/browse/A/Phellinaceae/
+wfo-7000000458	ref-7000000458	Anal. Fam. Pl. 53, 54, 97. 1829.	http://www.theplantlist.org/1.1/browse/A/Philesiaceae/
+wfo-7000000459	ref-7000000459	Enum. Hort. Berol. Alt. 1: 5. 1821. (16 Mar-30 Jun 1821)	http://www.theplantlist.org/1.1/browse/A/Philydraceae/
+wfo-7000000460	ref-7000000460	Prodr. 11: 520. 1847. (25 Nov 1847)	http://www.theplantlist.org/1.1/browse/A/Phrymaceae/
+wfo-7000000461	ref-7000000461	Tekhno-Bot. Slovar. 369. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Phyllanthaceae/
+wfo-7000000462	ref-7000000462	Rev. Bryol. Lichénol. 37: 347. 1970[1971].	http://www.theplantlist.org/1.1/browse/B/Phyllodrepaniaceae/
+wfo-7000000463	ref-7000000463	Bot. Centralbl. 76: 85. 1898.	http://www.theplantlist.org/1.1/browse/B/Phyllogoniaceae/
+wfo-7000000464	ref-7000000464	N. Amer. Fl. 22(1): 2. 1905. (22 May 1905)	http://www.theplantlist.org/1.1/browse/A/Phyllonomaceae/
+wfo-7000000465	ref-7000000465	Bot. Žhurn. (Moscow & Leningrad) 70: 1692. 1985. (13 Dec 1985)	http://www.theplantlist.org/1.1/browse/A/Physenaceae/
+wfo-7000000466	ref-7000000466	Narr. Exped. Zaire 454. 1818. (5 Mar 1818)	http://www.theplantlist.org/1.1/browse/A/Phytolaccaceae/
+wfo-7000000467	ref-7000000467	Taxon 44: 177. 1995. (15 May 1995)	http://www.theplantlist.org/1.1/browse/A/Picramniaceae/
+wfo-7000000468	ref-7000000468	J. New York Bot. Gard. 18(212): 184. 1917. (Aug 1917)	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/
+wfo-7000000469	ref-7000000469	Bot. Centralbl. 77(2): 54. 1899.	http://www.theplantlist.org/1.1/browse/B/Pilotrichaceae/
+wfo-7000000470	ref-7000000470	Syst. Orb. Veg. 35. 1830. (5-12 Jul 1830)	http://www.theplantlist.org/1.1/browse/G/Pinaceae/
+wfo-7000000471	ref-7000000471	Prae. Ord. Nat. Pl. 123. 1792. (Apr 1792)	http://www.theplantlist.org/1.1/browse/A/Piperaceae/
+wfo-7000000472	ref-7000000472	Voy. Terra Austral. 2: 542. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Pittosporaceae/
+wfo-7000000473	ref-7000000473	Leberm. Eur. 877. 1956.	http://www.theplantlist.org/1.1/browse/B/Plagiochilaceae/
+wfo-7000000474	ref-7000000474	Ann. Bot. (Oxford) 40: 484. 1926. (Apr 1926)	http://www.theplantlist.org/1.1/browse/P/Plagiogyriaceae/
+wfo-7000000475	ref-7000000475	Nova Guinea 8(2): 748. 1912.	http://www.theplantlist.org/1.1/browse/B/Plagiotheciaceae/
+wfo-7000000476	ref-7000000476	Gen. Pl. 89–90. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Plantaginaceae/
+wfo-7000000477	ref-7000000477	Botanogr. Élém. 526. 1826. (12-19 Jun 1826)	http://www.theplantlist.org/1.1/browse/A/Platanaceae/
+wfo-7000000478	ref-7000000478	Nat. Pflanzenfam. I(3): 774. 1906.	http://www.theplantlist.org/1.1/browse/B/Pleurophascaceae/
+wfo-7000000479	ref-7000000479	Lebermoose 6: 404. 1909.	http://www.theplantlist.org/1.1/browse/B/Pleuroziaceae/
+wfo-7000000480	ref-7000000480	J. Hattori Bot. Lab. 31: 62–63. 1968.	http://www.theplantlist.org/1.1/browse/B/Pleuroziopsaceae/
+wfo-7000000481	ref-7000000481	Fam. Fl. Pl. (ed. 3) 469. 1973. (Jan-Jun 1973)	http://www.theplantlist.org/1.1/browse/A/Plocospermataceae/
+wfo-7000000482	ref-7000000482	Gen. Pl. 92. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Plumbaginaceae/
+wfo-7000000483	ref-7000000483	Bull. Torrey Bot. Club 22: 7. 1895. (15 Jan 1895)	http://www.theplantlist.org/1.1/browse/A/Poaceae/
+wfo-7000000484	ref-7000000484	Syn. Conif. 203. 1847. (May-Jun 1847)	http://www.theplantlist.org/1.1/browse/G/Podocarpaceae/
+wfo-7000000485	ref-7000000485	Nov. Gen. Sp. (quarto ed.) 1: 246. 1816. (4-11 May 1816)	http://www.theplantlist.org/1.1/browse/A/Podostemaceae/
+wfo-7000000486	ref-7000000486	Gen. Pl. 136. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Polemoniaceae/
+wfo-7000000487	ref-7000000487	Fl. Portug. 1: 62. 1809. (1 Sep 1809)	http://www.theplantlist.org/1.1/browse/A/Polygalaceae/
+wfo-7000000488	ref-7000000488	Gen. Pl. 82. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Polygonaceae/
+wfo-7000000489	ref-7000000489	Delic. Prag. 159. 1822. (Jul 1822)	http://www.theplantlist.org/1.1/browse/P/Polypodiaceae/
+wfo-7000000490	ref-7000000490	Sp. Musc. Frond. 1. 1830.	http://www.theplantlist.org/1.1/browse/B/Polytrichaceae/
+wfo-7000000491	ref-7000000491	Nov. Gen. Sp. (quarto ed.) 1: 265. 1815[1816].	http://www.theplantlist.org/1.1/browse/A/Pontederiaceae/
+wfo-7000000492	ref-7000000492	New Phytol. 9: 292. 1910.	http://www.theplantlist.org/1.1/browse/B/Porellaceae/
+wfo-7000000493	ref-7000000493	Gen. Pl. 312. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Portulacaceae/
+wfo-7000000494	ref-7000000494	Stud. Text-book Bot. 553. 1895. (Mar 1895)	http://www.theplantlist.org/1.1/browse/A/Posidoniaceae/
+wfo-7000000495	ref-7000000495	Přir. Rostlin 1(7): [1], 3. 1823.	http://www.theplantlist.org/1.1/browse/A/Potamogetonaceae/
+wfo-7000000496	ref-7000000496	Coroll. Bryol. Eur. 24. 1856.	http://www.theplantlist.org/1.1/browse/B/Pottiaceae/
+wfo-7000000497	ref-7000000497	Bot. Wörterb. 2: 240. 1797.	http://www.theplantlist.org/1.1/browse/A/Primulaceae/
+wfo-7000000498	ref-7000000498	Nat. Pflanzenfam. I(3): 763. 1905.	http://www.theplantlist.org/1.1/browse/B/Prionodontaceae/
+wfo-7000000499	ref-7000000499	Gen. Pl. 78. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Proteaceae/
+wfo-7000000500	ref-7000000500	Bryologist 78(4): [489]–490. 1975[1976].	http://www.theplantlist.org/1.1/browse/B/Pseudoditrichaceae/
+wfo-7000000501	ref-7000000501	Nova Hedwigia 1: 411. 1960.	http://www.theplantlist.org/1.1/browse/B/Pseudolepicoleaceae/
+wfo-7000000502	ref-7000000502	Microgr. Dict. 540. 1855. (1 Nov 1855)	http://www.theplantlist.org/1.1/browse/P/Psilotaceae/
+wfo-7000000503	ref-7000000503	Schul-Bot. 109. 1831.	http://www.theplantlist.org/1.1/browse/P/Pteridaceae/
+wfo-7000000504	ref-7000000504	Syn. Musc. Eur. (ed. 2) CXIII, 618. 1876.	http://www.theplantlist.org/1.1/browse/B/Pterigynandraceae/
+wfo-7000000505	ref-7000000505	Eur. N. Amer. Bryin. 15. 1897.	http://www.theplantlist.org/1.1/browse/B/Pterobryaceae/
+wfo-7000000506	ref-7000000506	Höh. Crypt. Preuss. 37. 1858.	http://www.theplantlist.org/1.1/browse/B/Ptilidiaceae/
+wfo-7000000507	ref-7000000507	Syn. Musc. Eur. 241. 1860.	http://www.theplantlist.org/1.1/browse/B/Ptychomitriaceae/
+wfo-7000000508	ref-7000000508	Musci Buitenzorg 3: 656. 1908.	http://www.theplantlist.org/1.1/browse/B/Ptychomniaceae/
+wfo-7000000509	ref-7000000509	Ench. Bot. 174. 1841.	http://www.theplantlist.org/1.1/browse/A/Putranjivaceae/
+wfo-7000000510	ref-7000000510	Edinburgh New Philos. J. 10: 229. 1831.	http://www.theplantlist.org/1.1/browse/A/Quillajaceae/
+wfo-7000000511	ref-7000000511	Bot. Centralbl. 76(3): 85. 1898.	http://www.theplantlist.org/1.1/browse/B/Racopilaceae/
+wfo-7000000512	ref-7000000512	Lebermoose 1: 404. 1909.	http://www.theplantlist.org/1.1/browse/B/Radulaceae/
+wfo-7000000513	ref-7000000513	Anal. Fam. Pl. 13–14. 1829.	http://www.theplantlist.org/1.1/browse/A/Rafflesiaceae/
+wfo-7000000514	ref-7000000514	Gen. Pl. 231. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Ranunculaceae/
+wfo-7000000515	ref-7000000515	Anal. Fam. Pl. 60, 62. 1829.	http://www.theplantlist.org/1.1/browse/A/Rapateaceae/
+wfo-7000000516	ref-7000000516	Nat. Pflanzenfam. I(3): 1125. 1908.	http://www.theplantlist.org/1.1/browse/B/Regmatodontaceae/
+wfo-7000000517	ref-7000000517	Tekhno-Bot. Slovar. 541. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Resedaceae/
+wfo-7000000518	ref-7000000518	Prodr. 243. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Restionaceae/
+wfo-7000000519	ref-7000000519	Bull. Jard. Bot. État Bruxelles 38: 141–142. 1968. (30 Jun 1968)	http://www.theplantlist.org/1.1/browse/A/Rhabdodendraceae/
+wfo-7000000520	ref-7000000520	Laubm. Deutschl. 1: 271. 1886.	http://www.theplantlist.org/1.1/browse/B/Rhabdoweisiaceae/
+wfo-7000000521	ref-7000000521	Phytotaxa 19: 16. 2011. (18 Feb 2011)	http://www.theplantlist.org/1.1/browse/P/Rhachidosoraceae/
+wfo-7000000522	ref-7000000522	Bryologist 67: 448. 1964.	http://www.theplantlist.org/1.1/browse/B/Rhachitheciaceae/
+wfo-7000000523	ref-7000000523	Bot. Centralbl. 77: 55. 1899.	http://www.theplantlist.org/1.1/browse/B/Rhacocarpaceae/
+wfo-7000000524	ref-7000000524	Gen. Pl. 376–377. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Rhamnaceae/
+wfo-7000000525	ref-7000000525	Nordic J. Bot. 5: 219. 1985. (25 Oct 1985)	http://www.theplantlist.org/1.1/browse/A/Rhipogonaceae/
+wfo-7000000526	ref-7000000526	Nat. Pflanzenfam. 219[I,3]: 614. 1904.	http://www.theplantlist.org/1.1/browse/B/Rhizogoniaceae/
+wfo-7000000527	ref-7000000527	Syn. Pl. 2(1): 2. 1806. (Nov 1806)	http://www.theplantlist.org/1.1/browse/A/Rhizophoraceae/
+wfo-7000000528	ref-7000000528	Bot. Damen 255. 1828.	http://www.theplantlist.org/1.1/browse/B/Ricciaceae/
+wfo-7000000530	ref-7000000530	Bryologist 84: 392. 1981.	http://www.theplantlist.org/1.1/browse/B/Rigodiaceae/
+wfo-7000000531	ref-7000000531	Tekhno-Bot. Slovar. 549. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Roridulaceae/
+wfo-7000000532	ref-7000000532	Gen. Pl. 334. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Rosaceae/
+wfo-7000000533	ref-7000000533	Prodr. 7(2): 521. 1839. (Dec 1839)	http://www.theplantlist.org/1.1/browse/A/Rousseaceae/
+wfo-7000000534	ref-7000000534	Gen. Pl. 196. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Rubiaceae/
+wfo-7000000535	ref-7000000535	Prim. Lin. Syst. Nat. 46. 1834. (2 Nov 1834)	http://www.theplantlist.org/1.1/browse/A/Ruppiaceae/
+wfo-7000000536	ref-7000000536	Gen. Pl. 296. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Rutaceae/
+wfo-7000000537	ref-7000000537	Musci Buitenzorg 3: 725–726. 1908.	http://www.theplantlist.org/1.1/browse/B/Rutenbergiaceae/
+wfo-7000000538	ref-7000000538	Mus. Bot. 1: 368. 1851.	http://www.theplantlist.org/1.1/browse/A/Sabiaceae/
+wfo-7000000539	ref-7000000539	Phytologia 90: 417. 2008. (Dec 2008)	http://www.theplantlist.org/1.1/browse/P/Saccolomataceae/
+wfo-7000000540	ref-7000000540	Elém. Physiol. Vég. Bot. 2: 905. 1815. (24-30 Jun 1815)	http://www.theplantlist.org/1.1/browse/A/Salicaceae/
+wfo-7000000541	ref-7000000541	Intr. Nat. Syst. Bot. (ed. 2) 269. 1836. (13 Jun 1836)	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/
+wfo-7000000542	ref-7000000542	Tekhno-Bot. Slovar. 559. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/P/Salviniaceae/
+wfo-7000000543	ref-7000000543	Prodr. 305. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Santalaceae/
+wfo-7000000544	ref-7000000544	Gen. Pl. 246. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Sapindaceae/
+wfo-7000000545	ref-7000000545	Gen. Pl. 151. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Sapotaceae/
+wfo-7000000546	ref-7000000546	Taxon 46(3): 503. 1997. (Aug 1997)	http://www.theplantlist.org/1.1/browse/A/Sarcobataceae/
+wfo-7000000547	ref-7000000547	Atti Reale Accad. Lincei, Mem. Cl. Sci. Fis., ser. 3, 10: 226, 248. 1881. (5 Jun 1881)	http://www.theplantlist.org/1.1/browse/A/Sarcolaenaceae/
+wfo-7000000548	ref-7000000548	Anal. Fam. Pl. 53. 1829.	http://www.theplantlist.org/1.1/browse/A/Sarraceniaceae/
+wfo-7000000549	ref-7000000549	Botanogr. Élém. 453. 1826. (12-19 Jun 1826)	http://www.theplantlist.org/1.1/browse/A/Saururaceae/
+wfo-7000000550	ref-7000000550	Gen. Pl. 308. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Saxifragaceae/
+wfo-7000000551	ref-7000000551	Krypt.-Fl. Deutschl., Moose 479. 1904.	http://www.theplantlist.org/1.1/browse/B/Scapaniaceae/
+wfo-7000000552	ref-7000000552	Syst. Orb. Veg. 28. 1830. (5-12 Jul 1830)	http://www.theplantlist.org/1.1/browse/A/Scheuchzeriaceae/
+wfo-7000000553	ref-7000000553	Fl. Javae 32–33: 3. 1830. (25 Jun 1830)	http://www.theplantlist.org/1.1/browse/A/Schisandraceae/
+wfo-7000000554	ref-7000000554	Nat. Pflanzenfam.	http://www.theplantlist.org/1.1/browse/B/Schistochilaceae/
+wfo-7000000555	ref-7000000555	Coroll. Bryol. Eur. 54. 1856.	http://www.theplantlist.org/1.1/browse/B/Schistostegaceae/
+wfo-7000000556	ref-7000000556	Wesen Farrenkr. 119. 1827. (Jul-Sep 1827)	http://www.theplantlist.org/1.1/browse/P/Schizaeaceae/
+wfo-7000000557	ref-7000000557	Phytologia 79(2): 74–75. 1996. (29 Apr 1996)	http://www.theplantlist.org/1.1/browse/A/Schlegeliaceae/
+wfo-7000000558	ref-7000000558	Mus. Bot. 1: 175. 1850.	http://www.theplantlist.org/1.1/browse/A/Schoepfiaceae/
+wfo-7000000559	ref-7000000559	Grundz. Bot. 265. 1877.	http://www.theplantlist.org/1.1/browse/G/Sciadopityaceae/
+wfo-7000000560	ref-7000000560	Arctoa 11(Supplement 2): 942. 2004.	http://www.theplantlist.org/1.1/browse/B/Scorpidiaceae/
+wfo-7000000561	ref-7000000561	Gen. Pl. 117–118. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Scrophulariaceae/
+wfo-7000000562	ref-7000000562	Anleit. Stud. Bot. 2: 163. 1854. (Feb 1854)	http://www.theplantlist.org/1.1/browse/P/Selaginellaceae/
+wfo-7000000563	ref-7000000563	Coroll. Bryol. Eur. 22. 1856.	http://www.theplantlist.org/1.1/browse/B/Seligeriaceae/
+wfo-7000000564	ref-7000000564	Nat. Pflanzenfam. 232/233[I,3]: 1098. 1908.	http://www.theplantlist.org/1.1/browse/B/Sematophyllaceae/
+wfo-7000000565	ref-7000000565	Bryologist 90. 1987[1988].	http://www.theplantlist.org/1.1/browse/B/Serpotortellaceae/
+wfo-7000000566	ref-7000000566	Taxon 48(2): 260. 1999. (17 May 1999)	http://www.theplantlist.org/1.1/browse/A/Setchellanthaceae/
+wfo-7000000567	ref-7000000567	Nouv. Bull. Sci. Soc. Philom. Paris 2: 209. 1811. (Jan 1811)	http://www.theplantlist.org/1.1/browse/A/Simaroubaceae/
+wfo-7000000568	ref-7000000568	Bot. Jahresber. (Just) 25(2): 422. 1899. (Oct-Dec 1899)	http://www.theplantlist.org/1.1/browse/A/Simmondsiaceae/
+wfo-7000000569	ref-7000000569	Taxon 19: 325. 1970. (29 Jun 1970)	http://www.theplantlist.org/1.1/browse/A/Siparunaceae/
+wfo-7000000570	ref-7000000570	Kew Bull. 18: 267. 1965. (8 Dec 1965)	http://www.theplantlist.org/1.1/browse/A/Sladeniaceae/
+wfo-7000000571	ref-7000000571	Tabl. Regn. Veg. 2: 146. 1799. (5 May 1799)	http://www.theplantlist.org/1.1/browse/A/Smilacaceae/
+wfo-7000000572	http://solanaceaesource.org/content/fam-pl-adanson-2-215-1763	Fam. Pl. (Adanson) 2: 215. 1763 (Jul-Aug 1763)	http://solanaceaesource.org
+wfo-7000000573	ref-7000000573	Musci Buitenzorg 3: 847. 1908.	http://www.theplantlist.org/1.1/browse/B/Sorapillaceae/
+wfo-7000000574	ref-7000000574	Verh. K.K. Zool.-Bot. Ges. Wien 41: 573. 1891.	http://www.theplantlist.org/1.1/browse/B/Sphaerocarpaceae/
+wfo-7000000575	ref-7000000575	Taxon 8: 200. 1959. (24 Jul 1959)	http://www.theplantlist.org/1.1/browse/A/Sphaerosepalaceae/
+wfo-7000000576	ref-7000000576	Anal. Fam. Pl. 68. 1829.	http://www.theplantlist.org/1.1/browse/B/Sphagnaceae/
+wfo-7000000577	ref-7000000577	Affin. Pl. 110. 1839.	http://www.theplantlist.org/1.1/browse/A/Sphenocleaceae/
+wfo-7000000578	ref-7000000578	Bot. Centralbl. 76: 85. 1898.	http://www.theplantlist.org/1.1/browse/B/Spiridentaceae/
+wfo-7000000579	ref-7000000579	Mem. Wern. Nat. Hist. Soc. 5: 442. 1824.	http://www.theplantlist.org/1.1/browse/B/Splachnaceae/
+wfo-7000000580	ref-7000000580	Ann. Bot. Fenn. 18: 128. 1981.	http://www.theplantlist.org/1.1/browse/B/Splachnobryaceae/
+wfo-7000000581	ref-7000000581	Theoria Syst. Pl. 152. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Stachyuraceae/
+wfo-7000000582	ref-7000000582	Tekhno-Bot. Slovar. 598. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Staphyleaceae/
+wfo-7000000583	ref-7000000583	J. Jap. Bot. 18: 108. 1942. (Mar 1942)	http://www.theplantlist.org/1.1/browse/A/Stegnospermataceae/
+wfo-7000000584	ref-7000000584	Nuovo Giorn. Bot. Ital. 10: 94. 1878. (Apr 1878)	http://www.theplantlist.org/1.1/browse/A/Stemonaceae/
+wfo-7000000585	ref-7000000585	Amer. J. Bot. 88: 2267. 2001. (14 Dec 2001)	http://www.theplantlist.org/1.1/browse/A/Stemonuraceae/
+wfo-7000000586	ref-7000000586	Nova Hedwigia 41: 95. 1985.	http://www.theplantlist.org/1.1/browse/B/Stereophyllaceae/
+wfo-7000000587	ref-7000000587	Handb. Bot. 393. 1831. (21-28 Sep 1831)	http://www.theplantlist.org/1.1/browse/A/Stilbaceae/
+wfo-7000000588	ref-7000000588	Syst. Anat. Dicot. Erganz. 45. 1908. (9 May 1908)	http://www.theplantlist.org/1.1/browse/A/Strasburgeriaceae/
+wfo-7000000589	ref-7000000589	Fam. Fl. Pl., Monocot. 2: 72. 1934. (20 Aug 1934)	http://www.theplantlist.org/1.1/browse/A/Strelitziaceae/
+wfo-7000000590	ref-7000000590	Prodr. 565. 1810. (27 Mar 1810)	http://www.theplantlist.org/1.1/browse/A/Stylidiaceae/
+wfo-7000000591	ref-7000000591	Elem. Philos. Pl. 140. 1821. (Jul 1821)	http://www.theplantlist.org/1.1/browse/A/Styracaceae/
+wfo-7000000592	ref-7000000592	Prodr. Fl. Ind. Orient. 360. 1834. (10 Oct 1834)	http://www.theplantlist.org/1.1/browse/A/Surianaceae/
+wfo-7000000593	ref-7000000593	Mém. Mus. Hist. Nat. 6: 9. 1820.	http://www.theplantlist.org/1.1/browse/A/Symplocaceae/
+wfo-7000000594	ref-7000000594	J. Hattori Bot. Lab. 19: 137. 1958.	http://www.theplantlist.org/1.1/browse/B/Takakiaceae/
+wfo-7000000595	ref-7000000595	Tent. Syst. Pl. Vasc. xlii. 2001. (23 Dec 2003)	http://www.theplantlist.org/1.1/browse/A/Talinaceae/
+wfo-7000000596	ref-7000000596	Enum. Hort. Berol. Alt. 1: 291. 1821. (16 Mar-30 Jun 1821)	http://www.theplantlist.org/1.1/browse/A/Tamaricaceae/
+wfo-7000000597	ref-7000000597	Sist. Magnol. 171. 1987. (24 Jun 1987)	http://www.theplantlist.org/1.1/browse/A/Tapisciaceae/
+wfo-7000000598	ref-7000000598	Anal. Fam. Pl. 68. 1829.	http://www.theplantlist.org/1.1/browse/B/Targioniaceae/
+wfo-7000000599	ref-7000000599	Nat. Arr. Brit. Pl. 2: 222, 226. 1822. (10 Jan 1822)	http://www.theplantlist.org/1.1/browse/G/Taxaceae/
+wfo-7000000600	ref-7000000600	Bonplandia (Hannover) 10: 370. 1862.	http://www.theplantlist.org/1.1/browse/A/Tecophilaeaceae/
+wfo-7000000601	ref-7000000601	J. Orissa Bot. Soc. 8: 41. 1986.	http://www.theplantlist.org/1.1/browse/P/Tectariaceae/
+wfo-7000000602	ref-7000000602	Handb. Skand. Fl. (ed. 3) 2: 807. 1924. (Jun-Sep 1924)	http://www.theplantlist.org/1.1/browse/A/Tetrachondraceae/
+wfo-7000000603	ref-7000000603	Kew Bull. 18: 267. 1965. (8 Dec 1965)	http://www.theplantlist.org/1.1/browse/A/Tetramelaceae/
+wfo-7000000604	ref-7000000604	Fam. Fl. Pl., Dicot. (ed. 2) 2: 277. 1959. (4 Jun 1959)	http://www.theplantlist.org/1.1/browse/A/Tetrameristaceae/
+wfo-7000000605	ref-7000000605	Coroll. Bryol. Eur. 37. 1856.	http://www.theplantlist.org/1.1/browse/B/Tetraphidaceae/
+wfo-7000000606	ref-7000000606	Bekn. Fl. Ned. Blad. & Leverm. 443. 1982.	http://www.theplantlist.org/1.1/browse/B/Thamnobryaceae/
+wfo-7000000607	ref-7000000607	Bot. Reg. 2: sub t. 112. 1816. (1 May 1816)	http://www.theplantlist.org/1.1/browse/A/Theaceae/
+wfo-7000000608	ref-7000000608	Musci Buitenzorg 4: 1485–1486. 1922[1923].	http://www.theplantlist.org/1.1/browse/B/Theliaceae/
+wfo-7000000609	ref-7000000609	Webbia 24: 709. 1970. (28 Apr 1970)	http://www.theplantlist.org/1.1/browse/P/Thelypteridaceae/
+wfo-7000000610	ref-7000000610	Phytologia 37: 413–416. 1977. (22 Oct 1977)	http://www.theplantlist.org/1.1/browse/A/Thomandersiaceae/
+wfo-7000000611	ref-7000000611	Syn. Musc. Eur. 493. 1860.	http://www.theplantlist.org/1.1/browse/B/Thuidiaceae/
+wfo-7000000612	ref-7000000612	Syllabus (ed. 5) 94. 1907. (20-22 Jul 1907)	http://www.theplantlist.org/1.1/browse/A/Thurniaceae/
+wfo-7000000613	ref-7000000613	Gen. Pl. 76. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Thymelaeaceae/
+wfo-7000000614	ref-7000000614	Gefässbündel Farrn 22, 38. 1847.	http://www.theplantlist.org/1.1/browse/P/Thyrsopteridaceae/
+wfo-7000000615	ref-7000000615	Ann. Missouri Bot. Gard. 78(1): 87. 1991. (26 Feb 1991)	http://www.theplantlist.org/1.1/browse/A/Ticodendraceae/
+wfo-7000000616	ref-7000000616	Coroll. Bryol. Eur. 87. 1856.	http://www.theplantlist.org/1.1/browse/B/Timmiaceae/
+wfo-7000000617	ref-7000000617	Bot. Žhurn. (Moscow & Leningrad) 17(12): 65. 1995. (Jan-Jul 1995)	http://www.theplantlist.org/1.1/browse/A/Tofieldiaceae/
+wfo-7000000618	ref-7000000618	Bull. Fan Mem. Inst. Biol., Bot. 5: 311. 1934. (20 Jul 1934)	http://www.theplantlist.org/1.1/browse/A/Torricelliaceae/
+wfo-7000000619	ref-7000000619	Nat. Pflanzenfam. 3(2): 207. 1891. (Mar 1891)	http://www.theplantlist.org/1.1/browse/A/Tovariaceae/
+wfo-7000000620	ref-7000000620	Hedwigia 45: 63. 1906[1905].	http://www.theplantlist.org/1.1/browse/B/Trachypodaceae/
+wfo-7000000622	ref-7000000622	Chosakuronbun Mokuroku 201. 1943.	http://www.theplantlist.org/1.1/browse/B/Trichocoleaceae/
+wfo-7000000623	ref-7000000623	J. Hattori Bot. Lab. 36: 340. 1972[1973].	http://www.theplantlist.org/1.1/browse/B/Trichotemnomataceae/
+wfo-7000000624	ref-7000000624	Dict. Univ. Hist. Nat. 12: 670. 1849. (7 Jul 1849)	http://www.theplantlist.org/1.1/browse/A/Trigoniaceae/
+wfo-7000000625	ref-7000000625	Contr. Phytogeog. Fl. Arfak Mts. 135. 1917. (Jul 1917)	http://www.theplantlist.org/1.1/browse/A/Trimeniaceae/
+wfo-7000000626	ref-7000000626	Trans. Linn. Soc. London 19: 160. 1843. (5 Aug 1843)	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/
+wfo-7000000627	ref-7000000627	Flora 48: 14. 1865. (18 Jan 1865)	http://www.theplantlist.org/1.1/browse/A/Trochodendraceae/
+wfo-7000000628	ref-7000000628	Prodr. 1: 683. 1824. (Jan (med.) 1824)	http://www.theplantlist.org/1.1/browse/A/Tropaeolaceae/
+wfo-7000000629	ref-7000000629	Gen. Pl. 25. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Typhaceae/
+wfo-7000000630	ref-7000000630	Elém. Physiol. Vég. Bot. 2: 905. 1815. (24-30 Jun 1815)	http://www.theplantlist.org/1.1/browse/A/Ulmaceae/
+wfo-7000000631	ref-7000000631	Gen. Pl. 400. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Urticaceae/
+wfo-7000000632	ref-7000000632	Fam. Fl. Pl., Dicot. (ed. 2) 461. 1959. (4 Jun 1959)	http://www.theplantlist.org/1.1/browse/A/Vahliaceae/
+wfo-7000000633	ref-7000000633	J. Hattori Bot. Lab. 52: 163. 1982.	http://www.theplantlist.org/1.1/browse/B/Vandiemeniaceae/
+wfo-7000000634	ref-7000000634	Theoria Syst. Pl. 9. 1858. (Apr-Sep 1858)	http://www.theplantlist.org/1.1/browse/A/Velloziaceae/
+wfo-7000000635	ref-7000000635	Expos. Fam. Nat. 1: 245. 1805. (Feb-Apr 1805)	http://www.theplantlist.org/1.1/browse/A/Verbenaceae/
+wfo-7000000636	ref-7000000636	Flora	http://www.theplantlist.org/1.1/browse/B/Vetaformaceae/
+wfo-7000000637	ref-7000000637	Tab. Affin. Regni Veg. 57. 1802. (2 May 1802)	http://www.theplantlist.org/1.1/browse/A/Violaceae/
+wfo-7000000638	ref-7000000638	J. Bryol. 9: 21. 1976.	http://www.theplantlist.org/1.1/browse/B/Viridivelleraceae/
+wfo-7000000639	ref-7000000639	Gen. Pl. 267. 1789. (4 Aug 1789)	http://www.theplantlist.org/1.1/browse/A/Vitaceae/
+wfo-7000000640	ref-7000000640	Linnaea 10: 433. 1836. (May 1836)	http://www.theplantlist.org/1.1/browse/A/Vivianiaceae/
+wfo-7000000641	ref-7000000641	Mém. Mus. Hist. Nat. 6: 265. 1820.	http://www.theplantlist.org/1.1/browse/A/Vochysiaceae/
+wfo-7000000642	ref-7000000642	Bryologist 46: 26. 1943.	http://www.theplantlist.org/1.1/browse/B/Wardiaceae/
+wfo-7000000643	ref-7000000643	Nuovo Giorn. Bot. Ital. 11: 17–18. 1879. (2 Jan 1879)	http://www.theplantlist.org/1.1/browse/G/Welwitschiaceae/
+wfo-7000000644	ref-7000000644	Ill. Jap. Hepat. 2: 192. 1976.	http://www.theplantlist.org/1.1/browse/B/Wiesnerellaceae/
+wfo-7000000645	ref-7000000645	Intr. Nat. Syst. Bot. 26. 1830. (Sep 1830)	http://www.theplantlist.org/1.1/browse/A/Winteraceae/
+wfo-7000000646	ref-7000000646	Revista Sudamer. Bot. 9: 14. 1949. (Jun 1949)	http://www.theplantlist.org/1.1/browse/P/Woodsiaceae/
+wfo-7000000647	ref-7000000647	Anal. Fam. Pl. 60, 62, 103. 1829.	http://www.theplantlist.org/1.1/browse/A/Xanthorrhoeaceae/
+wfo-7000000648	ref-7000000648	Kew Bull. 55: 869. 2000.	http://www.theplantlist.org/1.1/browse/A/Xeronemataceae/
+wfo-7000000649	ref-7000000649	Aphor. Bot. 158. 1823. (23 May 1823)	http://www.theplantlist.org/1.1/browse/A/Xyridaceae/
+wfo-7000000650	ref-7000000650	Prim. Lin. Syst. Nat. 45. 1834. (Jul-Dec 1834)	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/
+wfo-7000000651	ref-7000000651	Tekhno-Bot. Slovar. 682. 1820. (3 Aug 1820)	http://www.theplantlist.org/1.1/browse/A/Zingiberaceae/
+wfo-7000000652	ref-7000000652	Anal. Fam. Pl. 65–66. 1829.	http://www.theplantlist.org/1.1/browse/A/Zosteraceae/
+wfo-7000000653	ref-7000000653	Voy. Terra Austral. 2: 545. 1814. (19 Jul 1814)	http://www.theplantlist.org/1.1/browse/A/Zygophyllaceae/
+wfo-7000000654	http://solanaceaesource.org/content/fam-pl-adanson-2-215-1763	Gen. Pl. [Jussieu] 124. 1789	http://solanaceaesource.org
+wfo-9000000001	ref-9000000001	Handbuch 2: 474. 1829.	
+wfo-9000000003	ref-9000000003	Consp. Regn. Veg. 6. 1835. (Sep-Oct 1835)	
+wfo-9000000007	ref-9000000007	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000009	ref-9000000009	Prosyllab. Tracheophyt. xx. 2001.	
+wfo-9000000010	ref-9000000010	Moulds Mildews Mushrooms 97. 1899.	
+wfo-9000000011	ref-9000000011	Boll. Soc. Naturalisti Napoli 4: 125. 1890.	
+wfo-9000000013	ref-9000000013	Prir. Rostlin 271. 1820. (Jan-Apr 1820)	
+wfo-9000000014	ref-9000000014	14 Symp. Biodiv. Evolutionsbiol. 122. 1999. (1 Sep 1922)	
+wfo-9000000016	ref-9000000016	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000017	ref-9000000017	Musci Buitenzorg 1: xxiii. 1904.	
+wfo-9000000018	ref-9000000018	Beih. Nova Hedwigia 90: 299. 1988.	
+wfo-9000000019	ref-9000000019	Nova Hedwigia 2005.	
+wfo-9000000020	ref-9000000020	Novon 9(4): 550. 1999. (30 Dec 1999)	
+wfo-9000000021	ref-9000000021	Philos. Trans.	
+wfo-9000000022	ref-9000000022	Hisi-Shokubutsu 58. 1930.	
+wfo-9000000023	ref-9000000023	Lehrb. Forstl. Bot. 2: 118. 1857[1856]. (16 Aug 1856)	
+wfo-9000000025	ref-9000000025	Fl. Trop. Afr. 1833.	
+wfo-9000000026	ref-9000000026	Prir. Rostlin 258. 1820. (Jan-Apr 1820)	
+wfo-9000000027	ref-9000000027	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000028	ref-9000000028	Lekts. Morf. Sist. Archegon. 72. 1904. (14 Apr-13 May 1904)	
+wfo-9000000029	ref-9000000029	Laubm. Deutschl. 1: 84. 1885.	
+wfo-9000000030	ref-9000000030	Mag. Nat. Hist. 4: 333. 1840. (Jul 1840)	
+wfo-9000000031	ref-9000000031	Edwardss Bot. Reg. 1833.	
+wfo-9000000032	ref-9000000032	Syst. Ascom. 5(1): 177. 1986.	
+wfo-9000000033	ref-9000000033	Prosyllab. Tracheophyt. xix. 2001.	
+wfo-9000000036	ref-9000000036	Handbuch 1: 272. 1829. (4-11 Jul 1829)	
+wfo-9000000037	ref-9000000037	Phytologia 79(2): 72. 1995[1996]. (29 Apr 1996)	
+wfo-9000000038	ref-9000000038	Handbuch 1: 731. 1829. (4-11 Jul 1829)	
+wfo-9000000039	ref-9000000039	**.	
+wfo-9000000040	ref-9000000040	Prosyllab. Tracheophyt. xix. 2001.	
+wfo-9000000041	ref-9000000041	Turczaninowia 4: 55. 2001. (15 May 2001)	
+wfo-9000000044	ref-9000000044	Krypt.-Fl. Schlesien 3.1(17–24): 382. 1887[1889].	
+wfo-9000000045	ref-9000000045	Novon 2: 238. 1992. (13 Oct 1992)	
+wfo-9000000047	ref-9000000047	Mycol. Res. 111(5): 529. 2007.	
+wfo-9000000051	ref-9000000051	Phytologia 74(3): 172. 1993. (25 Mar 1993)	
+wfo-9000000053	ref-9000000053	Syllabus (ed. 5) 5: 111. 1907. (20-22 Jul 1907)	
+wfo-9000000054	ref-9000000054	1982.	
+wfo-9000000055	ref-9000000055	Tent. Syst. Pl. Vasc. 28. 2001. (23 Dec 2001)	
+wfo-9000000058	ref-9000000058	Bryoph. Biol. 2000.	
+wfo-9000000060	ref-9000000060	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000062	ref-9000000062	Les Livres du Mycologue 3: 83. 1931.	
+wfo-9000000067	ref-9000000067	Prir. Rostlin 244. 1820. (Jan-Apr 1820)	
+wfo-9000000069	ref-9000000069	Edinburgh New Philos. J. 24: 416. 1838. (Apr 1838)	
+wfo-9000000070	ref-9000000070	Anal. Fam. Pl. 54. 1829.	
+wfo-9000000071	ref-9000000071	Anal. Fam. Pl. 34. 1829.	
+wfo-9000000072	ref-9000000072	Musci Buitenzorg 1: xxiii. 1904.	
+wfo-9000000074	ref-9000000074	Mosses E. N. Amer. 1981.	
+wfo-9000000075	ref-9000000075	Phytologia 79(2): 72. 1995[1996]. (29 Apr 1996)	
+wfo-9000000076	ref-9000000076	Hedwigia 61: 399. 1920.	
+wfo-9000000077	ref-9000000077	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000078	ref-9000000078	Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pe}tersbourg 1833.	
+wfo-9000000079	ref-9000000079	Rec. Domin. Mus. 7:. 1972.	
+wfo-9000000080	ref-9000000080	Man. Bryol. 1932.	
+wfo-9000000081	ref-9000000081	Handbuch 1: 815. 1829. (4-11 Jul 1829)	
+wfo-9000000082	ref-9000000082	Gen. Hepat. Anthocerot. Sin. p. 75.	
+wfo-9000000083	ref-9000000083	Bot. Damen 411. 1828.	
+wfo-9000000084	ref-9000000084	Mycol. Res. 111(5): 530. 2007.	
+wfo-9000000085	ref-9000000085	Bull. Jard. Bot. État Bruxelles 27: 17. 1957. (31 Mar 1957)	
+wfo-9000000086	ref-9000000086	Vergl. Morph. Pilze 495. 1926.	
+wfo-9000000087	ref-9000000087	Prir. Rostlin 218. 1820. (Jan-Apr 1820)	
+wfo-9000000088	ref-9000000088	Prir. Rostlin 239. 1820. (Jan-Apr 1820)	
+wfo-9000000089	ref-9000000089	Prir. Rostlin 261. 1820. (Jan-Apr 1820)	
+wfo-9000000090	ref-9000000090	Arctoa 2004.	
+wfo-9000000091	ref-9000000091	Handbuch 2: 115. 1829. (4-11 Jul 1829)	
+wfo-9000000093	ref-9000000093	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000095	ref-9000000095	Handbuch 2: 406. 1829. (4-11 Jul 1829)	
+wfo-9000000096	ref-9000000096	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000102	ref-9000000102	1829.	
+wfo-9000000105	ref-9000000105	Consp. Regn. Veg. 12. 1835. (Sep-Oct 1835)	
+wfo-9000000108	ref-9000000108	1915.	
+wfo-9000000113	ref-9000000113	Tent. Syst. Pl. Vasc. vii. 2001. (23 Dec 2001)	
+wfo-9000000118	ref-9000000118	Handbuch 2: 72. 1829. (4-11 Jul 1829)	
+wfo-9000000130	ref-9000000130	Prir. Rostlin 267. 1820. (Jan-Apr 1820)	
+wfo-9000000132	ref-9000000132	Handbuch 2: 129. 1829. (4-11 Jul 1829)	
+wfo-9000000135	ref-9000000135	Handbuch 2: 2. 1829. (4-11 Jul 1829)	
+wfo-9000000136	ref-9000000136	Gen. Hepat. Anthocerot. Sin. p. 96.	
+wfo-9000000139	ref-9000000139	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000142	ref-9000000142	Prir. Rostlin 236. 1820. (Jan-Apr 1820)	
+wfo-9000000143	ref-9000000143	Prosyllab. Tracheophyt. xix. 2001.	
+wfo-9000000144	ref-9000000144	Handbuch 2: 471. 1829. (4-11 Jul 1829)	
+wfo-9000000147	ref-9000000147	Syn. Pflanzenk. (ed. 2) 3: 1453. 1877.	
+wfo-9000000148	ref-9000000148	Gen. Hepat. Anthocerot. Sin. p. 578.	
+wfo-9000000149	ref-9000000149	Prir. Rostlin 262. 1820. (Jan-Apr 1820)	
+wfo-9000000150	ref-9000000150	Consp. Regn. Veg. 6. 1835. (Sep-Oct 1835)	
+wfo-9000000155	ref-9000000155	Fam. Fl. Pl., Monocot. 2: xx. 1934.	
+wfo-9000000157	ref-9000000157	Monogr. Phan. 1952.	
+wfo-9000000159	ref-9000000159	Tent. Syst. Pl. Vasc. 41. 2001. (23 Dec 2001)	
+wfo-9000000160	ref-9000000160	Hedwigia 61: 400. 1920.	
+wfo-9000000161	ref-9000000161	J. Hattori Bot. Lab. 64: 82. 1988.	
+wfo-9000000165	ref-9000000165	Fl. Ins. Austr. 1924.	
+wfo-9000000166	ref-9000000166	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000167	ref-9000000167	Hedwigia 61: 392. 1920.	
+wfo-9000000171	ref-9000000171	Bot. Jahrb. Syst. 1966.	
+wfo-9000000172	ref-9000000172	Prir. Rostlin 223. 1820. (Jan-Apr 1820)	
+wfo-9000000176	ref-9000000176	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000177	ref-9000000177	Consp. Regn. Veg. 9. 1835. (Sep=Oct 1835)	
+wfo-9000000178	ref-9000000178	Musci Buitenzorg 3: xv. 1908.	
+wfo-9000000179	ref-9000000179	Anal. Fam. Pl. 255. 1820. (Jan-Apr 1820)	
+wfo-9000000180	ref-9000000180	Tent. Syst. Pl. Vasc. x. 2001. (23 Dec 2001)	
+wfo-9000000182	ref-9000000182	Handbuch 2: 98. 1829. (4-11 Jul 1829)	
+wfo-9000000183	ref-9000000183	Turczaninowia 4: 66–67. 2001. (15 May 2001)	
+wfo-9000000184	ref-9000000184	Rev. Hort. 1892.	
+wfo-9000000187	ref-9000000187	Man. Bryol. 409. 1932.	
+wfo-9000000190	ref-9000000190	Anal. Fam. Pl. 11. 1829.	
+wfo-9000000191	ref-9000000191	Tabl. Regn. Veg. 3: 307. 1799. (5 May 1799)	
+wfo-9000000192	ref-9000000192	Prir. Rostlin 271. 1829. (Jan-Apr 1820)	
+wfo-9000000193	ref-9000000193	Prir. Rostlin 251. 1820. (Jan-Apr 1820)	
+wfo-9000000194	ref-9000000194	Hisi-Shokubutsu 49. 1930.	
+wfo-9000000196	ref-9000000196	Handbuch 2: 339. 1829. (4-11 Jul 1829)	
+wfo-9000000198	ref-9000000198	Hedwigia 61: 395. 1920.	
+wfo-9000000199	ref-9000000199	Revis. Gen. Pl. 1956.	
+wfo-9000000202	ref-9000000202	Repert. Spec. Nov. Regni Veg. 1833.	
+wfo-9000000203	ref-9000000203	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000204	ref-9000000204	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000207	ref-9000000207	Edinburgh New Philos. J. 25: 126. 1838. (Jul 1838)	
+wfo-9000000208	ref-9000000208	Syllabus 94. 1892. (Apr 1892)	
+wfo-9000000209	ref-9000000209	Bot. Žhurn. (Moscow & Leningrad) 85(7): 61. 2000.	
+wfo-9000000210	ref-9000000210	Anal. Fam. Pl. 67. 1829.	
+wfo-9000000211	ref-9000000211	Hedwigia 61: 391. 1920.	
+wfo-9000000212	ref-9000000212	Novon 9(4): 550. 1999. (30 Dec 1999)	
+wfo-9000000214	ref-9000000214	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000216	ref-9000000216	1827.	
+wfo-9000000217	ref-9000000217	Hedwigia 61: 393. 1920.	
+wfo-9000000218	ref-9000000218	Consp. Regn. Veg. 16. 1835. (Sep-Oct 1835)	
+wfo-9000000219	ref-9000000219	Mycologia 98(6): 957. 2006.	
+wfo-9000000220	ref-9000000220	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000222	ref-9000000222	Prir. Rostlin 248. 1820. (Jan-Apr 1820)	
+wfo-9000000223	ref-9000000223	Persoonia 22: 131. 2009.	
+wfo-9000000224	ref-9000000224	Prir. Rostlin 221. 1820. (Jan-Apr 1820)	
+wfo-9000000226	ref-9000000226	Ann. Bot. (Oxford), n.s. 99: 747–753. 2007.	
+wfo-9000000227	ref-9000000227	Lekts. Morf. Sist. Archegon. 73, 93. 1904.	
+wfo-9000000228	ref-9000000228	Novon 2(3): 238. 1992. (13 Oct 1992)	
+wfo-9000000230	ref-9000000230	Handbuch 1: 70. 1825. (Jun-Nov 1825)	
+wfo-9000000233	ref-9000000233	Consp. Regn. Veg. 11. 1835. (Sep-Oct 1835)	
+wfo-9000000236	ref-9000000236	Musci Buitenzorg 1: 370. 1904.	
+wfo-9000000237	ref-9000000237	Novon 9(4): 550. 1999. (30 Dec 1999)	
+wfo-9000000238	ref-9000000238	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000240	ref-9000000240	Novon 1954.	
+wfo-9000000242	ref-9000000242	Cat. Pl. Seeds (ed. 1) 1907.	
+wfo-9000000243	ref-9000000243	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000245	ref-9000000245	Biodivers. Poland 3: 155. 2003.	
+wfo-9000000246	ref-9000000246	Nova Hedwigia 2008.	
+wfo-9000000247	ref-9000000247	Mycotaxon 75: 501. 2000. (Korf & Lizoň, M)	
+wfo-9000000253	ref-9000000253	Handbuch 1: 288. 1829. (4-11 Jul 1829)	
+wfo-9000000254	ref-9000000254	Hedwigia 61: 397. 1920.	
+wfo-9000000255	ref-9000000255	Vyss. Rostl. Trachyoph. 1961.	
+wfo-9000000256	ref-9000000256	Tent. Syst. Pl. Vasc. xxx. 2001. (23 Dec 2001)	
+wfo-9000000257	ref-9000000257	Tent. Syst. Pl. Vasc. xxxv. 2001. (23 Dec 2001)	
+wfo-9000000258	ref-9000000258	Novon 9(4): 551. 1999. (30 Dec 1999)	
+wfo-9000000259	ref-9000000259	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000260	ref-9000000260	Anal. Fam. Pl. 54. 1829.	
+wfo-9000000261	ref-9000000261	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000264	ref-9000000264	Syn. Pflanzenk. (ed. 2) 3: 1453. 1877.	
+wfo-9000000265	ref-9000000265	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000266	ref-9000000266	Nova Hedwigia 2005.	
+wfo-9000000267	ref-9000000267	Taxon 35: 33. 1986.	
+wfo-9000000268	ref-9000000268	Hedwigia 61: 398. 1920.	
+wfo-9000000269	ref-9000000269	Novon 9(4): 551. 1999. (30 Dec 1999)	
+wfo-9000000270	ref-9000000270	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000271	ref-9000000271	Integr. Syst. Class. 94. 1981. (10 Aug 1981)	
+wfo-9000000273	ref-9000000273	Hedwigia 61: 396. 1920.	
+wfo-9000000275	ref-9000000275	Lehrb. Bot. 116, 125. 1874.	
+wfo-9000000276	ref-9000000276	Prir. Rostlin 227. 1820. (Jan-Apr 1820)	
+wfo-9000000277	ref-9000000277	Anal. Fam. Pl. 60. 1829.	
+wfo-9000000282	ref-9000000282	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000283	ref-9000000283	Mag. Nat. Hist. 2: 210. 1838. (Apr 1838)	
+wfo-9000000285	ref-9000000285	Prir. Rostlin 235. 1820. (Jan-Apr 1820)	
+wfo-9000000286	ref-9000000286	Nova Acta Regiae Soc. Sci. Upsal., ser. 4, 8(2): 68. 1932.	
+wfo-9000000287	ref-9000000287	1934.	
+wfo-9000000288	ref-9000000288	Bull. Jard. Bot. État Bruxelles 27: 23.	
+wfo-9000000289	ref-9000000289	J. Hattori Bot. Lab. 64: 82. 1988.	
+wfo-9000000290	ref-9000000290	Fl. Peruv. Prodr. 1897.	
+wfo-9000000291	ref-9000000291	Bryoph. Biol. 2000.	
+wfo-9000000292	ref-9000000292	Pečen. Mhi Morfol., Filog, Klassifik. 1975.	
+wfo-9000000294	ref-9000000294	Taxon 35: 47. 1986.	
+wfo-9000000296	ref-9000000296	Syst. Ascom. 5(1): 138. 1986.	
+wfo-9000000298	ref-9000000298	Lehrb. Naturgesch. Pflanzenr. 129. 1826. (Sep-Oct 1826)	
+wfo-9000000299	ref-9000000299	Affin. Pl. 107. 1839.	
+wfo-9000000300	ref-9000000300	New Syllab. Pl. Fam 353. 2006. (May 2006)	
+wfo-9000000303	ref-9000000303	New Syllab. Pl. Fam 353. 2006. (May 2006)	
+wfo-9000000305	ref-9000000305	Novon 9(4): 551. 1999. (30 Dec 1999)	
+wfo-9000000306	ref-9000000306	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000307	ref-9000000307	Edinburgh J. Bot. 2006.	
+wfo-9000000308	ref-9000000308	Prir. Rostlin 272. 1820. (Jan-Apr 1820)	
+wfo-9000000310	ref-9000000310	Edinburgh New Philos. J. 25: 132. 1838.	
+wfo-9000000311	ref-9000000311	Prir. Rostlin 225. 1820. (Jan-Apr 1820)	
+wfo-9000000312	ref-9000000312	Prir. Rostlin 221. 1820. (Jan-Apr 1820)	
+wfo-9000000314	ref-9000000314	Hort. Berol. 2: 148. 1833. (Jul-Dec 1833)	
+wfo-9000000315	ref-9000000315	Krypt.-Fl. Schlesien 1: 239. 1876[1877].	
+wfo-9000000316	ref-9000000316	Consp. Regn. Veg. 4. 1835. (Sep-Oct 1835)	
+wfo-9000000318	ref-9000000318	Phytologia 74(3): 175. 1993. (25 Mar 1993)	
+wfo-9000000319	ref-9000000319	Novon 9(4): 551. 1999. (30 Dec 1999)	
+wfo-9000000320	ref-9000000320	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000321	ref-9000000321	Prir. Rostlin 219. 1820. (Jan-Apr 1820)	
+wfo-9000000324	ref-9000000324	Tent. Syst. Pl. Vasc. xii. 2001. (23 Dec 2001)	
+wfo-9000000325	ref-9000000325	Divers. Classific. Fl. Pl. 352. 1997. (24 Apr 1997)	
+wfo-9000000326	ref-9000000326	Ann. Sci. Nat., Bot., ser. 5,	
+wfo-9000000328	ref-9000000328	Novon 11(4): 396. 2001.	
+wfo-9000000330	ref-9000000330	Syst. Bot. 10: 228. 1985.	
+wfo-9000000331	ref-9000000331	New Syllab. Pl. Fam 356. 2006. (May 2006)	
+wfo-9000000332	ref-9000000332	J. Hattori Bot. Lab. 26: 296. 1963.	
+wfo-9000000333	ref-9000000333	Fl. Bras.	
+wfo-9000000335	ref-9000000335	Syst. Mycol. 3(2): 296. 1832.	
+wfo-9000000336	ref-9000000336	Phytologia 82(2): 129. 1997. (28 Nov 1997)	
+wfo-9000000337	ref-9000000337	Consp. Regn. Veg. 2: 16. 1835. (Sep-Oct 1835)	
+wfo-9000000338	ref-9000000338	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000339	ref-9000000339	Prir. Rostlin 233. 1820. (Jan-Apr.)	
+wfo-9000000340	ref-9000000340	Phytotaxa 222(2): 166. 2015.	
+wfo-9000000341	ref-9000000341	Anal. Fam. Pl. 59. 1829.	
+wfo-9000000343	ref-9000000343	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000344	ref-9000000344	Prodr. Fl. Hispan. 1: 30. 1861.	
+wfo-9000000348	ref-9000000348	Edinburgh J. Bot. 2006.	
+wfo-9000000349	ref-9000000349	Sp. Pl. 1833.	
+wfo-9000000352	ref-9000000352	2002.	
+wfo-9000000353	ref-9000000353	Tent. Syst. Pl. Vasc. xl. 2001. (23 Dec 2001)	
+wfo-9000000354	ref-9000000354	Prir. Rostlin 270. 1820. (Jan-Apr 1820)	
+wfo-9000000355	ref-9000000355	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000357	ref-9000000357	Monogr. Syst. Bot. Missouri Bot. Gard. 2004.	
+wfo-9000000360	ref-9000000360	Tent. Syst. Pl. Vasc. 51. 2001. (23 Dec 2001)	
+wfo-9000000363	ref-9000000363	Hort. Berol. 2: 151. 1833. (Jul-Dec 1833)	
+wfo-9000000364	ref-9000000364	Acta Helv. Phys.-Math. 1838.	
+wfo-9000000366	ref-9000000366	Man. Bryol. 1932.	
+wfo-9000000367	ref-9000000367	2002.	
+wfo-9000000368	ref-9000000368	Hort. Berol. 445. 1833. (Jul-Dec 1833)	
+wfo-9000000369	ref-9000000369	Prir. Rostlin 221. 1820. (Jan-Apr 1820)	
+wfo-9000000371	ref-9000000371	Gen. Hepat. Anthocerot. Sin. p. 563.	
+wfo-9000000372	ref-9000000372	Nova Hedwigia 2005.	
+wfo-9000000374	ref-9000000374	Lehrb. Naturgesch. Pflanzenr. 262. 1820. (Jan-Apr 1829)	
+wfo-9000000375	ref-9000000375	Notizbl. Bot. Gart. Berlin-Dahlem	
+wfo-9000000376	ref-9000000376	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000378	ref-9000000378	Bot. Žhurn. (Moscow & Leningrad) 85(7): 61. 2000.	
+wfo-9000000379	ref-9000000379	Syn. Pflanzenk. (ed. 2) 3: 1452, 1458. 1877.	
+wfo-9000000381	ref-9000000381	Prir. Rostlin 237. 1820. (Jan-Apr 1820)	
+wfo-9000000386	ref-9000000386	Cladistics 2006.	
+wfo-9000000387	ref-9000000387	New Phytol. 28: 9. 1929.	
+wfo-9000000390	ref-9000000390	Syst. Ascom. 5(1): 181. 1986.	
+wfo-9000000391	ref-9000000391	Divers. Classific. Fl. Pl. 577. 1997. (24 Apr 1997)	
+wfo-9000000392	ref-9000000392	Nat. Pflanzenfam. 1: 173. 1894.	
+wfo-9000000398	ref-9000000398	Bryologist 2007.	
+wfo-9000000399	ref-9000000399	N. Amer. Slime-Moulds (ed. 2) 22. 1922.	
+wfo-9000000401	ref-9000000401	Tent. Syst. Pl. Vasc. 38. 2001. (23 Dec 2001)	
+wfo-9000000403	ref-9000000403	Prir. Rostlin 272. 1820. (Jan-Apr 1820)	
+wfo-9000000404	ref-9000000404	Lekts. Morf. Sist. Archegon. 88. 1904. (14 Apr-13 May 1904)	
+wfo-9000000406	ref-9000000406	Prir. Rostlin 261. 1820. (Jan-Apr 1820)	
+wfo-9000000407	ref-9000000407	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000408	ref-9000000408	Nix. Pl. 20. 17 S.	
+wfo-9000000409	ref-9000000409	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000410	ref-9000000410	Prodr. Cl. Loculoasc. (Amherst): 67. 1987.	
+wfo-9000000414	ref-9000000414	Trans. Linn. Soc. London 1833.	
+wfo-9000000415	ref-9000000415	Fl. S.E. U.S. 48. 1903. (22 Jul 1903)	
+wfo-9000000416	ref-9000000416	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000417	ref-9000000417	Nix. Pl. 17. 1833. (17 Sep 1833)	
+wfo-9000000418	ref-9000000418	Me}m. Acad. Imp. Sci. Saint-Pe}tersbourg 1862.	
+wfo-9000000419	ref-9000000419	N. Amer. Fl. 1833.	
+wfo-9000000420	ref-9000000420	Hort. Berol. 2: 5. 1833. (Jul-Dec 1833)	
+wfo-9000000421	ref-9000000421	Vergl. Morph. Pilze 503. 1926.	
+wfo-9000000422	ref-9000000422	Hedwigia 61: 400. 1920.	
+wfo-9000000424	ref-9000000424	Hedwigia 61: 392. 1920.	
+wfo-9000000427	ref-9000000427	Pl. Asiat. Rar. 1833.	
+wfo-9000000430	ref-9000000430	Prir. Rostlin 1820.	
+wfo-9000000435	ref-9000000435	Bot. J. Linn. Soc. 181(2): 151. 2016. (12 May 2016)	
+wfo-9000000437	ref-9000000437	Lehrb. Bot., ed. 5 183. 1884. (5 Jan 1884)	
+wfo-9000000438	ref-9000000438	Tent. Syst. Pl. Vasc. xi. 2001. (23 Dec 2001)	
+wfo-9000000439	ref-9000000439	Syst. Biodivers. 2005.	
+wfo-9000000443	ref-9000000443	Tent. Syst. Pl. Vasc. lii. 2001. (23 Dec 2001)	
+wfo-9000000444	ref-9000000444	Bryoph. Biol. 2000.	
+wfo-9000000445	ref-9000000445	Consp. Regn. Veg. 18. 1835. (Sep-Oct 1835)	
+wfo-9000000447	ref-9000000447	Prir. Rostlin 215. 1820. (Jan-Apr 1820)	
+wfo-9000000449	ref-9000000449	Enum. 1929.	
+wfo-9000000452	ref-9000000452	Gen. Hist. 1833.	
+wfo-9000000454	ref-9000000454	Mycologia 98(6): 1097. 2007[2006].	
+wfo-9000000457	ref-9000000457	Monogr. Syst. Bot. Missouri Bot. Gard. 2004.	
+wfo-9000000458	ref-9000000458	Prir. Rostlin 257. 1820. (Jan-Apr 1820)	
+wfo-9000000465	ref-9000000465	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000467	ref-9000000467	Prir. Rostlin 231. 1820. (Jan-Apr 1820)	
+wfo-9000000468	ref-9000000468	An. Prim. Reun. Sul. Am. Bot. 1873.	
+wfo-9000000469	ref-9000000469	Ainsworth & Bisbys Dictionary of the Fungi, Edn 9 (Wallingford) xi. 2001.	
+wfo-9000000470	ref-9000000470	Prir. Rostlin 220. 1820. (Jan-Apr 1820)	
+wfo-9000000471	ref-9000000471	Divers. Classific. Fl. Pl. 304. 1997. (1 May 1997)	
+wfo-9000000472	ref-9000000472	New Syllab. Pl. Fam 354. 2006. (Mar 2006)	
+wfo-9000000473	ref-9000000473	Revis. Gen. Pl. 1833.	
+wfo-9000000474	ref-9000000474	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000475	ref-9000000475	Hort. Berol. 3: 155. 1833. (Jul-Dec 1833)	
+wfo-9000000476	ref-9000000476	Anal. Fam. Pl. 29. 1829.	
+wfo-9000000477	ref-9000000477	Prir. Rostlin 234. 1829. (Jan-Apr 1820)	
+wfo-9000000478	ref-9000000478	Prir. Rostlin 224. 1820. (Jan-Apr 1820)	
+wfo-9000000480	ref-9000000480	Phytologia 84: 365. 1999.	
+wfo-9000000481	ref-9000000481	Prir. Rostlin 259. 1820. (Jan-Apr 1820)	
+wfo-9000000482	ref-9000000482	Hedwigia 61: 394. 1920.	
+wfo-9000000483	ref-9000000483	Traité Paléont. Vég. 1: 674. 1869. (Mar 1869)	
+wfo-9000000485	ref-9000000485	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000486	ref-9000000486	Monogr. Syst. Bot. Missouri Bot. Gard. 2004.	
+wfo-9000000488	ref-9000000488	Nix. Pl. 20. 1833. (17 Sep 1833)	
+wfo-9000000492	ref-9000000492	Bot. Damen 1854.	
+wfo-9000000493	ref-9000000493	Lehrb. Bot. 116, 124. 1874.	
+wfo-9000000494	ref-9000000494	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000496	ref-9000000496	Prir. Rostlin 243. 1820. (Jan-Apr 1820)	
+wfo-9000000498	ref-9000000498	New Phytol. 9: 81. 1910.	
+wfo-9000000500	ref-9000000500	Laubm. Deutschl. 1: 84. 1885.	
+wfo-9000000502	ref-9000000502	Biodivers. Poland 3: 156. 2003.	
+wfo-9000000504	ref-9000000504	Prosyllab. Tracheophyt. xv. 2001.	
+wfo-9000000510	ref-9000000510	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000511	ref-9000000511	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000514	ref-9000000514	Lehrb. Bot. 2(2): 655. 1839.	
+wfo-9000000523	ref-9000000523	Man. Bryol. 1932.	
+wfo-9000000525	ref-9000000525	J. Hattori Bot. Lab. 1958.	
+wfo-9000000526	ref-9000000526	Handbuch 2: 470. 1829. (4-11 Jul 1829)	
+wfo-9000000527	ref-9000000527	Traité Paléont. Vég. 2: 309. 1870.	
+wfo-9000000528	ref-9000000528	Phytologia 74(3): 176. 1993. (25 Mar 1993)	
+wfo-9000000529	ref-9000000529	Syst. Ascom. 5(1): 183. 1986.	
+wfo-9000000531	ref-9000000531	Hedwigia 61: 394. 1920.	
+wfo-9000000537	ref-9000000537	Fl. Cap. 1833.	
+wfo-9000000538	ref-9000000538	Tent. Syst. Pl. Vasc. xi. 2001. (23 Dec 2001)	
+wfo-9000000543	ref-9000000543	Biodivers. Poland 3: 102. 2003.	
+wfo-9000000544	ref-9000000544	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000545	ref-9000000545	Novon 9(4): 551–552. 1999. (30 Dec 1999)	
+wfo-9000000548	ref-9000000548	Syst. Mycol. 1: 2. 1821.	
+wfo-9000000550	ref-9000000550	Bot. Žhurn. (Moscow & Leningrad) 57: 499. 1972.	
+wfo-9000000554	ref-9000000554	Gen. Syst. Bot. 1018. 1876.	
+wfo-9000000555	ref-9000000555	Integr. Syst. Class. 157. 1981. (10 Aug 1981)	
+wfo-9000000556	ref-9000000556	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000557	ref-9000000557	Ann. Bot. (Rome) 1833.	
+wfo-9000000559	ref-9000000559	New Phytol. 1: 32. 1902.	
+wfo-9000000561	ref-9000000561	Mycosystema 26(1): 44. 2007.	
+wfo-9000000562	ref-9000000562	Prir. Rostlin 260. 1820. (Jan-Apr 1820)	
+wfo-9000000563	ref-9000000563	Tent. Syst. Pl. Vasc. 48. 2001. (23 Dec 2001)	
+wfo-9000000564	ref-9000000564	Prir. Rostlin 256. 1820. (Jan-Apr 1820)	
+wfo-9000000566	ref-9000000566	Novon 2(3): 239. 1992. (13 Oct 1992)	
+wfo-9000000567	ref-9000000567	Syst. Ascom. 5(1): 183. 1986.	
+wfo-9000000568	ref-9000000568	Prir. Rostlin 220. 1820. (Jan-Apr 1820)	
+wfo-9000000569	ref-9000000569	Prir. Rostlin 225. 1820. (Jan-Apr 1820)	
+wfo-9000000571	ref-9000000571	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000572	ref-9000000572	Phytologia 74(3): 174. 1993. (25 Mar 1993)	
+wfo-9000000573	ref-9000000573	Novon 9(4): 552. 1999.	
+wfo-9000000574	ref-9000000574	Nova Acta Regiae Soc. Sci. Upsal., ser. 4, 8(2): 66. 1932.	
+wfo-9000000575	ref-9000000575	Veg. Kingd. (lvii): , 185. 1846. (14-18 Mar 1846)	
+wfo-9000000576	ref-9000000576	Outlines Bot. 483–484, 490. 1835. (Jun 1835)	
+wfo-9000000577	ref-9000000577	Grundr. Syst. Bot. 167. 1854. (1-2 Jun 1854)	
+wfo-9000000578	ref-9000000578	Whole Fungus 2: 590. 1979. (Bessey ex R.K. Benj., in Kendrick, The Whole Fungus)	
+wfo-9000000581	ref-9000000581	Handbuch 2(4): 228. 1829. (4-11 Jul 1829)	
+wfo-9000000582	ref-9000000582	Bryologist 110: 554. 2007	
+wfo-9000000583	ref-9000000583	J. Hattori Bot. Lab. 71: 242. 1992	
+wfo-9000000584	ref-9000000584	Bot. Zhurn. (Moscow & Leningrad) 57(4): 500. 1972	
+wfo-9000000585	ref-9000000585	Bot. Zhurn. (Moscow & Leningrad) 57(4): 505. 1972	
+wfo-9000000586	ref-9000000586	Bot. Zhurn. (Moscow & Leningrad) 57(4): 505. 1972	
+wfo-9000000587	ref-9000000587	Bot. Zhurn. (Moscow & Leningrad) 57(4): 501. 1972	
+wfo-9000000588	ref-9000000588	J. Hattori Bot. Lab. 74: 117. 1993	
