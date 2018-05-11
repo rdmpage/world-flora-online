@@ -1,0 +1,409 @@
+wfo-0000268468	ref-0000268468	Tribuna Farm.	http://www.theplantlist.org/tpl1.1/record/kew-151446
+wfo-0000281427	ref-0000281427	Hist. Pl. Guiane	http://www.theplantlist.org/tpl1.1/record/kew-163810
+wfo-0000637542	ref-0000637542	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275691
+wfo-0000637553	ref-0000637553	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275692
+wfo-0000637564	ref-0000637564	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275693
+wfo-0000637575	ref-0000637575	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275694
+wfo-0000637586	ref-0000637586	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275695
+wfo-0000637597	ref-0000637597	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275696
+wfo-0000637608	ref-0000637608	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275697
+wfo-0000637618	ref-0000637618	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275698
+wfo-0000637629	ref-0000637629	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275699
+wfo-0000637642	ref-0000637642	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275700
+wfo-0000637653	ref-0000637653	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275701
+wfo-0000637662	ref-0000637662	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275702
+wfo-0000637672	ref-0000637672	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275703
+wfo-0000637683	ref-0000637683	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275704
+wfo-0000637694	ref-0000637694	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275705
+wfo-0000637705	ref-0000637705	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275706
+wfo-0000637715	ref-0000637715	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275707
+wfo-0000637726	ref-0000637726	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275708
+wfo-0000637737	ref-0000637737	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275709
+wfo-0000637749	ref-0000637749	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275710
+wfo-0000637758	ref-0000637758	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275711
+wfo-0000637766	ref-0000637766	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275712
+wfo-0000637776	ref-0000637776	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275713
+wfo-0000637786	ref-0000637786	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275714
+wfo-0000637797	ref-0000637797	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275715
+wfo-0000637808	ref-0000637808	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275716
+wfo-0000637817	ref-0000637817	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275717
+wfo-0000637827	ref-0000637827	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275718
+wfo-0000637838	ref-0000637838	Syst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-275719
+wfo-0000637850	ref-0000637850	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275720
+wfo-0000637861	ref-0000637861	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275721
+wfo-0000637871	ref-0000637871	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275722
+wfo-0000637882	ref-0000637882	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-275723
+wfo-0000637892	ref-0000637892	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275724
+wfo-0000637903	ref-0000637903	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275725
+wfo-0000637913	ref-0000637913	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275726
+wfo-0000637924	ref-0000637924	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275727
+wfo-0000637935	ref-0000637935	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275728
+wfo-0000637944	ref-0000637944	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-275729
+wfo-0000637956	ref-0000637956	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275730
+wfo-0000637965	ref-0000637965	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275731
+wfo-0000637976	ref-0000637976	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275732
+wfo-0000637987	ref-0000637987	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275733
+wfo-0000637997	ref-0000637997	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275734
+wfo-0000638005	ref-0000638005	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275735
+wfo-0000638015	ref-0000638015	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275736
+wfo-0000638025	ref-0000638025	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275737
+wfo-0000638036	ref-0000638036	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275738
+wfo-0000638046	ref-0000638046	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275739
+wfo-0000638058	ref-0000638058	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275740
+wfo-0000638069	ref-0000638069	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275741
+wfo-0000638080	ref-0000638080	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275742
+wfo-0000638091	ref-0000638091	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275743
+wfo-0000638102	ref-0000638102	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275744
+wfo-0000638113	ref-0000638113	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275745
+wfo-0000638124	ref-0000638124	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275746
+wfo-0000638135	ref-0000638135	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275747
+wfo-0000638143	ref-0000638143	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275748
+wfo-0000638149	ref-0000638149	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275749
+wfo-0000638155	ref-0000638155	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275750
+wfo-0000638161	ref-0000638161	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275751
+wfo-0000638171	ref-0000638171	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275752
+wfo-0000638177	ref-0000638177	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275753
+wfo-0000638183	ref-0000638183	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275754
+wfo-0000638193	ref-0000638193	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-275755
+wfo-0000638204	ref-0000638204	Bol. Soc. Venez. Ci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-275756
+wfo-0000638213	ref-0000638213	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275757
+wfo-0000638219	ref-0000638219	Bol. Soc. Venez. Ci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-275758
+wfo-0000638228	ref-0000638228	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275759
+wfo-0000638231	ref-0000638231	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275760
+wfo-0000638234	ref-0000638234	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275761
+wfo-0000638244	ref-0000638244	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275762
+wfo-0000638255	ref-0000638255	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275763
+wfo-0000638266	ref-0000638266	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275764
+wfo-0000638276	ref-0000638276	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275765
+wfo-0000638287	ref-0000638287	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275766
+wfo-0000638294	ref-0000638294	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275767
+wfo-0000638301	ref-0000638301	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275768
+wfo-0000638310	ref-0000638310	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275769
+wfo-0000638322	ref-0000638322	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275770
+wfo-0000638332	ref-0000638332	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275771
+wfo-0000638343	ref-0000638343	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275772
+wfo-0000638353	ref-0000638353	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-275773
+wfo-0000638363	ref-0000638363	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-275774
+wfo-0000638371	ref-0000638371	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275775
+wfo-0000638372	ref-0000638372	Syst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-275776
+wfo-0000638373	ref-0000638373	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-275777
+wfo-0000638374	ref-0000638374	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275778
+wfo-0000638375	ref-0000638375	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275779
+wfo-0000638377	ref-0000638377	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275780
+wfo-0000638378	ref-0000638378	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275781
+wfo-0000638379	ref-0000638379	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275782
+wfo-0000638380	ref-0000638380	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-275783
+wfo-0000638381	ref-0000638381	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275784
+wfo-0000638382	ref-0000638382	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275785
+wfo-0000638383	ref-0000638383	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275786
+wfo-0000638384	ref-0000638384	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275787
+wfo-0000638388	ref-0000638388	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275788
+wfo-0000638394	ref-0000638394	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275789
+wfo-0000638403	ref-0000638403	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275790
+wfo-0000638414	ref-0000638414	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275791
+wfo-0000638425	ref-0000638425	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-275792
+wfo-0000644362	ref-0000644362	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-276502
+wfo-0000683556	ref-0000683556	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-280538
+wfo-0000683644	ref-0000683644	Mém. Mus. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-280547
+wfo-0000683698	ref-0000683698	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-280552
+wfo-0000683706	ref-0000683706	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-280553
+wfo-0000683716	ref-0000683716	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-280554
+wfo-0000683726	ref-0000683726	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-280555
+wfo-0000683736	ref-0000683736	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-280556
+wfo-0000683745	ref-0000683745	Mém. Mus. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-280557
+wfo-0000683753	ref-0000683753	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-280558
+wfo-0000683764	ref-0000683764	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-280559
+wfo-0000716737	ref-0000716737	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-284113
+wfo-0000738483	ref-0000738483	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287618
+wfo-0000738484	ref-0000738484	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287619
+wfo-0000738486	ref-0000738486	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287620
+wfo-0000738487	ref-0000738487	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287621
+wfo-0000738489	ref-0000738489	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287622
+wfo-0000738491	ref-0000738491	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287623
+wfo-0000738493	ref-0000738493	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287624
+wfo-0000738495	ref-0000738495	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287625
+wfo-0000738496	ref-0000738496	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287626
+wfo-0000738497	ref-0000738497	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287627
+wfo-0000738498	ref-0000738498	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287628
+wfo-0000738499	ref-0000738499	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287629
+wfo-0000738501	ref-0000738501	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287630
+wfo-0000738502	ref-0000738502	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287631
+wfo-0000738505	ref-0000738505	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287632
+wfo-0000738514	ref-0000738514	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287633
+wfo-0000738519	ref-0000738519	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287634
+wfo-0000738521	ref-0000738521	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287635
+wfo-0000738526	ref-0000738526	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287636
+wfo-0000738529	ref-0000738529	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287637
+wfo-0000738541	ref-0000738541	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287639
+wfo-0000738548	ref-0000738548	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287640
+wfo-0000738555	ref-0000738555	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287641
+wfo-0000738563	ref-0000738563	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-287642
+wfo-0000738572	ref-0000738572	Bol. Soc. Venez. Ci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-287643
+wfo-0000738582	ref-0000738582	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287644
+wfo-0000738587	ref-0000738587	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287645
+wfo-0000738594	ref-0000738594	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287646
+wfo-0000738595	ref-0000738595	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287647
+wfo-0000738604	ref-0000738604	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287648
+wfo-0000738605	ref-0000738605	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287649
+wfo-0000738607	ref-0000738607	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-287650
+wfo-0000738609	ref-0000738609	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287651
+wfo-0000738614	ref-0000738614	Bol. Soc. Venez. Ci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-287652
+wfo-0000738625	ref-0000738625	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287653
+wfo-0000738635	ref-0000738635	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287654
+wfo-0000738645	ref-0000738645	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287655
+wfo-0000738654	ref-0000738654	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287661
+wfo-0000738659	ref-0000738659	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287668
+wfo-0000738662	ref-0000738662	Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/kew-287669
+wfo-0000738682	ref-0000738682	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-287671
+wfo-0000738691	ref-0000738691	Mant.	http://www.theplantlist.org/tpl1.1/record/kew-287672
+wfo-0000738701	ref-0000738701	Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-287673
+wfo-0000738710	ref-0000738710	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-287674
+wfo-0000738720	ref-0000738720	Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-287675
+wfo-0000738730	ref-0000738730	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287676
+wfo-0000738739	ref-0000738739	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287677
+wfo-0000738748	ref-0000738748	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-287678
+wfo-0000738753	ref-0000738753	Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-287679
+wfo-0000738759	ref-0000738759	Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-287680
+wfo-0000738769	ref-0000738769	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287681
+wfo-0000738775	ref-0000738775	Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-287682
+wfo-0000738784	ref-0000738784	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287683
+wfo-0000738860	ref-0000738860	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-287697
+wfo-0000738865	ref-0000738865	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287698
+wfo-0000738876	ref-0000738876	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287699
+wfo-0000738889	ref-0000738889	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287700
+wfo-0000738894	ref-0000738894	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287701
+wfo-0000738903	ref-0000738903	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-287702
+wfo-0000738947	ref-0000738947	Syst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287709
+wfo-0000738987	ref-0000738987	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-287721
+wfo-0000739364	ref-0000739364	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287864
+wfo-0000739366	ref-0000739366	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287865
+wfo-0000739368	ref-0000739368	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287866
+wfo-0000739372	ref-0000739372	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287867
+wfo-0000739410	ref-0000739410	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287874
+wfo-0000739411	ref-0000739411	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287875
+wfo-0000739415	ref-0000739415	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287879
+wfo-0000739434	ref-0000739434	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287895
+wfo-0000739504	ref-0000739504	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287905
+wfo-0000739518	ref-0000739518	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287907
+wfo-0000739521	ref-0000739521	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287908
+wfo-0000739531	ref-0000739531	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287909
+wfo-0000739543	ref-0000739543	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287910
+wfo-0000739552	ref-0000739552	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287911
+wfo-0000739562	ref-0000739562	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287912
+wfo-0000739582	ref-0000739582	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287914
+wfo-0000739602	ref-0000739602	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287916
+wfo-0000739613	ref-0000739613	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287917
+wfo-0000739624	ref-0000739624	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287918
+wfo-0000739633	ref-0000739633	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287919
+wfo-0000739674	ref-0000739674	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287923
+wfo-0000739683	ref-0000739683	Opera Bot.	http://www.theplantlist.org/tpl1.1/record/kew-287924
+wfo-0000739758	ref-0000739758	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-287951
+wfo-0000743117	ref-0000743117	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-289457
+wfo-0000761096	ref-0000761096	Novon	http://www.theplantlist.org/tpl1.1/record/kew-300100
+wfo-0000761097	ref-0000761097	Novon	http://www.theplantlist.org/tpl1.1/record/kew-300101
+wfo-0000761098	ref-0000761098	Novon	http://www.theplantlist.org/tpl1.1/record/kew-300102
+wfo-0000761099	ref-0000761099	Novon	http://www.theplantlist.org/tpl1.1/record/kew-300103
+wfo-0000762959	ref-0000762959	Syst. Veg. Fl. Peruv. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-301926
+wfo-0000762960	ref-0000762960	Nov. Gen. Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301927
+wfo-0000762961	ref-0000762961	Syst. Veg. Fl. Peruv. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-301928
+wfo-0000762962	ref-0000762962	Fl. Brit. W. I.	http://www.theplantlist.org/tpl1.1/record/kew-301929
+wfo-0000762964	ref-0000762964	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-301930
+wfo-0000762965	ref-0000762965	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301931
+wfo-0000762966	ref-0000762966	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-301932
+wfo-0000762967	ref-0000762967	Index Palm.	http://www.theplantlist.org/tpl1.1/record/kew-301933
+wfo-0000762968	ref-0000762968	Bot. Mus. Leafl.	http://www.theplantlist.org/tpl1.1/record/kew-301934
+wfo-0000762969	ref-0000762969	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301935
+wfo-0000762970	ref-0000762970	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301936
+wfo-0000762971	ref-0000762971	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-301937
+wfo-0000762972	ref-0000762972	Torreya	http://www.theplantlist.org/tpl1.1/record/kew-301938
+wfo-0000762973	ref-0000762973	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-301939
+wfo-0000762975	ref-0000762975	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301940
+wfo-0000762976	ref-0000762976	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301941
+wfo-0000762977	ref-0000762977	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301942
+wfo-0000762978	ref-0000762978	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301943
+wfo-0000762979	ref-0000762979	Fieldiana, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-301944
+wfo-0000762980	ref-0000762980	Rev. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-301945
+wfo-0000762981	ref-0000762981	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301946
+wfo-0000762982	ref-0000762982	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-301947
+wfo-0000762983	ref-0000762983	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301948
+wfo-0000762984	ref-0000762984	Bol. Mus. Goeldi Hist. Nat. Ethnogr.	http://www.theplantlist.org/tpl1.1/record/kew-301949
+wfo-0000762986	ref-0000762986	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-301950
+wfo-0000762987	ref-0000762987	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301951
+wfo-0000762988	ref-0000762988	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301952
+wfo-0000762989	ref-0000762989	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301953
+wfo-0000762990	ref-0000762990	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301954
+wfo-0000762991	ref-0000762991	J. Bot. (Hooker)	http://www.theplantlist.org/tpl1.1/record/kew-301955
+wfo-0000762992	ref-0000762992	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301956
+wfo-0000762993	ref-0000762993	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301957
+wfo-0000762994	ref-0000762994	Allg. Bot. Z. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-301958
+wfo-0000762995	ref-0000762995	Anales Inst. Biol. Univ. Nac. México	http://www.theplantlist.org/tpl1.1/record/kew-301959
+wfo-0000762996	ref-0000762996	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301960
+wfo-0000762997	ref-0000762997	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301961
+wfo-0000762998	ref-0000762998	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301962
+wfo-0000762999	ref-0000762999	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301963
+wfo-0000763000	ref-0000763000	Nov. Gen. Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301964
+wfo-0000763001	ref-0000763001	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301965
+wfo-0000763002	ref-0000763002	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-301966
+wfo-0000763003	ref-0000763003	Index Palm.	http://www.theplantlist.org/tpl1.1/record/kew-301967
+wfo-0000763004	ref-0000763004	Fl. Brit. W. I.	http://www.theplantlist.org/tpl1.1/record/kew-301968
+wfo-0000763005	ref-0000763005	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301969
+wfo-0000763007	ref-0000763007	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-301970
+wfo-0000763008	ref-0000763008	Arch. Bot. (Forlì)	http://www.theplantlist.org/tpl1.1/record/kew-301971
+wfo-0000763009	ref-0000763009	Bull. Bot. Dept., Jamaica	http://www.theplantlist.org/tpl1.1/record/kew-301972
+wfo-0000763010	ref-0000763010	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-301973
+wfo-0000763011	ref-0000763011	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-301974
+wfo-0000763012	ref-0000763012	Bot. Mus. Leafl.	http://www.theplantlist.org/tpl1.1/record/kew-301975
+wfo-0000763013	ref-0000763013	Syst. Veg. Fl. Peruv. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-301976
+wfo-0000763014	ref-0000763014	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301977
+wfo-0000763015	ref-0000763015	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-301978
+wfo-0000763016	ref-0000763016	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-301979
+wfo-0000763018	ref-0000763018	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-301980
+wfo-0000763019	ref-0000763019	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-301981
+wfo-0000763020	ref-0000763020	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-301982
+wfo-0000763021	ref-0000763021	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-301983
+wfo-0000763022	ref-0000763022	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-301984
+wfo-0000763023	ref-0000763023	Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/kew-301985
+wfo-0000763024	ref-0000763024	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-301986
+wfo-0000763025	ref-0000763025	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301987
+wfo-0000763026	ref-0000763026	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-301988
+wfo-0000763027	ref-0000763027	Syst. Veg. Fl. Peruv. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-301989
+wfo-0000763029	ref-0000763029	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-301990
+wfo-0000763030	ref-0000763030	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301991
+wfo-0000763031	ref-0000763031	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-301992
+wfo-0000763032	ref-0000763032	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-301993
+wfo-0000763033	ref-0000763033	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-301994
+wfo-0000763034	ref-0000763034	Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl.	http://www.theplantlist.org/tpl1.1/record/kew-301995
+wfo-0000763035	ref-0000763035	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-301996
+wfo-0000763036	ref-0000763036	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301997
+wfo-0000763037	ref-0000763037	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301998
+wfo-0000763038	ref-0000763038	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-301999
+wfo-0000763042	ref-0000763042	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-302000
+wfo-0000763043	ref-0000763043	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-302001
+wfo-0000763044	ref-0000763044	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-302002
+wfo-0000763045	ref-0000763045	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-302003
+wfo-0000763046	ref-0000763046	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-302004
+wfo-0000763047	ref-0000763047	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-302005
+wfo-0000763048	ref-0000763048	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-302006
+wfo-0000763049	ref-0000763049	Torreya	http://www.theplantlist.org/tpl1.1/record/kew-302007
+wfo-0000763050	ref-0000763050	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-302008
+wfo-0000763051	ref-0000763051	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-302009
+wfo-0000763053	ref-0000763053	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-302010
+wfo-0000763054	ref-0000763054	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-302011
+wfo-0000763055	ref-0000763055	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-302012
+wfo-0000763056	ref-0000763056	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-302013
+wfo-0000763057	ref-0000763057	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-302014
+wfo-0000763058	ref-0000763058	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-302015
+wfo-0000763059	ref-0000763059	Anales Inst. Biol. Univ. Nac. México	http://www.theplantlist.org/tpl1.1/record/kew-302016
+wfo-0000763060	ref-0000763060	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-302017
+wfo-0000763061	ref-0000763061	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-302018
+wfo-0000763062	ref-0000763062	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-302019
+wfo-0000763064	ref-0000763064	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302020
+wfo-0000763065	ref-0000763065	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-302021
+wfo-0000763066	ref-0000763066	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-302022
+wfo-0000763691	ref-0000763691	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302627
+wfo-0000763692	ref-0000763692	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302628
+wfo-0000763693	ref-0000763693	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302629
+wfo-0000763695	ref-0000763695	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302630
+wfo-0000763696	ref-0000763696	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302631
+wfo-0000763697	ref-0000763697	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302632
+wfo-0000763698	ref-0000763698	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-302633
+wfo-0000764860	ref-0000764860	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/kew-303760
+wfo-0000764861	ref-0000764861	Dict. Class. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-303761
+wfo-0000764862	ref-0000764862	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-303762
+wfo-0000764863	ref-0000764863	Bot. Mus. Leafl.	http://www.theplantlist.org/tpl1.1/record/kew-303763
+wfo-0000764864	ref-0000764864	Dict. Class. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-303764
+wfo-0000765264	ref-0000765264	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-304175
+wfo-0000765295	ref-0000765295	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304207
+wfo-0000765296	ref-0000765296	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304208
+wfo-0000765297	ref-0000765297	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304209
+wfo-0000765299	ref-0000765299	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-304210
+wfo-0000765300	ref-0000765300	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304211
+wfo-0000765301	ref-0000765301	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304212
+wfo-0000765302	ref-0000765302	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304213
+wfo-0000765303	ref-0000765303	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304214
+wfo-0000765304	ref-0000765304	Opera Bot., B	http://www.theplantlist.org/tpl1.1/record/kew-304215
+wfo-0000765305	ref-0000765305	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304216
+wfo-0000765306	ref-0000765306	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304217
+wfo-0000765307	ref-0000765307	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304218
+wfo-0000765308	ref-0000765308	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304219
+wfo-0000765310	ref-0000765310	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304220
+wfo-0000765311	ref-0000765311	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304221
+wfo-0000765312	ref-0000765312	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-304222
+wfo-0000765313	ref-0000765313	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304223
+wfo-0000765314	ref-0000765314	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304224
+wfo-0000765315	ref-0000765315	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304225
+wfo-0000765316	ref-0000765316	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304226
+wfo-0000765317	ref-0000765317	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304227
+wfo-0000765318	ref-0000765318	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-304228
+wfo-0000765319	ref-0000765319	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304229
+wfo-0000765321	ref-0000765321	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304230
+wfo-0000765322	ref-0000765322	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304231
+wfo-0000765323	ref-0000765323	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304232
+wfo-0000765324	ref-0000765324	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304233
+wfo-0000765325	ref-0000765325	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304234
+wfo-0000765326	ref-0000765326	Bol. Soc. Venez. Ci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-304235
+wfo-0000765327	ref-0000765327	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304236
+wfo-0000765328	ref-0000765328	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304237
+wfo-0000765329	ref-0000765329	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304238
+wfo-0000765330	ref-0000765330	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304239
+wfo-0000765332	ref-0000765332	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-304240
+wfo-0000765333	ref-0000765333	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304241
+wfo-0000765334	ref-0000765334	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304242
+wfo-0000765335	ref-0000765335	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304243
+wfo-0000765336	ref-0000765336	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304245
+wfo-0000765337	ref-0000765337	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304246
+wfo-0000765338	ref-0000765338	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304247
+wfo-0000765339	ref-0000765339	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304248
+wfo-0000765340	ref-0000765340	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-304249
+wfo-0000765342	ref-0000765342	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304250
+wfo-0000765343	ref-0000765343	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304251
+wfo-0000765344	ref-0000765344	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304252
+wfo-0000765345	ref-0000765345	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304253
+wfo-0000765346	ref-0000765346	Caldasia	http://www.theplantlist.org/tpl1.1/record/kew-304254
+wfo-0000765347	ref-0000765347	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304255
+wfo-0000765348	ref-0000765348	Novon	http://www.theplantlist.org/tpl1.1/record/kew-304256
+wfo-0000765349	ref-0000765349	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304257
+wfo-0000765350	ref-0000765350	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304258
+wfo-0000765351	ref-0000765351	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-304259
+wfo-0000765353	ref-0000765353	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304260
+wfo-0000765354	ref-0000765354	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304261
+wfo-0000765355	ref-0000765355	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304262
+wfo-0000765356	ref-0000765356	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304263
+wfo-0000765357	ref-0000765357	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-304264
+wfo-0000765522	ref-0000765522	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-304425
+wfo-0000767141	ref-0000767141	Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/kew-305995
+wfo-0000767142	ref-0000767142	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-305996
+wfo-0000767143	ref-0000767143	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-305997
+wfo-0000767147	ref-0000767147	Acta Horti Berg.	http://www.theplantlist.org/tpl1.1/record/kew-306000
+wfo-0000770704	ref-0000770704	Novon	http://www.theplantlist.org/tpl1.1/record/kew-309411
+wfo-0000773019	ref-0000773019	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311649
+wfo-0000773021	ref-0000773021	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311650
+wfo-0000773022	ref-0000773022	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311651
+wfo-0000773023	ref-0000773023	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311652
+wfo-0000773024	ref-0000773024	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311653
+wfo-0000773025	ref-0000773025	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-311654
+wfo-0000802109	ref-0000802109	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-340506
+wfo-0000802110	ref-0000802110	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-340507
+wfo-0000802111	ref-0000802111	New Gen. Pl. Cat.	http://www.theplantlist.org/tpl1.1/record/kew-340508
+wfo-0000802112	ref-0000802112	Wiener Ill. Gart.-Zeitung	http://www.theplantlist.org/tpl1.1/record/kew-340509
+wfo-0000837704	ref-0000837704	Novon	http://www.theplantlist.org/tpl1.1/record/kew-375003
+wfo-0000837705	ref-0000837705	Novon	http://www.theplantlist.org/tpl1.1/record/kew-375004
+wfo-0000945526	ref-0000945526	Fl. Flumin.	http://www.theplantlist.org/tpl1.1/record/kew-63966
+wfo-0001250302	ref-0001250302	Fl. Brit. W. I.	http://www.theplantlist.org/tpl1.1/record/tro-50154966
+wfo-0001250547	ref-0001250547	Gard. Chron., ser. 3	http://www.theplantlist.org/tpl1.1/record/tro-50156212
+wfo-0001280860	ref-0001280860	Novon	http://www.theplantlist.org/tpl1.1/record/tro-50310469
+wfo-0001301587	ref-0001301587	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-9700004
+wfo-0001301604	ref-0001301604	Index Palmarum 43. 1854.	http://www.theplantlist.org/tpl1.1/record/tro-9700115
+wfo-0001301607	ref-0001301607	Mém. Mus. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/tro-9700357
+wfo-4000003358	ref-4000003358	Acta Horti Berg. 17(3): 41. 1954.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Asplundia/
+wfo-4000006743	ref-4000006743	Fl. Peruv. Prodr. 146. 1794. (early Oct 1794)	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Carludovica/
+wfo-4000008085	ref-4000008085	Nordic J. Bot. 9(1): 33. 1989.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Chorigyne/
+wfo-4000010242	ref-4000010242	Dict. Class. Hist. Nat. 5: 221–222. 1824.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Cyclanthus/
+wfo-4000011318	ref-4000011318	Ann. Missouri Bot. Gard. 76(1): 113, f. 1–5, 7–9. 1989.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Dianthoveus/
+wfo-4000011526	ref-4000011526	Acta Horti Berg. 17(3): 43. 1954.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Dicranopygium/
+wfo-4000014403	ref-4000014403	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 194. 1857.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Evodianthus/
+wfo-4000022389	ref-4000022389	Ann. Sci. Nat., Bot., sér. 4, 15: 361–362. 1861.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Ludovia/
+wfo-4000034617	ref-4000034617	Acta Horti Berg. 18(1): 260–262, f. 4f, 69, pl. 54. 1958.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Schultesiophytum/
+wfo-4000035950	ref-4000035950	Acta Horti Berg. 17(1): 3–6. 1954.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Sphaeradenia/
+wfo-4000036395	ref-4000036395	Fl. Bras. 3(2): 229. 1881.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Stelestylis/
+wfo-4000038243	ref-4000038243	Acta Horti Berg. 18(1): 254, f. 4e, 8g, 68, t. 51–53. 1958.	http://www.theplantlist.org/1.1/browse/A/Cyclanthaceae/Thoracocarpus/

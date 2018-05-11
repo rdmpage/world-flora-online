@@ -1,0 +1,70 @@
+wfo-0000658833	ref-0000658833	Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2	http://www.theplantlist.org/tpl1.1/record/kew-278019
+wfo-0000702283	ref-0000702283	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282495
+wfo-0000702294	ref-0000702294	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282496
+wfo-0000702304	ref-0000702304	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282497
+wfo-0000702314	ref-0000702314	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282498
+wfo-0000702325	ref-0000702325	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282499
+wfo-0000702622	ref-0000702622	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282535
+wfo-0000702743	ref-0000702743	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282549
+wfo-0000703025	ref-0000703025	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-282580
+wfo-0000719017	ref-0000719017	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-284458
+wfo-0000725151	ref-0000725151	Novosti Sist. Vyssh. Rast.	http://www.theplantlist.org/tpl1.1/record/kew-285408
+wfo-0000725405	ref-0000725405	Novosti Sist. Vyssh. Rast.	http://www.theplantlist.org/tpl1.1/record/kew-285434
+wfo-0000752302	ref-0000752302	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-291812
+wfo-0000752304	ref-0000752304	Fl. France	http://www.theplantlist.org/tpl1.1/record/kew-291814
+wfo-0000752305	ref-0000752305	Deutschl. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-291815
+wfo-0000752306	ref-0000752306	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-291816
+wfo-0000752307	ref-0000752307	Proc. Natl. Acad. U.S.A.	http://www.theplantlist.org/tpl1.1/record/kew-291817
+wfo-0000752308	ref-0000752308	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-291818
+wfo-0000752312	ref-0000752312	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-291821
+wfo-0000752313	ref-0000752313	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-291822
+wfo-0000752318	ref-0000752318	Proc. Natl. Acad. U.S.A.	http://www.theplantlist.org/tpl1.1/record/kew-291827
+wfo-0000752350	ref-0000752350	Canad. J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-291857
+wfo-0000752359	ref-0000752359	Canad. J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-291865
+wfo-0000752368	ref-0000752368	Canad. J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-291873
+wfo-0000752433	ref-0000752433	Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2	http://www.theplantlist.org/tpl1.1/record/kew-291937
+wfo-0000752434	ref-0000752434	Sitzungsber. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-291938
+wfo-0000752435	ref-0000752435	Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2	http://www.theplantlist.org/tpl1.1/record/kew-291939
+wfo-0000753694	ref-0000753694	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-293143
+wfo-0000753699	ref-0000753699	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-293148
+wfo-0000753700	ref-0000753700	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-293149
+wfo-0000753702	ref-0000753702	Proc. Natl. Acad. U.S.A.	http://www.theplantlist.org/tpl1.1/record/kew-293150
+wfo-0000753703	ref-0000753703	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-293151
+wfo-0000753953	ref-0000753953	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-293407
+wfo-0000753969	ref-0000753969	Proc. Natl. Acad. U.S.A.	http://www.theplantlist.org/tpl1.1/record/kew-293422
+wfo-0000755370	ref-0000755370	Fl. Franç.	http://www.theplantlist.org/tpl1.1/record/kew-294748
+wfo-0000769702	ref-0000769702	Phucagr. Theophr. Anth.	http://www.theplantlist.org/tpl1.1/record/kew-308453
+wfo-0000769707	ref-0000769707	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-308459
+wfo-0000769709	ref-0000769709	Fl. Bor.-Amer.	http://www.theplantlist.org/tpl1.1/record/kew-308460
+wfo-0000769710	ref-0000769710	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-308461
+wfo-0000770309	ref-0000770309	Icon. Fl. Germ. Helv.	http://www.theplantlist.org/tpl1.1/record/kew-309031
+wfo-0000770313	ref-0000770313	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-309035
+wfo-0000770314	ref-0000770314	Mem. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-309036
+wfo-0000770315	ref-0000770315	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-309037
+wfo-0000770316	ref-0000770316	Fruct. Sem. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-309038
+wfo-0000770319	ref-0000770319	Icon. Fl. Germ. Helv.	http://www.theplantlist.org/tpl1.1/record/kew-309040
+wfo-0000770320	ref-0000770320	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-309041
+wfo-0000770321	ref-0000770321	Enum. Pl. Phaen. Germ.	http://www.theplantlist.org/tpl1.1/record/kew-309042
+wfo-0000770323	ref-0000770323	Fl. Sicul. Syn.	http://www.theplantlist.org/tpl1.1/record/kew-309044
+wfo-0000770324	ref-0000770324	Fl. Dan.	http://www.theplantlist.org/tpl1.1/record/kew-309045
+wfo-0000770326	ref-0000770326	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-309047
+wfo-0000770327	ref-0000770327	Congr. Sci. France	http://www.theplantlist.org/tpl1.1/record/kew-309048
+wfo-0000770330	ref-0000770330	Amer. Monthly Mag. & Crit. Rev.	http://www.theplantlist.org/tpl1.1/record/kew-309051
+wfo-0000770332	ref-0000770332	Sitzungsber. Ges. Naturf. Freunde Berlin	http://www.theplantlist.org/tpl1.1/record/kew-309053
+wfo-0000770334	ref-0000770334	Bot. Mat. Med.	http://www.theplantlist.org/tpl1.1/record/kew-309055
+wfo-0000770336	ref-0000770336	Fl. Germ. Excurs.	http://www.theplantlist.org/tpl1.1/record/kew-309057
+wfo-0000771921	ref-0000771921	Fl. Dan.	http://www.theplantlist.org/tpl1.1/record/kew-310566
+wfo-0000773744	ref-0000773744	Ned. Kruidk. Arch.	http://www.theplantlist.org/tpl1.1/record/kew-312342
+wfo-0000795965	ref-0000795965	Aquatic Bot.	http://www.theplantlist.org/tpl1.1/record/kew-334491
+wfo-0000795966	ref-0000795966	Aquatic Bot.	http://www.theplantlist.org/tpl1.1/record/kew-334492
+wfo-0000810585	ref-0000810585	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-348839
+wfo-0000810587	ref-0000810587	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-348840
+wfo-0000810588	ref-0000810588	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-348841
+wfo-0000839206	ref-0000839206	Trans. & Proc. New Zealand Inst.	http://www.theplantlist.org/tpl1.1/record/kew-376531
+wfo-0000914757	ref-0000914757	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-459766
+wfo-0000914758	ref-0000914758	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-459767
+wfo-0000914759	ref-0000914759	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-459768
+wfo-0001270257	ref-0001270257	Algae	http://www.theplantlist.org/tpl1.1/record/tro-50245263
+wfo-4000017798	ref-4000017798	Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 59(1): 114. 1970.	http://www.theplantlist.org/1.1/browse/A/Zosteraceae/Heterozostera/
+wfo-4000029466	ref-4000029466	Fl. Bor.-Amer. 2: 171. 1838[1840].	http://www.theplantlist.org/1.1/browse/A/Zosteraceae/Phyllospadix/
+wfo-4000041285	ref-4000041285	Sp. Pl. 2: 968. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Zosteraceae/Zostera/

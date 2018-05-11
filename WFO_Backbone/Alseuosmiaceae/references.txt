@@ -1,0 +1,34 @@
+wfo-0000294428	ref-0000294428	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-176265
+wfo-0000372550	ref-0000372550	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2364744
+wfo-0000394194	ref-0000394194	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2407668
+wfo-0000394206	ref-0000394206	Bull. Mens. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/kew-2407682
+wfo-0000394400	ref-0000394400	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2407960
+wfo-0000394401	ref-0000394401	Bull. Mens. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/kew-2407961
+wfo-0000394402	ref-0000394402	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2407963
+wfo-0000427675	ref-0000427675	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2466075
+wfo-0000427687	ref-0000427687	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2466097
+wfo-0000427703	ref-0000427703	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2466125
+wfo-0000527501	ref-0000527501	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630170
+wfo-0000527502	ref-0000527502	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630171
+wfo-0000527503	ref-0000527503	New Zealand J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2630172
+wfo-0000527504	ref-0000527504	Alph. Aufz. Gew.	http://www.theplantlist.org/tpl1.1/record/kew-2630173
+wfo-0000527505	ref-0000527505	Excurs. North Isl.	http://www.theplantlist.org/tpl1.1/record/kew-2630174
+wfo-0000527506	ref-0000527506	Ann. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2630175
+wfo-0000527507	ref-0000527507	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630176
+wfo-0000527508	ref-0000527508	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630177
+wfo-0000527509	ref-0000527509	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630178
+wfo-0000527510	ref-0000527510	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630179
+wfo-0000527512	ref-0000527512	Trans. & Proc. New Zealand Inst.	http://www.theplantlist.org/tpl1.1/record/kew-2630180
+wfo-0000527513	ref-0000527513	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2630181
+wfo-0000527514	ref-0000527514	Stud. Fl. New Zealand	http://www.theplantlist.org/tpl1.1/record/kew-2630182
+wfo-0000527515	ref-0000527515	Stud. Fl. New Zealand	http://www.theplantlist.org/tpl1.1/record/kew-2630183
+wfo-0000527516	ref-0000527516	New Zealand J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2630184
+wfo-0000626094	ref-0000626094	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2742772
+wfo-0000685235	ref-0000685235	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2807104
+wfo-0001264600	ref-0001264600	Blumea	http://www.theplantlist.org/tpl1.1/record/tro-50213488
+wfo-4000001376	ref-4000001376	Ann. Nat. Hist. 2: 209. 1839[1838]. (Nov 1838)	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Alseuosmia/
+wfo-4000009705	ref-4000009705	Blumea 29: 391. 1984.	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Crispiloba/
+wfo-4000023702	ref-4000023702	Bot. Jahrb. Syst. 39: 269. 1906.	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Memecylanthus/
+wfo-4000027654	ref-4000027654	Bot. Jahrb. Syst. 39: 270. 1906.	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Pachydiscus/
+wfo-4000028777	ref-4000028777	Bull. Mens. Soc. Linn. Paris 1: 731. 1888.	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Periomphale/
+wfo-4000040793	ref-4000040793	Fragm. 2: 136. 1861.	http://www.theplantlist.org/1.1/browse/A/Alseuosmiaceae/Wittsteinia/

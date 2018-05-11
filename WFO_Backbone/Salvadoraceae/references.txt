@@ -1,0 +1,66 @@
+wfo-0000357209	ref-0000357209	Sylva Tellur.	http://www.theplantlist.org/tpl1.1/record/kew-2335317
+wfo-0000404428	ref-0000404428	Cent. Pl. II	http://www.theplantlist.org/tpl1.1/record/kew-2425479
+wfo-0000413424	ref-0000413424	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2442247
+wfo-0000413426	ref-0000413426	Allg. Naturgesch.	http://www.theplantlist.org/tpl1.1/record/kew-2442249
+wfo-0000453314	ref-0000453314	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-2510531
+wfo-0000453316	ref-0000453316	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2510540
+wfo-0000453317	ref-0000453317	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2510542
+wfo-0000453318	ref-0000453318	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2510543
+wfo-0000453319	ref-0000453319	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2510544
+wfo-0000453320	ref-0000453320	Numer. List	http://www.theplantlist.org/tpl1.1/record/kew-2510545
+wfo-0000453321	ref-0000453321	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2510547
+wfo-0000453324	ref-0000453324	Reis. Br.-Guiana	http://www.theplantlist.org/tpl1.1/record/kew-2510551
+wfo-0000455320	ref-0000455320	Hort. Bot. Vindob.	http://www.theplantlist.org/tpl1.1/record/kew-2514749
+wfo-0000471322	ref-0000471322	Pflanzenw. Ost-Afrikas	http://www.theplantlist.org/tpl1.1/record/kew-2543390
+wfo-0000473868	ref-0000473868	Fruct. Sem. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2547451
+wfo-0000492903	ref-0000492903	Notul. Syst. (Paris)	http://www.theplantlist.org/tpl1.1/record/kew-2581793
+wfo-0000492904	ref-0000492904	Enum. Pl. Zeyl.	http://www.theplantlist.org/tpl1.1/record/kew-2581794
+wfo-0000492905	ref-0000492905	Proc. Roy. Philos. Soc. Glasgow	http://www.theplantlist.org/tpl1.1/record/kew-2581795
+wfo-0000492906	ref-0000492906	Flora	http://www.theplantlist.org/tpl1.1/record/kew-2581797
+wfo-0000492907	ref-0000492907	Ill. Ind. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2581798
+wfo-0000492910	ref-0000492910	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-2581800
+wfo-0000492911	ref-0000492911	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2581802
+wfo-0000492912	ref-0000492912	Proc. Roy. Philos. Soc. Glasgow	http://www.theplantlist.org/tpl1.1/record/kew-2581803
+wfo-0000492913	ref-0000492913	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2581804
+wfo-0000492914	ref-0000492914	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2581806
+wfo-0000492915	ref-0000492915	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2581807
+wfo-0000492916	ref-0000492916	Voy. Inde	http://www.theplantlist.org/tpl1.1/record/kew-2581808
+wfo-0000492918	ref-0000492918	Ill. Bot. Himal. Mts.	http://www.theplantlist.org/tpl1.1/record/kew-2581810
+wfo-0000492919	ref-0000492919	Fl. Somala	http://www.theplantlist.org/tpl1.1/record/kew-2581811
+wfo-0000492920	ref-0000492920	Fl. Cochinch.	http://www.theplantlist.org/tpl1.1/record/kew-2581812
+wfo-0000492921	ref-0000492921	Fl. Cochinch.	http://www.theplantlist.org/tpl1.1/record/kew-2581813
+wfo-0000519151	ref-0000519151	Bijdr.	http://www.theplantlist.org/tpl1.1/record/kew-2620600
+wfo-0000558013	ref-0000558013	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2667376
+wfo-0000558014	ref-0000558014	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2667377
+wfo-0000558015	ref-0000558015	Syst. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2667378
+wfo-0000558016	ref-0000558016	Fl. Filip.	http://www.theplantlist.org/tpl1.1/record/kew-2667379
+wfo-0000558019	ref-0000558019	Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2667381
+wfo-0000558020	ref-0000558020	Hist. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2667382
+wfo-0000558021	ref-0000558021	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2667383
+wfo-0000558022	ref-0000558022	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2667384
+wfo-0000558023	ref-0000558023	Fl. Cap.	http://www.theplantlist.org/tpl1.1/record/kew-2667385
+wfo-0000558024	ref-0000558024	in Fl. Madag.	http://www.theplantlist.org/tpl1.1/record/kew-2667386
+wfo-0000583039	ref-0000583039	Suppl. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2695241
+wfo-0000652720	ref-0000652720	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2773604
+wfo-0000652721	ref-0000652721	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2773605
+wfo-0000652722	ref-0000652722	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2773606
+wfo-0000652723	ref-0000652723	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2773607
+wfo-0000652724	ref-0000652724	Boll. Soc. Bot. Ital.	http://www.theplantlist.org/tpl1.1/record/kew-2773608
+wfo-0000652725	ref-0000652725	Notizbl. Königl. Bot. Gart. Berlin	http://www.theplantlist.org/tpl1.1/record/kew-2773609
+wfo-0000652727	ref-0000652727	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/kew-2773610
+wfo-0000652728	ref-0000652728	Boll. Reale Orto Bot. Palermo	http://www.theplantlist.org/tpl1.1/record/kew-2773611
+wfo-0000652729	ref-0000652729	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2773612
+wfo-0000666865	ref-0000666865	Observ. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788088
+wfo-0000685385	ref-0000685385	Fl. Ned. Ind.	http://www.theplantlist.org/tpl1.1/record/kew-2807241
+wfo-0000693803	ref-0000693803	Fl. Indica	http://www.theplantlist.org/tpl1.1/record/kew-2816337
+wfo-0001038603	ref-0001038603	Expos. Fam. Nat.	http://www.theplantlist.org/tpl1.1/record/tro-100361950
+wfo-0001134274	ref-0001134274	Stirp. Nov.	http://www.theplantlist.org/tpl1.1/record/tro-28400003
+wfo-0001134275	ref-0001134275	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-28400005
+wfo-0001258672	ref-0001258672	Fl. Aegypt.-Arab.	http://www.theplantlist.org/tpl1.1/record/tro-50188550
+wfo-0001276788	ref-0001276788	Bijdr. Fl. Ned. Ind.	http://www.theplantlist.org/tpl1.1/record/tro-50290965
+wfo-4000003823	ref-4000003823	Encycl. 1: 343. 1783.	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Azima/
+wfo-4000012311	ref-4000012311	Gen. Pl. 425. 1789.	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Dobera/
+wfo-4000024647	ref-4000024647	Stirp. Nov. 1. 1785.	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Monetia/
+wfo-4000030131	ref-4000030131	Pflanzenw. Ost-Afrikas C: 279. 1895.	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Platymitium/
+wfo-4000033885	ref-4000033885	Sp. Pl. 1: 122. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Salvadora/
+wfo-4000038545	ref-4000038545	Fl. Aegypt.-Arab. 32. 1775. (1 Oct 1775)	http://www.theplantlist.org/1.1/browse/A/Salvadoraceae/Tomex/

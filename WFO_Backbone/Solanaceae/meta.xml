@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/">
+	<core encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="\t" fieldsEnclosedBy='' ignoreHeaderLines="0" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+		<files>
+			<location>classification.txt</location>
+		</files>
+		<id index="0"/>
+		<field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+		<field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/verbatimTaxonRank"/>
+		<field index="4" term="http://rs.tdwg.org/dwc/terms/genus"/>
+		<field index="6" term="http://rs.tdwg.org/dwc/terms/specificEpithet"/>
+		<field index="8" term="http://rs.tdwg.org/dwc/terms/infraspecificEpithet"/>
+		<field index="11" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+		<field index="15" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
+		<field index="16" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
+		<field index="17" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
+		<field index="18" term="http://rs.tdwg.org/dwc/terms/datasetID"/>
+		<field index="21" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
+		<field index="22" term="http://rs.tdwg.org/dwc/terms/family"/>
+		<field index="28" term="http://rs.tdwg.org/dwc/terms/parentNameUsageID"/>
+		<field index="29" term="http://rs.tdwg.org/dwc/terms/phylum"/>
+		<field index="30" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+		<field index="31" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship"/>
+		<field index="32" term="http://rs.tdwg.org/dwc/terms/kingdom" default="Plantae"/>
+		<field index="33" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode" default="ICBN" />
+		<field index="34" term="http://purl.org/dc/terms/bibliographicCitation" default="CC0 1.0 Universal (CC0 1.0). https://creativecommons.org/publicdomain/zero/1.0"/>
+		<field index="35" term="http://purl.org/dc/terms/rightsHolder"  default="World Flora Online Consortium"/>
+		<field index="37" term="http://purl.org/dc/terms/license" default="https://creativecommons.org/publicdomain/zero/1.0"/>
+		<field term="http://purl.org/dc/terms/rights" default="CC0 1.0 Universal (CC0 1.0)." />
+		<field term="http://purl.org/dc/terms/references" default="http://www.worldfloraonline.org" />
+	</core>
+</archive>

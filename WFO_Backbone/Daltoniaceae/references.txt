@@ -1,0 +1,525 @@
+wfo-0001039491	ref-0001039491	Monogr. Syst. Bot. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-100364534
+wfo-0001039492	ref-0001039492	Monogr. Syst. Bot. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-100364535
+wfo-0001042852	ref-0001042852	Telopea	http://www.theplantlist.org/tpl1.1/record/tro-100376017
+wfo-0001146592	ref-0001146592	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35100050
+wfo-0001146641	ref-0001146641	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35100145
+wfo-0001146680	ref-0001146680	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35100219
+wfo-0001146868	ref-0001146868	Los Angeles County Mus. Contr. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35100493
+wfo-0001147006	ref-0001147006	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35100688
+wfo-0001147007	ref-0001147007	Ann. Sci. Nat., Bot., sér. 3,	http://www.theplantlist.org/tpl1.1/record/tro-35100689
+wfo-0001147008	ref-0001147008	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35100693
+wfo-0001147009	ref-0001147009	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100694
+wfo-0001147010	ref-0001147010	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35100696
+wfo-0001147011	ref-0001147011	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35100697
+wfo-0001147012	ref-0001147012	Farlowia	http://www.theplantlist.org/tpl1.1/record/tro-35100700
+wfo-0001147013	ref-0001147013	Bernice P. Bishop Mus. Bull.	http://www.theplantlist.org/tpl1.1/record/tro-35100701
+wfo-0001147014	ref-0001147014	Ann. Naturhist. Mus. Wien	http://www.theplantlist.org/tpl1.1/record/tro-35100702
+wfo-0001147015	ref-0001147015	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35100703
+wfo-0001147017	ref-0001147017	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100706
+wfo-0001147018	ref-0001147018	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/tro-35100709
+wfo-0001147019	ref-0001147019	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100710
+wfo-0001147020	ref-0001147020	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100711
+wfo-0001147021	ref-0001147021	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100712
+wfo-0001147022	ref-0001147022	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35100713
+wfo-0001147023	ref-0001147023	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35100714
+wfo-0001147024	ref-0001147024	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35100715
+wfo-0001147025	ref-0001147025	Mém. Soc. Sci. Nat. Cherbourg	http://www.theplantlist.org/tpl1.1/record/tro-35100718
+wfo-0001147026	ref-0001147026	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35100719
+wfo-0001147027	ref-0001147027	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35100720
+wfo-0001147028	ref-0001147028	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100722
+wfo-0001147029	ref-0001147029	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35100723
+wfo-0001147030	ref-0001147030	Symb. Antill.	http://www.theplantlist.org/tpl1.1/record/tro-35100724
+wfo-0001147031	ref-0001147031	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35100726
+wfo-0001147032	ref-0001147032	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35100727
+wfo-0001147034	ref-0001147034	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100729
+wfo-0001147035	ref-0001147035	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100730
+wfo-0001147036	ref-0001147036	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100731
+wfo-0001147037	ref-0001147037	Hist. Phys. Madagascar, Mousses	http://www.theplantlist.org/tpl1.1/record/tro-35100732
+wfo-0001147039	ref-0001147039	J. Bombay Nat. Hist. Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35100734
+wfo-0001147040	ref-0001147040	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100736
+wfo-0001147041	ref-0001147041	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35100737
+wfo-0001147042	ref-0001147042	Muscol. Brit.	http://www.theplantlist.org/tpl1.1/record/tro-35100738
+wfo-0001147043	ref-0001147043	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100740
+wfo-0001147044	ref-0001147044	Ann. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35100741
+wfo-0001147047	ref-0001147047	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100745
+wfo-0001147048	ref-0001147048	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100746
+wfo-0001147049	ref-0001147049	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/tro-35100748
+wfo-0001147050	ref-0001147050	Ann. Sci. Nat., Bot., sér. 2,	http://www.theplantlist.org/tpl1.1/record/tro-35100749
+wfo-0001147051	ref-0001147051	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35100750
+wfo-0001147052	ref-0001147052	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100751
+wfo-0001147053	ref-0001147053	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35100753
+wfo-0001147054	ref-0001147054	Ann. Sci. Nat., Bot., sér. 5,	http://www.theplantlist.org/tpl1.1/record/tro-35100754
+wfo-0001147055	ref-0001147055	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/tro-35100755
+wfo-0001147056	ref-0001147056	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100756
+wfo-0001147057	ref-0001147057	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100757
+wfo-0001147058	ref-0001147058	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35100758
+wfo-0001147059	ref-0001147059	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35100760
+wfo-0001147060	ref-0001147060	Oefvers. Förh. Finska Vetensk.-Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35100761
+wfo-0001147061	ref-0001147061	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100762
+wfo-0001147062	ref-0001147062	Calcutta J. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/tro-35100764
+wfo-0001147063	ref-0001147063	Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100765
+wfo-0001147064	ref-0001147064	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35100767
+wfo-0001147065	ref-0001147065	Rev. Bryol., n.s.	http://www.theplantlist.org/tpl1.1/record/tro-35100768
+wfo-0001147066	ref-0001147066	Nuovo Giorn. Bot. Ital., n.s.,	http://www.theplantlist.org/tpl1.1/record/tro-35100769
+wfo-0001147069	ref-0001147069	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100773
+wfo-0001147070	ref-0001147070	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35100774
+wfo-0001147071	ref-0001147071	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100775
+wfo-0001147072	ref-0001147072	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/tro-35100777
+wfo-0001147074	ref-0001147074	J. Bombay Nat. Hist. Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35100781
+wfo-0001147075	ref-0001147075	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100783
+wfo-0001147076	ref-0001147076	Ark. Bot., n.s.,	http://www.theplantlist.org/tpl1.1/record/tro-35100784
+wfo-0001147077	ref-0001147077	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100785
+wfo-0001147078	ref-0001147078	Bernice P. Bishop Mus. Bull.	http://www.theplantlist.org/tpl1.1/record/tro-35100786
+wfo-0001147079	ref-0001147079	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100787
+wfo-0001147080	ref-0001147080	Fl. Tasman.	http://www.theplantlist.org/tpl1.1/record/tro-35100788
+wfo-0001147081	ref-0001147081	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35100789
+wfo-0001147082	ref-0001147082	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35100790
+wfo-0001147083	ref-0001147083	Öfvers. Förh. Kongl. Svenska Vetensk.-Akad.	http://www.theplantlist.org/tpl1.1/record/tro-35100791
+wfo-0001147084	ref-0001147084	Bernice P. Bishop Mus. Bull.	http://www.theplantlist.org/tpl1.1/record/tro-35100792
+wfo-0001147085	ref-0001147085	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100793
+wfo-0001147086	ref-0001147086	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100795
+wfo-0001147087	ref-0001147087	Ann. Naturhist. Mus. Wien	http://www.theplantlist.org/tpl1.1/record/tro-35100796
+wfo-0001147088	ref-0001147088	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100797
+wfo-0001147089	ref-0001147089	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/tro-35100800
+wfo-0001147091	ref-0001147091	Muscol. Brit.	http://www.theplantlist.org/tpl1.1/record/tro-35100802
+wfo-0001147092	ref-0001147092	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35100804
+wfo-0001147093	ref-0001147093	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100805
+wfo-0001147094	ref-0001147094	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35100806
+wfo-0001147096	ref-0001147096	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35100808
+wfo-0001147097	ref-0001147097	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35100809
+wfo-0001147098	ref-0001147098	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100810
+wfo-0001147099	ref-0001147099	Acta Soc. Sci. Fenn.	http://www.theplantlist.org/tpl1.1/record/tro-35100811
+wfo-0001147100	ref-0001147100	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100812
+wfo-0001147101	ref-0001147101	Bull. Jard. Bot. État Brux.	http://www.theplantlist.org/tpl1.1/record/tro-35100813
+wfo-0001147102	ref-0001147102	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35100815
+wfo-0001147103	ref-0001147103	Lloydia	http://www.theplantlist.org/tpl1.1/record/tro-35100816
+wfo-0001147104	ref-0001147104	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/tro-35100817
+wfo-0001147105	ref-0001147105	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35100818
+wfo-0001147106	ref-0001147106	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35100819
+wfo-0001147107	ref-0001147107	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35100820
+wfo-0001147841	ref-0001147841	Sp. Musc. Frond., Suppl. 2	http://www.theplantlist.org/tpl1.1/record/tro-35102433
+wfo-0001147842	ref-0001147842	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35102434
+wfo-0001147843	ref-0001147843	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35102435
+wfo-0001147844	ref-0001147844	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35102437
+wfo-0001147845	ref-0001147845	Bryol. Jav.	http://www.theplantlist.org/tpl1.1/record/tro-35102438
+wfo-0001147846	ref-0001147846	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35102439
+wfo-0001147847	ref-0001147847	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35102440
+wfo-0001147848	ref-0001147848	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35102442
+wfo-0001147853	ref-0001147853	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35102447
+wfo-0001148336	ref-0001148336	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35103353
+wfo-0001148337	ref-0001148337	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35103354
+wfo-0001148338	ref-0001148338	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35103355
+wfo-0001148339	ref-0001148339	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35103356
+wfo-0001149084	ref-0001149084	Sp. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35104683
+wfo-0001152031	ref-0001152031	Prodr. Aethéogam.	http://www.theplantlist.org/tpl1.1/record/tro-35109479
+wfo-0001152096	ref-0001152096	Prodr. Aethéogam.	http://www.theplantlist.org/tpl1.1/record/tro-35109566
+wfo-0001152351	ref-0001152351	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35109888
+wfo-0001152361	ref-0001152361	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35109898
+wfo-0001152412	ref-0001152412	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35110005
+wfo-0001152455	ref-0001152455	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35110150
+wfo-0001156225	ref-0001156225	Bryol. Univ.	http://www.theplantlist.org/tpl1.1/record/tro-35116664
+wfo-0001157456	ref-0001157456	Sp. Musc. Frond., Suppl. 1	http://www.theplantlist.org/tpl1.1/record/tro-35119310
+wfo-0001163114	ref-0001163114	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35130142
+wfo-0001163115	ref-0001163115	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130143
+wfo-0001163116	ref-0001163116	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130144
+wfo-0001163117	ref-0001163117	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130146
+wfo-0001163118	ref-0001163118	Mem. Soc. Cub. Hist. Nat. Felipe Poey	http://www.theplantlist.org/tpl1.1/record/tro-35130147
+wfo-0001163119	ref-0001163119	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130148
+wfo-0001163120	ref-0001163120	Bull. Brit. Mus. (Nat. Hist.), Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35130149
+wfo-0001163121	ref-0001163121	Coll. Nom. Broth.	http://www.theplantlist.org/tpl1.1/record/tro-35130150
+wfo-0001163122	ref-0001163122	Ergebn. Bot. Exped. Südbras., Musci	http://www.theplantlist.org/tpl1.1/record/tro-35130151
+wfo-0001163123	ref-0001163123	Bull. Brit. Mus. (Nat. Hist.), Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35130152
+wfo-0001163124	ref-0001163124	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130153
+wfo-0001163125	ref-0001163125	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35130154
+wfo-0001163126	ref-0001163126	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35130155
+wfo-0001163127	ref-0001163127	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35130156
+wfo-0001163128	ref-0001163128	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130157
+wfo-0001163129	ref-0001163129	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35130158
+wfo-0001163130	ref-0001163130	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130159
+wfo-0001163131	ref-0001163131	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35130160
+wfo-0001163132	ref-0001163132	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130161
+wfo-0001163133	ref-0001163133	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35130162
+wfo-0001163135	ref-0001163135	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35130164
+wfo-0001164666	ref-0001164666	Bull. Jard. Bot. État Brux.	http://www.theplantlist.org/tpl1.1/record/tro-35132457
+wfo-0001164667	ref-0001164667	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35132458
+wfo-0001164668	ref-0001164668	Oefvers. Förh. Finska Vetensk.-Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35132459
+wfo-0001164669	ref-0001164669	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35132460
+wfo-0001164679	ref-0001164679	Trans. Roy. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/tro-35132475
+wfo-0001164681	ref-0001164681	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35132477
+wfo-0001164715	ref-0001164715	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35132515
+wfo-0001164730	ref-0001164730	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35132533
+wfo-0001164752	ref-0001164752	J. Bot. (Morot)	http://www.theplantlist.org/tpl1.1/record/tro-35132563
+wfo-0001164759	ref-0001164759	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35132571
+wfo-0001164763	ref-0001164763	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35132576
+wfo-0001164769	ref-0001164769	Miss. Sci. Cape Horn, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35132582
+wfo-0001164793	ref-0001164793	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35132612
+wfo-0001164794	ref-0001164794	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35132613
+wfo-0001166514	ref-0001166514	Revista Chilena Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/tro-35135312
+wfo-0001166515	ref-0001166515	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/tro-35135313
+wfo-0001166520	ref-0001166520	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35135318
+wfo-0001166523	ref-0001166523	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35135321
+wfo-0001166534	ref-0001166534	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35135334
+wfo-0001166535	ref-0001166535	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35135336
+wfo-0001166537	ref-0001166537	Bull. Soc. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/tro-35135338
+wfo-0001166548	ref-0001166548	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35135349
+wfo-0001166552	ref-0001166552	J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35135353
+wfo-0001166554	ref-0001166554	Oefvers. Förh. Finska Vetensk.-Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35135355
+wfo-0001166881	ref-0001166881	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35135925
+wfo-0001168339	ref-0001168339	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138446
+wfo-0001168340	ref-0001168340	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138448
+wfo-0001168341	ref-0001168341	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138449
+wfo-0001168342	ref-0001168342	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138450
+wfo-0001168343	ref-0001168343	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138451
+wfo-0001168344	ref-0001168344	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138452
+wfo-0001168345	ref-0001168345	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138453
+wfo-0001168346	ref-0001168346	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35138454
+wfo-0001168347	ref-0001168347	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138455
+wfo-0001168348	ref-0001168348	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138456
+wfo-0001168349	ref-0001168349	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35138457
+wfo-0001168350	ref-0001168350	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138458
+wfo-0001168351	ref-0001168351	Mém. Soc. Sci. Nat. Cherbourg	http://www.theplantlist.org/tpl1.1/record/tro-35138459
+wfo-0001168352	ref-0001168352	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138460
+wfo-0001168353	ref-0001168353	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138461
+wfo-0001168354	ref-0001168354	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138462
+wfo-0001168355	ref-0001168355	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35138463
+wfo-0001168356	ref-0001168356	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35138464
+wfo-0001168357	ref-0001168357	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138465
+wfo-0001168358	ref-0001168358	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138467
+wfo-0001168359	ref-0001168359	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138468
+wfo-0001168360	ref-0001168360	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138469
+wfo-0001168362	ref-0001168362	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138471
+wfo-0001168363	ref-0001168363	Taxon	http://www.theplantlist.org/tpl1.1/record/tro-35138473
+wfo-0001168365	ref-0001168365	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138476
+wfo-0001168366	ref-0001168366	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138477
+wfo-0001168367	ref-0001168367	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138478
+wfo-0001168368	ref-0001168368	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138479
+wfo-0001168369	ref-0001168369	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35138480
+wfo-0001168371	ref-0001168371	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138482
+wfo-0001168372	ref-0001168372	Index Bryol. Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138483
+wfo-0001168373	ref-0001168373	Contr. U.S. Natl. Herb.	http://www.theplantlist.org/tpl1.1/record/tro-35138484
+wfo-0001168374	ref-0001168374	Recueil Publ. Soc. Havraise Études Diverses	http://www.theplantlist.org/tpl1.1/record/tro-35138485
+wfo-0001168375	ref-0001168375	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138486
+wfo-0001168376	ref-0001168376	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138487
+wfo-0001168377	ref-0001168377	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138488
+wfo-0001168378	ref-0001168378	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138489
+wfo-0001168379	ref-0001168379	Suppl. Prodr. Fl. Bryol. Madagascar	http://www.theplantlist.org/tpl1.1/record/tro-35138490
+wfo-0001168380	ref-0001168380	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35138491
+wfo-0001168381	ref-0001168381	J. Bot. (Morot)	http://www.theplantlist.org/tpl1.1/record/tro-35138492
+wfo-0001168382	ref-0001168382	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35138493
+wfo-0001168383	ref-0001168383	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138494
+wfo-0001168385	ref-0001168385	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138496
+wfo-0001168386	ref-0001168386	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138497
+wfo-0001168387	ref-0001168387	Ann. Sci. Nat., Bot., sér. 5,	http://www.theplantlist.org/tpl1.1/record/tro-35138498
+wfo-0001168388	ref-0001168388	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138499
+wfo-0001168389	ref-0001168389	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138500
+wfo-0001168390	ref-0001168390	Index Bryol. Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138501
+wfo-0001168391	ref-0001168391	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138502
+wfo-0001168393	ref-0001168393	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138504
+wfo-0001168394	ref-0001168394	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138506
+wfo-0001168396	ref-0001168396	Mém. Soc. Sci. Nat. Cherbourg	http://www.theplantlist.org/tpl1.1/record/tro-35138508
+wfo-0001168397	ref-0001168397	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138509
+wfo-0001168398	ref-0001168398	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138510
+wfo-0001168399	ref-0001168399	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138512
+wfo-0001168400	ref-0001168400	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138513
+wfo-0001168401	ref-0001168401	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138515
+wfo-0001168403	ref-0001168403	Bull. Brit. Mus. (Nat. Hist.), Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138517
+wfo-0001168404	ref-0001168404	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35138519
+wfo-0001168405	ref-0001168405	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138521
+wfo-0001168406	ref-0001168406	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138522
+wfo-0001168407	ref-0001168407	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138523
+wfo-0001168408	ref-0001168408	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138524
+wfo-0001168409	ref-0001168409	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138525
+wfo-0001168410	ref-0001168410	Mexic. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-35138526
+wfo-0001168411	ref-0001168411	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138528
+wfo-0001168412	ref-0001168412	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138531
+wfo-0001168413	ref-0001168413	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138532
+wfo-0001168414	ref-0001168414	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138533
+wfo-0001168415	ref-0001168415	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138534
+wfo-0001168416	ref-0001168416	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35138535
+wfo-0001168417	ref-0001168417	J. Proc. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138536
+wfo-0001168418	ref-0001168418	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138537
+wfo-0001168420	ref-0001168420	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138539
+wfo-0001168421	ref-0001168421	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138540
+wfo-0001168423	ref-0001168423	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138542
+wfo-0001168424	ref-0001168424	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138544
+wfo-0001168425	ref-0001168425	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138545
+wfo-0001168426	ref-0001168426	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138546
+wfo-0001168427	ref-0001168427	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138547
+wfo-0001168429	ref-0001168429	Index Bryol. Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138550
+wfo-0001168431	ref-0001168431	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138552
+wfo-0001168432	ref-0001168432	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35138553
+wfo-0001168433	ref-0001168433	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138555
+wfo-0001168435	ref-0001168435	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138558
+wfo-0001168436	ref-0001168436	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138559
+wfo-0001168437	ref-0001168437	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138560
+wfo-0001168438	ref-0001168438	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138561
+wfo-0001168439	ref-0001168439	Symb. Antill.	http://www.theplantlist.org/tpl1.1/record/tro-35138563
+wfo-0001168440	ref-0001168440	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138564
+wfo-0001168441	ref-0001168441	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138565
+wfo-0001168442	ref-0001168442	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138566
+wfo-0001168443	ref-0001168443	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35138568
+wfo-0001168445	ref-0001168445	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35138571
+wfo-0001168446	ref-0001168446	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138572
+wfo-0001168447	ref-0001168447	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138573
+wfo-0001168448	ref-0001168448	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138575
+wfo-0001168449	ref-0001168449	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138576
+wfo-0001168450	ref-0001168450	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138579
+wfo-0001168451	ref-0001168451	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138580
+wfo-0001168452	ref-0001168452	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/tro-35138581
+wfo-0001168453	ref-0001168453	Ann. Sci. Nat., Bot., sér. 5,	http://www.theplantlist.org/tpl1.1/record/tro-35138583
+wfo-0001168454	ref-0001168454	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138584
+wfo-0001168457	ref-0001168457	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138587
+wfo-0001168458	ref-0001168458	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138588
+wfo-0001168459	ref-0001168459	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35138589
+wfo-0001168460	ref-0001168460	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138591
+wfo-0001168461	ref-0001168461	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138592
+wfo-0001168462	ref-0001168462	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138593
+wfo-0001168463	ref-0001168463	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138594
+wfo-0001168464	ref-0001168464	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138595
+wfo-0001168465	ref-0001168465	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138597
+wfo-0001168466	ref-0001168466	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138599
+wfo-0001168467	ref-0001168467	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/tro-35138600
+wfo-0001168468	ref-0001168468	Ann. Sci. Nat., Bot., sér. 5,	http://www.theplantlist.org/tpl1.1/record/tro-35138601
+wfo-0001168469	ref-0001168469	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138604
+wfo-0001168470	ref-0001168470	Mém. Soc. Sci. Nat. Cherbourg	http://www.theplantlist.org/tpl1.1/record/tro-35138605
+wfo-0001168471	ref-0001168471	Enum. Bryin. Exot., suppl. 2,	http://www.theplantlist.org/tpl1.1/record/tro-35138606
+wfo-0001168472	ref-0001168472	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138607
+wfo-0001168473	ref-0001168473	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138608
+wfo-0001168474	ref-0001168474	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138609
+wfo-0001168475	ref-0001168475	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138610
+wfo-0001168476	ref-0001168476	Bih. Kongl. Svenska Vetensk.-Akad. Handl.	http://www.theplantlist.org/tpl1.1/record/tro-35138612
+wfo-0001168477	ref-0001168477	Beih. Bot. Centralbl., Abt. 2	http://www.theplantlist.org/tpl1.1/record/tro-35138613
+wfo-0001168478	ref-0001168478	Index Bryol. Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138615
+wfo-0001168480	ref-0001168480	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138618
+wfo-0001168481	ref-0001168481	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138619
+wfo-0001168482	ref-0001168482	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138620
+wfo-0001168483	ref-0001168483	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35138621
+wfo-0001168484	ref-0001168484	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138622
+wfo-0001168485	ref-0001168485	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138624
+wfo-0001168486	ref-0001168486	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138626
+wfo-0001168487	ref-0001168487	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35138628
+wfo-0001168489	ref-0001168489	Bryol. Univ.	http://www.theplantlist.org/tpl1.1/record/tro-35138631
+wfo-0001168490	ref-0001168490	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35138632
+wfo-0001168491	ref-0001168491	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138633
+wfo-0001168492	ref-0001168492	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35138634
+wfo-0001168493	ref-0001168493	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138635
+wfo-0001168494	ref-0001168494	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138636
+wfo-0001168495	ref-0001168495	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138637
+wfo-0001168496	ref-0001168496	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138638
+wfo-0001168497	ref-0001168497	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35138639
+wfo-0001168500	ref-0001168500	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138642
+wfo-0001168501	ref-0001168501	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138643
+wfo-0001168502	ref-0001168502	Beih. Bot. Centralbl., Abt. 2	http://www.theplantlist.org/tpl1.1/record/tro-35138644
+wfo-0001168503	ref-0001168503	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138645
+wfo-0001168504	ref-0001168504	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35138646
+wfo-0001168505	ref-0001168505	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138647
+wfo-0001168506	ref-0001168506	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138648
+wfo-0001168507	ref-0001168507	Mitt. Inst. Allg. Bot. Hamburg	http://www.theplantlist.org/tpl1.1/record/tro-35138650
+wfo-0001168508	ref-0001168508	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138652
+wfo-0001168509	ref-0001168509	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138654
+wfo-0001168510	ref-0001168510	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138655
+wfo-0001168511	ref-0001168511	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138657
+wfo-0001168512	ref-0001168512	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35138659
+wfo-0001168513	ref-0001168513	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-35138660
+wfo-0001168514	ref-0001168514	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138661
+wfo-0001168515	ref-0001168515	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138662
+wfo-0001168516	ref-0001168516	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138663
+wfo-0001168517	ref-0001168517	Fieldiana, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138664
+wfo-0001168518	ref-0001168518	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138665
+wfo-0001168519	ref-0001168519	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138666
+wfo-0001168520	ref-0001168520	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138669
+wfo-0001168524	ref-0001168524	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138677
+wfo-0001168525	ref-0001168525	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138678
+wfo-0001168526	ref-0001168526	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35138679
+wfo-0001168527	ref-0001168527	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35138680
+wfo-0001168528	ref-0001168528	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138682
+wfo-0001168529	ref-0001168529	Suppl. Prodr. Fl. Bryol. Madagascar	http://www.theplantlist.org/tpl1.1/record/tro-35138683
+wfo-0001168530	ref-0001168530	Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/tro-35138684
+wfo-0001168531	ref-0001168531	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35138685
+wfo-0001168532	ref-0001168532	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138686
+wfo-0001168534	ref-0001168534	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35138688
+wfo-0001168535	ref-0001168535	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35138689
+wfo-0001168536	ref-0001168536	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138690
+wfo-0001168537	ref-0001168537	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138691
+wfo-0001168538	ref-0001168538	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138692
+wfo-0001168539	ref-0001168539	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138694
+wfo-0001168540	ref-0001168540	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35138695
+wfo-0001168541	ref-0001168541	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35138698
+wfo-0001168542	ref-0001168542	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35138699
+wfo-0001168543	ref-0001168543	Hist. Phys. Madagascar, Mousses	http://www.theplantlist.org/tpl1.1/record/tro-35138700
+wfo-0001168545	ref-0001168545	Bull. Herb. Boissier, sér. 2,	http://www.theplantlist.org/tpl1.1/record/tro-35138702
+wfo-0001168546	ref-0001168546	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35138703
+wfo-0001168830	ref-0001168830	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/tro-35139120
+wfo-0001169109	ref-0001169109	Sp. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35139591
+wfo-0001169255	ref-0001169255	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140382
+wfo-0001169256	ref-0001169256	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140383
+wfo-0001169257	ref-0001169257	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140384
+wfo-0001169258	ref-0001169258	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140385
+wfo-0001169259	ref-0001169259	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140386
+wfo-0001169260	ref-0001169260	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140387
+wfo-0001169261	ref-0001169261	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140388
+wfo-0001169262	ref-0001169262	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140389
+wfo-0001169263	ref-0001169263	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140390
+wfo-0001169264	ref-0001169264	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140391
+wfo-0001169265	ref-0001169265	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140392
+wfo-0001169266	ref-0001169266	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140393
+wfo-0001169267	ref-0001169267	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140394
+wfo-0001169268	ref-0001169268	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140395
+wfo-0001169269	ref-0001169269	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35140396
+wfo-0001169279	ref-0001169279	Canad. J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140407
+wfo-0001169280	ref-0001169280	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35140408
+wfo-0001169281	ref-0001169281	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140409
+wfo-0001169282	ref-0001169282	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140410
+wfo-0001169286	ref-0001169286	Canad. J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140419
+wfo-0001169287	ref-0001169287	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140420
+wfo-0001169288	ref-0001169288	Brenesia	http://www.theplantlist.org/tpl1.1/record/tro-35140421
+wfo-0001169289	ref-0001169289	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140422
+wfo-0001169290	ref-0001169290	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140423
+wfo-0001169291	ref-0001169291	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140424
+wfo-0001169292	ref-0001169292	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140425
+wfo-0001169293	ref-0001169293	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35140426
+wfo-0001169347	ref-0001169347	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35140501
+wfo-0001169348	ref-0001169348	Mosses E. India	http://www.theplantlist.org/tpl1.1/record/tro-35140502
+wfo-0001169349	ref-0001169349	Brenesia	http://www.theplantlist.org/tpl1.1/record/tro-35140503
+wfo-0001169350	ref-0001169350	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35140504
+wfo-0001169351	ref-0001169351	Mosses E. India	http://www.theplantlist.org/tpl1.1/record/tro-35140505
+wfo-0001169574	ref-0001169574	Pesquisas, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140787
+wfo-0001169575	ref-0001169575	Pesquisas, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35140788
+wfo-0001169587	ref-0001169587	Egri Tanárképzö Föisk. Tud. Közlem.	http://www.theplantlist.org/tpl1.1/record/tro-35140800
+wfo-0001169588	ref-0001169588	Phytologia	http://www.theplantlist.org/tpl1.1/record/tro-35140801
+wfo-0001169866	ref-0001169866	Mosses E. India	http://www.theplantlist.org/tpl1.1/record/tro-35141154
+wfo-0001171293	ref-0001171293	Sp. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35143399
+wfo-0001171642	ref-0001171642	Muscol. Recent. Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35143938
+wfo-0001171851	ref-0001171851	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35144231
+wfo-0001171852	ref-0001171852	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35144232
+wfo-0001171853	ref-0001171853	Flora	http://www.theplantlist.org/tpl1.1/record/tro-35144233
+wfo-0001173049	ref-0001173049	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/tro-35145955
+wfo-0001177511	ref-0001177511	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35153176
+wfo-0001177515	ref-0001177515	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35153180
+wfo-0001178213	ref-0001178213	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35154116
+wfo-0001180204	ref-0001180204	Fl. Nov.-Zel.	http://www.theplantlist.org/tpl1.1/record/tro-35157127
+wfo-0001181348	ref-0001181348	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158804
+wfo-0001181349	ref-0001181349	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35158805
+wfo-0001181353	ref-0001181353	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35158809
+wfo-0001181357	ref-0001181357	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158813
+wfo-0001181358	ref-0001181358	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35158814
+wfo-0001181359	ref-0001181359	Oefvers. Förh. Finska Vetensk.-Soc.	http://www.theplantlist.org/tpl1.1/record/tro-35158815
+wfo-0001181361	ref-0001181361	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35158820
+wfo-0001181363	ref-0001181363	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158825
+wfo-0001181364	ref-0001181364	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35158826
+wfo-0001181365	ref-0001181365	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158828
+wfo-0001181366	ref-0001181366	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158829
+wfo-0001181368	ref-0001181368	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158832
+wfo-0001181369	ref-0001181369	Musci Buitenzorg	http://www.theplantlist.org/tpl1.1/record/tro-35158833
+wfo-0001181370	ref-0001181370	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35158834
+wfo-0001181381	ref-0001181381	Rev. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35158854
+wfo-0001183052	ref-0001183052	Results Norweg. Sci. Exped. Tristan da Cunha	http://www.theplantlist.org/tpl1.1/record/tro-35162076
+wfo-0001183290	ref-0001183290	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35162774
+wfo-0001183305	ref-0001183305	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-35162795
+wfo-0001183306	ref-0001183306	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35162796
+wfo-0001183604	ref-0001183604	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/tro-35163425
+wfo-0001183637	ref-0001183637	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/tro-35163466
+wfo-0001183649	ref-0001183649	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35163486
+wfo-0001183704	ref-0001183704	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/tro-35163558
+wfo-0001183724	ref-0001183724	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35163584
+wfo-0001183741	ref-0001183741	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35163603
+wfo-0001183793	ref-0001183793	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-35163672
+wfo-0001183798	ref-0001183798	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-35163679
+wfo-0001183882	ref-0001183882	Syn. Musc. Frond.	http://www.theplantlist.org/tpl1.1/record/tro-35163798
+wfo-0001183884	ref-0001183884	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35163800
+wfo-0001183885	ref-0001183885	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35163801
+wfo-0001183965	ref-0001183965	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35163909
+wfo-0001185967	ref-0001185967	Acta Bot. Acad. Sci. Hung.	http://www.theplantlist.org/tpl1.1/record/tro-35167801
+wfo-0001185968	ref-0001185968	Acta Bot. Acad. Sci. Hung.	http://www.theplantlist.org/tpl1.1/record/tro-35167802
+wfo-0001185985	ref-0001185985	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35167821
+wfo-0001186240	ref-0001186240	Nat. & Life Southe. Asia	http://www.theplantlist.org/tpl1.1/record/tro-35168294
+wfo-0001186250	ref-0001186250	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35168304
+wfo-0001186251	ref-0001186251	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35168305
+wfo-0001186252	ref-0001186252	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35168306
+wfo-0001186303	ref-0001186303	Nova Guinea, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35168365
+wfo-0001186304	ref-0001186304	Nova Guinea, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35168367
+wfo-0001186664	ref-0001186664	Phytologia	http://www.theplantlist.org/tpl1.1/record/tro-35169008
+wfo-0001186942	ref-0001186942	Lindbergia	http://www.theplantlist.org/tpl1.1/record/tro-35169514
+wfo-0001186976	ref-0001186976	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35169558
+wfo-0001186977	ref-0001186977	Rev. Bryol. Lichénol.	http://www.theplantlist.org/tpl1.1/record/tro-35169559
+wfo-0001187276	ref-0001187276	Index Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35169987
+wfo-0001187326	ref-0001187326	Ann. Sci. Nat., Bot., sér. 6,	http://www.theplantlist.org/tpl1.1/record/tro-35170068
+wfo-0001187490	ref-0001187490	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-35170398
+wfo-0001188001	ref-0001188001	Icon. Pl. Asiat.	http://www.theplantlist.org/tpl1.1/record/tro-35171346
+wfo-0001190603	ref-0001190603	Hedwigia	http://www.theplantlist.org/tpl1.1/record/tro-35176576
+wfo-0001190604	ref-0001190604	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35176577
+wfo-0001190850	ref-0001190850	J. Proc. Linn. Soc., Bot., Suppl.	http://www.theplantlist.org/tpl1.1/record/tro-35176993
+wfo-0001191176	ref-0001191176	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35177488
+wfo-0001191252	ref-0001191252	Ann. Cryptog. Exot.	http://www.theplantlist.org/tpl1.1/record/tro-35177604
+wfo-0001191253	ref-0001191253	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177605
+wfo-0001191254	ref-0001191254	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177606
+wfo-0001191255	ref-0001191255	Rec. Bot. Surv. India	http://www.theplantlist.org/tpl1.1/record/tro-35177607
+wfo-0001191256	ref-0001191256	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35177608
+wfo-0001191257	ref-0001191257	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177611
+wfo-0001191258	ref-0001191258	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177612
+wfo-0001191259	ref-0001191259	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177613
+wfo-0001191260	ref-0001191260	Bull. Soc. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/tro-35177614
+wfo-0001191261	ref-0001191261	Philipp. J. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-35177615
+wfo-0001191262	ref-0001191262	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35177616
+wfo-0001191263	ref-0001191263	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-35177617
+wfo-0001191264	ref-0001191264	Coll. Nom. Broth.	http://www.theplantlist.org/tpl1.1/record/tro-35177618
+wfo-0001191265	ref-0001191265	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-35177619
+wfo-0001191266	ref-0001191266	Ann. Sci. Nat., Bot., sér. 2,	http://www.theplantlist.org/tpl1.1/record/tro-35177620
+wfo-0001191267	ref-0001191267	Ber. Thätigk. St. Gallischen Naturwiss. Ges.	http://www.theplantlist.org/tpl1.1/record/tro-35177621
+wfo-0001191268	ref-0001191268	Rec. Bot. Surv. India	http://www.theplantlist.org/tpl1.1/record/tro-35177623
+wfo-0001191269	ref-0001191269	Bull. Géogr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35177624
+wfo-0001191270	ref-0001191270	Symb. Sin.	http://www.theplantlist.org/tpl1.1/record/tro-35177625
+wfo-0001192142	ref-0001192142	Lloydia	http://www.theplantlist.org/tpl1.1/record/tro-35178918
+wfo-0001194393	ref-0001194393	Arch. Bot. Bull. Mens.	http://www.theplantlist.org/tpl1.1/record/tro-35182243
+wfo-0001195042	ref-0001195042	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35183182
+wfo-0001195053	ref-0001195053	Auckland Bot. Soc. Bull.	http://www.theplantlist.org/tpl1.1/record/tro-35183204
+wfo-0001195288	ref-0001195288	Actual. Biol.	http://www.theplantlist.org/tpl1.1/record/tro-35183544
+wfo-0001195581	ref-0001195581	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35183905
+wfo-0001195582	ref-0001195582	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35183906
+wfo-0001195773	ref-0001195773	Trop. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35184141
+wfo-0001195774	ref-0001195774	Trop. Bryol.	http://www.theplantlist.org/tpl1.1/record/tro-35184142
+wfo-0001196865	ref-0001196865	Beitr. Gesammten Natur- Heilwiss.	http://www.theplantlist.org/tpl1.1/record/tro-35186152
+wfo-0001196988	ref-0001196988	Transecta Bot. Patagonia Austral	http://www.theplantlist.org/tpl1.1/record/tro-35186298
+wfo-0001197097	ref-0001197097	J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186451
+wfo-0001197098	ref-0001197098	J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186452
+wfo-0001197105	ref-0001197105	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186461
+wfo-0001197106	ref-0001197106	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186462
+wfo-0001197107	ref-0001197107	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186464
+wfo-0001197109	ref-0001197109	Smithsonian Contr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186467
+wfo-0001197152	ref-0001197152	Bryobrothera	http://www.theplantlist.org/tpl1.1/record/tro-35186527
+wfo-0001197153	ref-0001197153	Bryobrothera	http://www.theplantlist.org/tpl1.1/record/tro-35186528
+wfo-0001197339	ref-0001197339	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35186810
+wfo-0001197369	ref-0001197369	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35186842
+wfo-0001198375	ref-0001198375	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-35188299
+wfo-0001198589	ref-0001198589	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35188538
+wfo-0001198820	ref-0001198820	Proc. Third Meeting Bryol. C. & E. Europe	http://www.theplantlist.org/tpl1.1/record/tro-35188830
+wfo-0001199618	ref-0001199618	Harvard Pap. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-35190155
+wfo-0001200677	ref-0001200677	Bibliot. José Jerónimo Triana	http://www.theplantlist.org/tpl1.1/record/tro-35191555
+wfo-0001201733	ref-0001201733	AAU Rep.	http://www.theplantlist.org/tpl1.1/record/tro-35200610
+wfo-0001202025	ref-0001202025	AAU Rep.	http://www.theplantlist.org/tpl1.1/record/tro-35201028
+wfo-0001202200	ref-0001202200	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-35201314
+wfo-0001202201	ref-0001202201	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-35201315
+wfo-0001204635	ref-0001204635	Fragm. Florist. Geobot.	http://www.theplantlist.org/tpl1.1/record/tro-35204552
+wfo-0001206397	ref-0001206397	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35206941
+wfo-0001206398	ref-0001206398	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35206942
+wfo-0001209927	ref-0001209927	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35211628
+wfo-0001210088	ref-0001210088	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-35211903
+wfo-0001211647	ref-0001211647	Bryologist	http://www.theplantlist.org/tpl1.1/record/tro-35214039
+wfo-0001213721	ref-0001213721	J. Hattori Bot. Lab.	http://www.theplantlist.org/tpl1.1/record/tro-35216620
+wfo-0001214285	ref-0001214285	Acta Bot. Hung.	http://www.theplantlist.org/tpl1.1/record/tro-35217616
+wfo-0001214733	ref-0001214733	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/tro-35218219
+wfo-4000000586	ref-4000000586	J. Linn. Soc., Bot. 12: 391. 1869.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Adelothecium/
+wfo-4000001550	ref-4000001550	Nat. Pflanzenfam. 1((3)): 953. 1907.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Amblytropis/
+wfo-4000004417	ref-4000004417	Bryologist 106: 454. 2003.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Benitotania/
+wfo-4000006062	ref-4000006062	Linnaea 21: 188. 1848.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Callicosta/
+wfo-4000006310	ref-4000006310	Mém. Soc. Linn. Paris 3: 226. 1825.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Calyptrochaeta/
+wfo-4000006997	ref-4000006997	Fl. Nov.-Zel. 2: 119. 1855.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Catharomnion/
+wfo-4000010202	ref-4000010202	Musci Buitenzorg 3: 1088. 1908.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Cyathophorella/
+wfo-4000010692	ref-4000010692	Muscol. Brit. 80–81, pl. 3 [near upper left], 22 [lower center left & right]. 1818.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Daltonia/
+wfo-4000012233	ref-4000012233	Musci Buitenzorg 3: 966. 1908.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Distichophyllidium/
+wfo-4000021125	ref-4000021125	Bryol. Univ. 2: 267. 1827.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Lepidopilum/
+wfo-4000021449	ref-4000021449	Nat. Pflanzenfam. I(3): 925. 1907.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Leskeodon/
+wfo-4000021451	ref-4000021451	Nova Guinea, Bot. 16: 311. 1964.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Leskeodontopsis/
+wfo-4000032158	ref-4000032158	Mém. Soc. Phys. Genève 27: 7 t. 2. f. 4, t. 3. f. 1, 4. 1880.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Puiggaria/
+wfo-4000036494	ref-4000036494	Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1875–76: 358 [Gen, Sp. Musc. 2. 1877.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Stenodesmus/
+wfo-4000037206	ref-4000037206	Ann. Sci. Nat., Bot., sér. 2 16: 279. 1841.	http://www.theplantlist.org/1.1/browse/B/Daltoniaceae/Symphyodon/

@@ -1,0 +1,28 @@
+wfo-0000463775	ref-0000463775	Pl. Icon. Ined.	http://www.theplantlist.org/tpl1.1/record/kew-2527447
+wfo-0000511609	ref-0000511609	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2610291
+wfo-0000511610	ref-0000511610	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2610292
+wfo-0000511611	ref-0000511611	Queensland Agric. J.	http://www.theplantlist.org/tpl1.1/record/kew-2610293
+wfo-0000547149	ref-0000547149	Fl. Schutzgeb. Südsee	http://www.theplantlist.org/tpl1.1/record/kew-2650631
+wfo-0000547150	ref-0000547150	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2650632
+wfo-0000547151	ref-0000547151	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2650633
+wfo-0000547152	ref-0000547152	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2650634
+wfo-0000570365	ref-0000570365	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2681322
+wfo-0000588305	ref-0000588305	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701289
+wfo-0000588307	ref-0000588307	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2701290
+wfo-0000588308	ref-0000588308	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701291
+wfo-0000588309	ref-0000588309	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2701292
+wfo-0000588310	ref-0000588310	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701293
+wfo-0000588311	ref-0000588311	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701294
+wfo-0000588312	ref-0000588312	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2701295
+wfo-0000588313	ref-0000588313	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701296
+wfo-0000588314	ref-0000588314	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2701297
+wfo-0000588315	ref-0000588315	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2701299
+wfo-0000588317	ref-0000588317	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2701300
+wfo-0000588318	ref-0000588318	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2701301
+wfo-0000588319	ref-0000588319	Char. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2701302
+wfo-0000630962	ref-0000630962	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2748963
+wfo-0001273929	ref-0001273929	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-50268194
+wfo-4000000057	ref-4000000057	Fl. Austral. 2: 437. 1864.	http://www.theplantlist.org/1.1/browse/A/Rousseaceae/Abrophyllum/
+wfo-4000006790	ref-4000006790	Charact. Gen. 17. 1775.	http://www.theplantlist.org/1.1/browse/A/Rousseaceae/Carpodetus/
+wfo-4000010134	ref-4000010134	Fragm. 5: 47. 1865.	http://www.theplantlist.org/1.1/browse/A/Rousseaceae/Cuttsia/
+wfo-4000033548	ref-4000033548	Pl. Icon. Ined. 1: 6, pl. 6. 1789. (Apr-May 1789)	http://www.theplantlist.org/1.1/browse/A/Rousseaceae/Roussea/

@@ -1,0 +1,20 @@
+wfo-0000464190	ref-0000464190	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2528048
+wfo-0000492128	ref-0000492128	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2580420
+wfo-0000578414	ref-0000578414	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2689707
+wfo-0000578415	ref-0000578415	Compr. Cat. Queensland Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2689708
+wfo-0000578416	ref-0000578416	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2689709
+wfo-0000711742	ref-0000711742	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2834919
+wfo-0000985075	ref-0000985075	Icones plantarum	http://www.theplantlist.org/tpl1.1/record/rjp-12101
+wfo-0000985076	ref-0000985076	Plantae Preissianae	http://www.theplantlist.org/tpl1.1/record/rjp-12102
+wfo-0001140318	ref-0001140318	Verh. Bot. Vereins Prov. Brandenburg	http://www.theplantlist.org/tpl1.1/record/tro-29400005
+wfo-0001140319	ref-0001140319	Verh. Bot. Vereins Prov. Brandenburg	http://www.theplantlist.org/tpl1.1/record/tro-29400006
+wfo-0001140339	ref-0001140339	Syst. Nat.	http://www.theplantlist.org/tpl1.1/record/tro-29400049
+wfo-0001140340	ref-0001140340	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-29400050
+wfo-0001140393	ref-0001140393	Brittonia	http://www.theplantlist.org/tpl1.1/record/tro-29400177
+wfo-0001249051	ref-0001249051	Contr. U.S. Natl. Herb.	http://www.theplantlist.org/tpl1.1/record/tro-50148462
+wfo-0001265138	ref-0001265138	N. Amer. Fl.	http://www.theplantlist.org/tpl1.1/record/tro-50216277
+wfo-4000005899	ref-4000005899	Fragm. 2: 25. 1860.	http://www.theplantlist.org/1.1/browse/A/Surianaceae/Cadellia/
+wfo-4000016351	ref-4000016351	Fragm. 8: 33. 1873.	http://www.theplantlist.org/1.1/browse/A/Surianaceae/Guilfoylia/
+wfo-4000032649	ref-4000032649	Syst. Nat. 1: 411. 1818[1817]. (1-15 Nov 1817)	http://www.theplantlist.org/1.1/browse/A/Surianaceae/Recchia/
+wfo-4000036993	ref-4000036993	Mém. Mus. Hist. Nat. 5: 37. 1819.	http://www.theplantlist.org/1.1/browse/A/Surianaceae/Stylobasium/
+wfo-4000037094	ref-4000037094	Sp. Pl. 1: 284. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Surianaceae/Suriana/

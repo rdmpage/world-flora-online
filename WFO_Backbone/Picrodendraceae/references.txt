@@ -1,0 +1,256 @@
+wfo-0000215738	ref-0000215738	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-100884
+wfo-0000215739	ref-0000215739	Descr. Cinchona	http://www.theplantlist.org/tpl1.1/record/kew-100885
+wfo-0000219652	ref-0000219652	Fruct. Sem. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-104620
+wfo-0000220216	ref-0000220216	Syst. Nat. ed. 10	http://www.theplantlist.org/tpl1.1/record/kew-105175
+wfo-0000220549	ref-0000220549	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-105496
+wfo-0000230556	ref-0000230556	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-115088
+wfo-0000230557	ref-0000230557	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-115089
+wfo-0000230559	ref-0000230559	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-115090
+wfo-0000230560	ref-0000230560	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-115091
+wfo-0000230561	ref-0000230561	Mém. Mus. Natl. Hist. Nat., B, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-115092
+wfo-0000230562	ref-0000230562	Bull. Mus. Natl. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-115093
+wfo-0000230563	ref-0000230563	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-115094
+wfo-0000230564	ref-0000230564	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-115095
+wfo-0000230565	ref-0000230565	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-115096
+wfo-0000230566	ref-0000230566	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-115097
+wfo-0000242910	ref-0000242910	Ann. Bot. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-126872
+wfo-0000242912	ref-0000242912	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-126876
+wfo-0000242913	ref-0000242913	Victorian Naturalist	http://www.theplantlist.org/tpl1.1/record/kew-126877
+wfo-0000242914	ref-0000242914	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-126878
+wfo-0000242916	ref-0000242916	Mém. Mus. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-126880
+wfo-0000242917	ref-0000242917	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-126882
+wfo-0000242918	ref-0000242918	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-126883
+wfo-0000242919	ref-0000242919	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-126884
+wfo-0000242922	ref-0000242922	Aspects of Tasmanian Botany	http://www.theplantlist.org/tpl1.1/record/kew-126887
+wfo-0000242923	ref-0000242923	Fl. S. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-126888
+wfo-0000244788	ref-0000244788	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-128659
+wfo-0000250416	ref-0000250416	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-134090
+wfo-0000250417	ref-0000250417	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-134091
+wfo-0000255434	ref-0000255434	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-138891
+wfo-0000255435	ref-0000255435	Bull. Jard. Bot. État	http://www.theplantlist.org/tpl1.1/record/kew-138892
+wfo-0000255436	ref-0000255436	Bull. Jard. Bot. État	http://www.theplantlist.org/tpl1.1/record/kew-138893
+wfo-0000255437	ref-0000255437	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-138894
+wfo-0000262477	ref-0000262477	Fl. Trop. Afr.	http://www.theplantlist.org/tpl1.1/record/kew-145634
+wfo-0000262478	ref-0000262478	Veg. Ut. Afr. Trop. Franç.	http://www.theplantlist.org/tpl1.1/record/kew-145635
+wfo-0000262479	ref-0000262479	Notizbl. Bot. Gart. Berlin-Dahlem	http://www.theplantlist.org/tpl1.1/record/kew-145636
+wfo-0000264381	ref-0000264381	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/kew-147467
+wfo-0000264699	ref-0000264699	Kurtziana	http://www.theplantlist.org/tpl1.1/record/kew-147814
+wfo-0000267767	ref-0000267767	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-150770
+wfo-0000267768	ref-0000267768	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-150771
+wfo-0000267769	ref-0000267769	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-150772
+wfo-0000267770	ref-0000267770	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-150773
+wfo-0000267771	ref-0000267771	J. Roy. Soc. Western Australia	http://www.theplantlist.org/tpl1.1/record/kew-150774
+wfo-0000267772	ref-0000267772	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-150775
+wfo-0000267773	ref-0000267773	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-150776
+wfo-0000267774	ref-0000267774	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-150777
+wfo-0000267775	ref-0000267775	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-150778
+wfo-0000267776	ref-0000267776	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-150779
+wfo-0000267778	ref-0000267778	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-150781
+wfo-0000267779	ref-0000267779	Fl. N. Territory	http://www.theplantlist.org/tpl1.1/record/kew-150782
+wfo-0000267780	ref-0000267780	Flora	http://www.theplantlist.org/tpl1.1/record/kew-150783
+wfo-0000267781	ref-0000267781	Flora	http://www.theplantlist.org/tpl1.1/record/kew-150784
+wfo-0000267782	ref-0000267782	Flora	http://www.theplantlist.org/tpl1.1/record/kew-150785
+wfo-0000270559	ref-0000270559	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-153425
+wfo-0000270610	ref-0000270610	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-153475
+wfo-0000271367	ref-0000271367	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-154200
+wfo-0000271474	ref-0000271474	Physis (Buenos Aires)	http://www.theplantlist.org/tpl1.1/record/kew-154306
+wfo-0000271973	ref-0000271973	Trans. Roy. Soc. South Australia	http://www.theplantlist.org/tpl1.1/record/kew-154792
+wfo-0000272202	ref-0000272202	S. Sci. Rec.	http://www.theplantlist.org/tpl1.1/record/kew-155003
+wfo-0000273293	ref-0000273293	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-156034
+wfo-0000273294	ref-0000273294	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-156035
+wfo-0000273295	ref-0000273295	Fl. Brit. W. I.	http://www.theplantlist.org/tpl1.1/record/kew-156036
+wfo-0000273296	ref-0000273296	Bull. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-156037
+wfo-0000273297	ref-0000273297	J. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-156038
+wfo-0000273929	ref-0000273929	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-156645
+wfo-0000273930	ref-0000273930	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-156646
+wfo-0000273931	ref-0000273931	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-156647
+wfo-0000273932	ref-0000273932	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-156648
+wfo-0000273934	ref-0000273934	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-156650
+wfo-0000275845	ref-0000275845	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-15850
+wfo-0000275854	ref-0000275854	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-15851
+wfo-0000275864	ref-0000275864	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-15852
+wfo-0000275875	ref-0000275875	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-15853
+wfo-0000275886	ref-0000275886	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-15854
+wfo-0000275896	ref-0000275896	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-15855
+wfo-0000279238	ref-0000279238	Arch. Naturgesch.	http://www.theplantlist.org/tpl1.1/record/kew-161691
+wfo-0000283823	ref-0000283823	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-166109
+wfo-0000283824	ref-0000283824	Trans. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-166110
+wfo-0000283825	ref-0000283825	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-166111
+wfo-0000283826	ref-0000283826	Flora	http://www.theplantlist.org/tpl1.1/record/kew-166112
+wfo-0000283827	ref-0000283827	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-166113
+wfo-0000283828	ref-0000283828	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-166115
+wfo-0000283829	ref-0000283829	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-166116
+wfo-0000283830	ref-0000283830	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-166117
+wfo-0000283831	ref-0000283831	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-166118
+wfo-0000283832	ref-0000283832	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-166119
+wfo-0000283833	ref-0000283833	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-166120
+wfo-0000283834	ref-0000283834	Trans. & Proc. Philos. Inst. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-166121
+wfo-0000283835	ref-0000283835	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-166122
+wfo-0000283836	ref-0000283836	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-166123
+wfo-0000283837	ref-0000283837	Trans. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-166124
+wfo-0000283838	ref-0000283838	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-166125
+wfo-0000296753	ref-0000296753	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-178557
+wfo-0000301706	ref-0000301706	Bull. Mus. Natl. Hist. Nat., B, Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-18330
+wfo-0000301717	ref-0000301717	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18331
+wfo-0000301728	ref-0000301728	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18332
+wfo-0000301739	ref-0000301739	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18333
+wfo-0000301750	ref-0000301750	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18334
+wfo-0000301761	ref-0000301761	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18335
+wfo-0000301771	ref-0000301771	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18336
+wfo-0000301780	ref-0000301780	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18337
+wfo-0000301790	ref-0000301790	in Fl. Nouv.-Caléd.	http://www.theplantlist.org/tpl1.1/record/kew-18338
+wfo-0000301801	ref-0000301801	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18339
+wfo-0000301812	ref-0000301812	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18340
+wfo-0000301822	ref-0000301822	Bull. Mus. Natl. Hist. Nat., B, Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-18341
+wfo-0000301833	ref-0000301833	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18342
+wfo-0000301844	ref-0000301844	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18343
+wfo-0000301855	ref-0000301855	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18344
+wfo-0000301866	ref-0000301866	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18345
+wfo-0000301875	ref-0000301875	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18346
+wfo-0000301886	ref-0000301886	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18347
+wfo-0000301897	ref-0000301897	Bull. Mus. Natl. Hist. Nat., B, Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-18348
+wfo-0000301907	ref-0000301907	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-18349
+wfo-0000301919	ref-0000301919	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18350
+wfo-0000301930	ref-0000301930	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18351
+wfo-0000301941	ref-0000301941	Fl. Ned. Ind., Eerste Bijv.	http://www.theplantlist.org/tpl1.1/record/kew-18352
+wfo-0000301952	ref-0000301952	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18353
+wfo-0000301963	ref-0000301963	Gard. Bull. Singapore	http://www.theplantlist.org/tpl1.1/record/kew-18354
+wfo-0000301983	ref-0000301983	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18356
+wfo-0000301994	ref-0000301994	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18357
+wfo-0000302005	ref-0000302005	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18358
+wfo-0000302015	ref-0000302015	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18359
+wfo-0000302027	ref-0000302027	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18360
+wfo-0000302038	ref-0000302038	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18361
+wfo-0000302049	ref-0000302049	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18362
+wfo-0000302060	ref-0000302060	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18363
+wfo-0000302070	ref-0000302070	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-18364
+wfo-0000302685	ref-0000302685	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-184221
+wfo-0000305231	ref-0000305231	Bull. Mus. Natl. Hist. Nat., B, Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-186620
+wfo-0000305232	ref-0000305232	Bull. Mus. Natl. Hist. Nat., B, Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-186621
+wfo-0000306922	ref-0000306922	Hist. Fis. Cuba, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-188211
+wfo-0000309103	ref-0000309103	Univ. Calif. Publ. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-190326
+wfo-0000309110	ref-0000309110	Univ. Calif. Publ. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-190332
+wfo-0000309115	ref-0000309115	Univ. Calif. Publ. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-190337
+wfo-0000309126	ref-0000309126	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-190347
+wfo-0000313578	ref-0000313578	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-194667
+wfo-0000313579	ref-0000313579	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-194668
+wfo-0000313580	ref-0000313580	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-194669
+wfo-0000313582	ref-0000313582	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-194671
+wfo-0000313583	ref-0000313583	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-194672
+wfo-0000314762	ref-0000314762	J. Roy. Soc. Western Australia	http://www.theplantlist.org/tpl1.1/record/kew-195792
+wfo-0000314763	ref-0000314763	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-195793
+wfo-0000314764	ref-0000314764	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-195794
+wfo-0000314765	ref-0000314765	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-195795
+wfo-0000314766	ref-0000314766	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-195796
+wfo-0000316128	ref-0000316128	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-19708
+wfo-0000316234	ref-0000316234	Bull. Mus. Natl. Hist. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-19718
+wfo-0000321548	ref-0000321548	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-202345
+wfo-0000321549	ref-0000321549	W. Amer. Sci.	http://www.theplantlist.org/tpl1.1/record/kew-202346
+wfo-0000321550	ref-0000321550	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-202347
+wfo-0000321551	ref-0000321551	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-202348
+wfo-0000321552	ref-0000321552	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-202349
+wfo-0000321554	ref-0000321554	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-202350
+wfo-0000321555	ref-0000321555	Zoe	http://www.theplantlist.org/tpl1.1/record/kew-202351
+wfo-0000321556	ref-0000321556	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/kew-202352
+wfo-0000326347	ref-0000326347	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-20697
+wfo-0000326426	ref-0000326426	Kongl. Vetensk. Acad. Nya Handl.	http://www.theplantlist.org/tpl1.1/record/kew-207056
+wfo-0000326427	ref-0000326427	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-207057
+wfo-0000333654	ref-0000333654	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-213986
+wfo-0000333655	ref-0000333655	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-213987
+wfo-0000334043	ref-0000334043	Forest Fl. Port. E. Afr.	http://www.theplantlist.org/tpl1.1/record/kew-214381
+wfo-0000334320	ref-0000334320	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-214661
+wfo-0000464561	ref-0000464561	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2528613
+wfo-0000502423	ref-0000502423	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-259725
+wfo-0000502424	ref-0000502424	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-259726
+wfo-0000502429	ref-0000502429	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-259727
+wfo-0000502436	ref-0000502436	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-259729
+wfo-0000502440	ref-0000502440	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-259730
+wfo-0000502445	ref-0000502445	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-259732
+wfo-0000557954	ref-0000557954	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-266727
+wfo-0000557965	ref-0000557965	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-266728
+wfo-0000557973	ref-0000557973	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-266729
+wfo-0000557984	ref-0000557984	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-266730
+wfo-0000557991	ref-0000557991	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-266731
+wfo-0000681038	ref-0000681038	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-28026
+wfo-0000681122	ref-0000681122	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-28027
+wfo-0000681216	ref-0000681216	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-28028
+wfo-0000681320	ref-0000681320	Mém. Mus. Natl. Hist. Nat., B, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-28029
+wfo-0000766997	ref-0000766997	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-30584
+wfo-0000767006	ref-0000767006	Flora	http://www.theplantlist.org/tpl1.1/record/kew-30585
+wfo-0000767017	ref-0000767017	Flora	http://www.theplantlist.org/tpl1.1/record/kew-30586
+wfo-0000767028	ref-0000767028	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-30587
+wfo-0000767037	ref-0000767037	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-30588
+wfo-0000767047	ref-0000767047	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-30589
+wfo-0000767058	ref-0000767058	Étude Euphorb.	http://www.theplantlist.org/tpl1.1/record/kew-30590
+wfo-0000767069	ref-0000767069	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-30591
+wfo-0000767077	ref-0000767077	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-30592
+wfo-0000767085	ref-0000767085	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-30593
+wfo-0000767094	ref-0000767094	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-30594
+wfo-0000791436	ref-0000791436	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-330008
+wfo-0000795523	ref-0000795523	Arch. Bot. Bull. Mens.	http://www.theplantlist.org/tpl1.1/record/kew-33405
+wfo-0000796023	ref-0000796023	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-334548
+wfo-0000799167	ref-0000799167	Pap. & Proc. Roy. Soc. Tasmania	http://www.theplantlist.org/tpl1.1/record/kew-337591
+wfo-0000800114	ref-0000800114	Man. Fl. Pl. Calif.	http://www.theplantlist.org/tpl1.1/record/kew-338569
+wfo-0000824783	ref-0000824783	Fl. Somala	http://www.theplantlist.org/tpl1.1/record/kew-36232
+wfo-0000825018	ref-0000825018	Contr. Dudley Herb.	http://www.theplantlist.org/tpl1.1/record/kew-36254
+wfo-0000852016	ref-0000852016	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-39766
+wfo-0000852027	ref-0000852027	Muelleria	http://www.theplantlist.org/tpl1.1/record/kew-39767
+wfo-0000852038	ref-0000852038	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-39768
+wfo-0000852081	ref-0000852081	Hookers Icon. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-39772
+wfo-0000852092	ref-0000852092	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-39773
+wfo-0000852220	ref-0000852220	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-39785
+wfo-0000857934	ref-0000857934	Pl. Preiss.	http://www.theplantlist.org/tpl1.1/record/kew-40328
+wfo-0000904323	ref-0000904323	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-44709
+wfo-0000916450	ref-0000916450	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-461538
+wfo-0000916806	ref-0000916806	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-462102
+wfo-0000933553	ref-0000933553	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-52351
+wfo-0000943578	ref-0000943578	Proc. Roy. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-6200
+wfo-0000943589	ref-0000943589	Proc. Roy. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-6201
+wfo-0000944825	ref-0000944825	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-63232
+wfo-0000944826	ref-0000944826	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-63233
+wfo-0000944827	ref-0000944827	Muelleria	http://www.theplantlist.org/tpl1.1/record/kew-63234
+wfo-0000944828	ref-0000944828	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-63235
+wfo-0000944829	ref-0000944829	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-63236
+wfo-0000944830	ref-0000944830	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-63237
+wfo-0000944831	ref-0000944831	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-63238
+wfo-0000972667	ref-0000972667	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-8991
+wfo-0000972676	ref-0000972676	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-8992
+wfo-0000972687	ref-0000972687	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-8993
+wfo-0000972698	ref-0000972698	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-8994
+wfo-0000972709	ref-0000972709	Mem. Bot. Surv. S. Africa	http://www.theplantlist.org/tpl1.1/record/kew-8995
+wfo-0000972720	ref-0000972720	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-8996
+wfo-0000979056	ref-0000979056	Contr. Gray Herb.	http://www.theplantlist.org/tpl1.1/record/kew-95979
+wfo-0000979058	ref-0000979058	Contr. Gray Herb.	http://www.theplantlist.org/tpl1.1/record/kew-95980
+wfo-0000979059	ref-0000979059	Man. Calif. Shrubs	http://www.theplantlist.org/tpl1.1/record/kew-95981
+wfo-0000979060	ref-0000979060	Contr. Gray Herb.	http://www.theplantlist.org/tpl1.1/record/kew-95982
+wfo-0001049289	ref-0001049289	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/tro-12805773
+wfo-0001049290	ref-0001049290	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/tro-12805774
+wfo-0001253276	ref-0001253276	Contr. Gray Herb.	http://www.theplantlist.org/tpl1.1/record/tro-50170574
+wfo-0001272600	ref-0001272600	J. Roy. Soc. Western Australia	http://www.theplantlist.org/tpl1.1/record/tro-50258038
+wfo-0001272601	ref-0001272601	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/tro-50258039
+wfo-4000002017	ref-4000002017	Bull. Misc. Inform. Kew 1908: 438. 1908.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Androstachys/
+wfo-4000003060	ref-4000003060	Bull. Misc. Inform. Kew 1908: 438. 1908.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Aristogeitonia/
+wfo-4000003714	ref-4000003714	Fl. Ned. Ind. Suppl. 444. 1861.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Austrobuxus/
+wfo-4000008084	ref-4000008084	Adansonia 11: 119. 1874.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Choriceras/
+wfo-4000012195	ref-4000012195	Adansonia 7: 356. 1867.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Dissiliaria/
+wfo-4000018467	ref-4000018467	Descr. Cinchona 52. 1797.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Hyaenanche/
+wfo-4000019775	ref-4000019775	Kew Bull. 34: 596. 1980.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Kairothamnus/
+wfo-4000022167	ref-4000022167	Adansonia 6: 352. 1866.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Longetia/
+wfo-4000024035	ref-4000024035	Mém. Mus. Hist. Nat. 4: 253. 1818.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Micrantheum/
+wfo-4000024395	ref-4000024395	Hookers J. Bot. Kew Gard. Misc. 6: 299. 1854.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Mischodon/
+wfo-4000025827	ref-4000025827	Prodr. 15(2): 488. 1866.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Neoroepera/
+wfo-4000026297	ref-4000026297	Icon. Pl. Ind. Orient. 6: 17. 1853.	http://www.theplantlist.org/1.1/browse/A/Amaranthaceae/Nothosaerva/
+wfo-4000026702	ref-4000026702	Hookers J. Bot. Kew Gard. Misc. 2: 184. 1850.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Oldfieldia/
+wfo-4000027757	ref-4000027757	Trans. Linn. Soc. London 27: 20. 1869.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Paivaeusa/
+wfo-4000028234	ref-4000028234	Kurtziana 5: 331. 1969.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Parodiodendron/
+wfo-4000028913	ref-4000028913	Hookers J. Bot. Kew Gard. Misc. 9: 16. 1857.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Petalostigma/
+wfo-4000029631	ref-4000029631	Fl. Brit. W. I. 176–177. 1864[1859]. (Jun 1859)	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Picrodendron/
+wfo-4000029853	ref-4000029853	Adansonia 6: 235. 1866.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Piranhea/
+wfo-4000030478	ref-4000030478	Arch. Naturgesch. 7(1): 202. 1841.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Podocalyx/
+wfo-4000031353	ref-4000031353	Syst. Veg. [Sprengel] 4(2): 22, 25. 1827. (Jan-Jun 1827)	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Pseudanthus/
+wfo-4000034224	ref-4000034224	Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 7: 247. 1985[1986].	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Scagea/
+wfo-4000036219	ref-4000036219	Kew Bull. 45(3): 561–568. 1990.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Stachyandra/
+wfo-4000036244	ref-4000036244	London J. Bot. 4: 471. 1845.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Stachystemon/
+wfo-4000037871	ref-4000037871	W. Amer. Sci. 1(3): 13–14. 1885.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Tetracoccus/
+wfo-4000040403	ref-4000040403	Adansonia, n.s. 15: 333. 1976.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Voatamalo/
+wfo-4000040675	ref-4000040675	Kew Bull. 31: 375. 1976.	http://www.theplantlist.org/1.1/browse/A/Picrodendraceae/Whyanbeelia/

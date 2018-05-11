@@ -1,0 +1,78 @@
+wfo-0000733039	ref-0000733039	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-286810
+wfo-0000733055	ref-0000733055	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-286813
+wfo-0000733472	ref-0000733472	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-286853
+wfo-0000733620	ref-0000733620	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-286869
+wfo-0000733688	ref-0000733688	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-286884
+wfo-0000733689	ref-0000733689	New Zealand J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-286885
+wfo-0000733690	ref-0000733690	New Zealand J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-286886
+wfo-0000733698	ref-0000733698	Fl. Sicul.	http://www.theplantlist.org/tpl1.1/record/kew-286893
+wfo-0000733699	ref-0000733699	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-286894
+wfo-0000733700	ref-0000733700	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-286895
+wfo-0000733701	ref-0000733701	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-286896
+wfo-0000733702	ref-0000733702	Kongl. Svenska Vetensk. Acad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-286897
+wfo-0000733703	ref-0000733703	Bull. Orto Bot. Regia Univ. Napoli	http://www.theplantlist.org/tpl1.1/record/kew-286898
+wfo-0000753063	ref-0000753063	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-292548
+wfo-0000753064	ref-0000753064	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-292549
+wfo-0000753066	ref-0000753066	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-292550
+wfo-0000753067	ref-0000753067	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-292551
+wfo-0000753068	ref-0000753068	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-292552
+wfo-0000753069	ref-0000753069	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-292553
+wfo-0000753070	ref-0000753070	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-292554
+wfo-0000753071	ref-0000753071	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-292555
+wfo-0000753072	ref-0000753072	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-292556
+wfo-0000753073	ref-0000753073	Fl. N.W. Coast	http://www.theplantlist.org/tpl1.1/record/kew-292557
+wfo-0000753074	ref-0000753074	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-292558
+wfo-0000753078	ref-0000753078	in Fl. Afr. Nord	http://www.theplantlist.org/tpl1.1/record/kew-292561
+wfo-0000753081	ref-0000753081	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-292564
+wfo-0000753082	ref-0000753082	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-292565
+wfo-0000762261	ref-0000762261	Inst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-301234
+wfo-0000762266	ref-0000762266	Amer. Midl. Naturalist	http://www.theplantlist.org/tpl1.1/record/kew-301239
+wfo-0000766249	ref-0000766249	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-305112
+wfo-0000769814	ref-0000769814	Fl. Atacam.	http://www.theplantlist.org/tpl1.1/record/kew-308560
+wfo-0000770069	ref-0000770069	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-308794
+wfo-0000770071	ref-0000770071	Ser. Inconf. Pl. Aragon.	http://www.theplantlist.org/tpl1.1/record/kew-308796
+wfo-0000770072	ref-0000770072	Notes Pl. Crit.	http://www.theplantlist.org/tpl1.1/record/kew-308797
+wfo-0000770073	ref-0000770073	Fl. Brit. W. I.	http://www.theplantlist.org/tpl1.1/record/kew-308798
+wfo-0000770074	ref-0000770074	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-308799
+wfo-0000770077	ref-0000770077	Kongl. Vetensk. Acad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-308800
+wfo-0000770078	ref-0000770078	Fl. Sicul. Syn.	http://www.theplantlist.org/tpl1.1/record/kew-308801
+wfo-0000770079	ref-0000770079	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-308802
+wfo-0000770080	ref-0000770080	Cat. Canad. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-308803
+wfo-0000770081	ref-0000770081	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-308804
+wfo-0000770082	ref-0000770082	Arch. Naturgesch.	http://www.theplantlist.org/tpl1.1/record/kew-308805
+wfo-0000770083	ref-0000770083	Proc. Amer. Acad. Arts	http://www.theplantlist.org/tpl1.1/record/kew-308806
+wfo-0000770084	ref-0000770084	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-308807
+wfo-0000770085	ref-0000770085	Iconogr. Bot. Pl. Crit.	http://www.theplantlist.org/tpl1.1/record/kew-308808
+wfo-0000770086	ref-0000770086	Enum. Pl. Transsilv.	http://www.theplantlist.org/tpl1.1/record/kew-308809
+wfo-0000770088	ref-0000770088	Fl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-308810
+wfo-0000770089	ref-0000770089	Enum. Pl. Zeyl.	http://www.theplantlist.org/tpl1.1/record/kew-308811
+wfo-0000770090	ref-0000770090	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-308812
+wfo-0000770091	ref-0000770091	Rev. Bot. Recueil Mens.	http://www.theplantlist.org/tpl1.1/record/kew-308813
+wfo-0000770295	ref-0000770295	Ber. Phan. Fl. Siebenb.	http://www.theplantlist.org/tpl1.1/record/kew-309017
+wfo-0000770411	ref-0000770411	Physiogr. Sällsk. Årsberätt.	http://www.theplantlist.org/tpl1.1/record/kew-309131
+wfo-0000770412	ref-0000770412	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-309132
+wfo-0000770413	ref-0000770413	Stirp. Sard. Elench.	http://www.theplantlist.org/tpl1.1/record/kew-309133
+wfo-0000770858	ref-0000770858	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-309559
+wfo-0000770860	ref-0000770860	Fl. N.W. Coast	http://www.theplantlist.org/tpl1.1/record/kew-309560
+wfo-0000770966	ref-0000770966	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-309662
+wfo-0000770967	ref-0000770967	Physiogr. Sällsk. Årsberätt.	http://www.theplantlist.org/tpl1.1/record/kew-309663
+wfo-0000770968	ref-0000770968	Fl. Neu-Vorpommern	http://www.theplantlist.org/tpl1.1/record/kew-309664
+wfo-0000771085	ref-0000771085	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-309778
+wfo-0000771187	ref-0000771187	Occas. Pap. Bernice Pauahi Bishop Mus.	http://www.theplantlist.org/tpl1.1/record/kew-309872
+wfo-0000771188	ref-0000771188	Occas. Pap. Bernice Pauahi Bishop Mus.	http://www.theplantlist.org/tpl1.1/record/kew-309873
+wfo-0000771646	ref-0000771646	Fl. Ross.	http://www.theplantlist.org/tpl1.1/record/kew-310309
+wfo-0000771648	ref-0000771648	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-310310
+wfo-0000772140	ref-0000772140	Consp. Fl. Eur.	http://www.theplantlist.org/tpl1.1/record/kew-310792
+wfo-0000773507	ref-0000773507	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-312122
+wfo-0000773508	ref-0000773508	Deutschl. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-312123
+wfo-0000773509	ref-0000773509	Stirp. Sard. Elench.	http://www.theplantlist.org/tpl1.1/record/kew-312124
+wfo-0000802534	ref-0000802534	Consp. Fl. Eur.	http://www.theplantlist.org/tpl1.1/record/kew-340927
+wfo-0000810055	ref-0000810055	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-348285
+wfo-0000810056	ref-0000810056	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-348286
+wfo-0000811253	ref-0000811253	Pl. Eur.	http://www.theplantlist.org/tpl1.1/record/kew-349475
+wfo-0000811319	ref-0000811319	Sver. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-349537
+wfo-0001105278	ref-0001105278	Syn. Mitteleur. Fl.	http://www.theplantlist.org/tpl1.1/record/tro-26300258
+wfo-0001105279	ref-0001105279	Fl. Afrique N.	http://www.theplantlist.org/tpl1.1/record/tro-26300259
+wfo-0001105290	ref-0001105290	Physiogr. Sällsk. Arsberätt.	http://www.theplantlist.org/tpl1.1/record/tro-26300305
+wfo-0001105336	ref-0001105336	Summa Veg. Scand.	http://www.theplantlist.org/tpl1.1/record/tro-26300536
+wfo-4000033636	ref-4000033636	Sp. Pl. 1: 127. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Ruppiaceae/Ruppia/

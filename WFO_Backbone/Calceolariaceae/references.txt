@@ -1,0 +1,939 @@
+wfo-0000354842	ref-0000354842	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2331414
+wfo-0000354843	ref-0000354843	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2331416
+wfo-0000354844	ref-0000354844	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2331417
+wfo-0000354845	ref-0000354845	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2331419
+wfo-0000354847	ref-0000354847	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2331420
+wfo-0000354848	ref-0000354848	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2331425
+wfo-0000508616	ref-0000508616	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2606495
+wfo-0000567158	ref-0000567158	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2677909
+wfo-0000567230	ref-0000567230	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2677975
+wfo-0000579197	ref-0000579197	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2690890
+wfo-0000579198	ref-0000579198	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2690891
+wfo-0000579199	ref-0000579199	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690892
+wfo-0000579200	ref-0000579200	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690893
+wfo-0000579201	ref-0000579201	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690894
+wfo-0000579202	ref-0000579202	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2690895
+wfo-0000579203	ref-0000579203	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2690896
+wfo-0000579204	ref-0000579204	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690898
+wfo-0000579205	ref-0000579205	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2690899
+wfo-0000579208	ref-0000579208	Sendtnera	http://www.theplantlist.org/tpl1.1/record/kew-2690900
+wfo-0000579209	ref-0000579209	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2690901
+wfo-0000579210	ref-0000579210	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690902
+wfo-0000579211	ref-0000579211	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690903
+wfo-0000579212	ref-0000579212	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690904
+wfo-0000579213	ref-0000579213	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2690905
+wfo-0000579214	ref-0000579214	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690906
+wfo-0000579215	ref-0000579215	Trans. & Proc. New Zealand Inst.	http://www.theplantlist.org/tpl1.1/record/kew-2690907
+wfo-0000579216	ref-0000579216	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690908
+wfo-0000579217	ref-0000579217	Gayana, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690909
+wfo-0000579219	ref-0000579219	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2690910
+wfo-0000579220	ref-0000579220	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2690911
+wfo-0000579221	ref-0000579221	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2690912
+wfo-0000579222	ref-0000579222	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690913
+wfo-0000579223	ref-0000579223	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2690914
+wfo-0000579224	ref-0000579224	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2690915
+wfo-0000579225	ref-0000579225	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2690916
+wfo-0000579226	ref-0000579226	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2690917
+wfo-0000579227	ref-0000579227	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2690918
+wfo-0000579228	ref-0000579228	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690919
+wfo-0000579230	ref-0000579230	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2690920
+wfo-0000579231	ref-0000579231	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2690921
+wfo-0000579232	ref-0000579232	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690922
+wfo-0000579234	ref-0000579234	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2690924
+wfo-0000579235	ref-0000579235	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2690925
+wfo-0000579236	ref-0000579236	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2690926
+wfo-0000579237	ref-0000579237	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690927
+wfo-0000579238	ref-0000579238	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2690928
+wfo-0000579239	ref-0000579239	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2690929
+wfo-0000579241	ref-0000579241	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2690930
+wfo-0000579242	ref-0000579242	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2690931
+wfo-0000579244	ref-0000579244	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2690933
+wfo-0000579245	ref-0000579245	Index Seminum (B)	http://www.theplantlist.org/tpl1.1/record/kew-2690934
+wfo-0000579246	ref-0000579246	Edinburgh New Philos. J.	http://www.theplantlist.org/tpl1.1/record/kew-2690935
+wfo-0000579247	ref-0000579247	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2690936
+wfo-0000579248	ref-0000579248	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690937
+wfo-0000579249	ref-0000579249	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2690938
+wfo-0000579250	ref-0000579250	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2690939
+wfo-0000579252	ref-0000579252	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2690940
+wfo-0000579254	ref-0000579254	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2690942
+wfo-0000579255	ref-0000579255	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690943
+wfo-0000579256	ref-0000579256	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2690944
+wfo-0000579257	ref-0000579257	Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2690945
+wfo-0000579258	ref-0000579258	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2690946
+wfo-0000579259	ref-0000579259	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2690947
+wfo-0000579260	ref-0000579260	Lilloa	http://www.theplantlist.org/tpl1.1/record/kew-2690948
+wfo-0000579261	ref-0000579261	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690949
+wfo-0000579263	ref-0000579263	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2690950
+wfo-0000579264	ref-0000579264	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2690951
+wfo-0000579265	ref-0000579265	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2690952
+wfo-0000579266	ref-0000579266	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690953
+wfo-0000579267	ref-0000579267	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2690954
+wfo-0000579268	ref-0000579268	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2690955
+wfo-0000579269	ref-0000579269	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2690956
+wfo-0000579271	ref-0000579271	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2690958
+wfo-0000579272	ref-0000579272	Herb. Pedem.	http://www.theplantlist.org/tpl1.1/record/kew-2690959
+wfo-0000579274	ref-0000579274	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690960
+wfo-0000579275	ref-0000579275	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690961
+wfo-0000579276	ref-0000579276	in Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/kew-2690962
+wfo-0000579278	ref-0000579278	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2690964
+wfo-0000579280	ref-0000579280	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2690966
+wfo-0000579281	ref-0000579281	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2690967
+wfo-0000579282	ref-0000579282	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2690968
+wfo-0000579283	ref-0000579283	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2690969
+wfo-0000579285	ref-0000579285	Revista Fac. Agron. Univ. Nac. La Plata	http://www.theplantlist.org/tpl1.1/record/kew-2690970
+wfo-0000579286	ref-0000579286	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690971
+wfo-0000579287	ref-0000579287	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2690972
+wfo-0000579288	ref-0000579288	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690973
+wfo-0000579289	ref-0000579289	Bol. Acad. Nac. Ci	http://www.theplantlist.org/tpl1.1/record/kew-2690974
+wfo-0000579290	ref-0000579290	Herb. Pedem.	http://www.theplantlist.org/tpl1.1/record/kew-2690975
+wfo-0000579292	ref-0000579292	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2690977
+wfo-0000579293	ref-0000579293	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2690978
+wfo-0000579294	ref-0000579294	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2690979
+wfo-0000579296	ref-0000579296	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2690980
+wfo-0000579297	ref-0000579297	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2690981
+wfo-0000579298	ref-0000579298	J. Ontario Rock Gard. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2690982
+wfo-0000579299	ref-0000579299	Trab. Inst. Bot. Farmacol.	http://www.theplantlist.org/tpl1.1/record/kew-2690983
+wfo-0000579300	ref-0000579300	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2690984
+wfo-0000579301	ref-0000579301	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2690985
+wfo-0000579302	ref-0000579302	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690986
+wfo-0000579304	ref-0000579304	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690988
+wfo-0000579305	ref-0000579305	Fl. Atacam.	http://www.theplantlist.org/tpl1.1/record/kew-2690989
+wfo-0000579307	ref-0000579307	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690990
+wfo-0000579308	ref-0000579308	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2690991
+wfo-0000579309	ref-0000579309	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2690992
+wfo-0000579310	ref-0000579310	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2690993
+wfo-0000579311	ref-0000579311	in Fl. Patagonica	http://www.theplantlist.org/tpl1.1/record/kew-2690994
+wfo-0000579313	ref-0000579313	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2690996
+wfo-0000579314	ref-0000579314	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2690997
+wfo-0000579315	ref-0000579315	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2690998
+wfo-0000579322	ref-0000579322	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691002
+wfo-0000579323	ref-0000579323	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691003
+wfo-0000579324	ref-0000579324	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691004
+wfo-0000579325	ref-0000579325	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691005
+wfo-0000579326	ref-0000579326	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691006
+wfo-0000579327	ref-0000579327	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2691007
+wfo-0000579328	ref-0000579328	Ann. Fl. Pomone	http://www.theplantlist.org/tpl1.1/record/kew-2691008
+wfo-0000579329	ref-0000579329	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691009
+wfo-0000579332	ref-0000579332	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691011
+wfo-0000579333	ref-0000579333	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691012
+wfo-0000579334	ref-0000579334	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691013
+wfo-0000579335	ref-0000579335	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691014
+wfo-0000579336	ref-0000579336	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691015
+wfo-0000579337	ref-0000579337	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691016
+wfo-0000579338	ref-0000579338	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691017
+wfo-0000579339	ref-0000579339	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691018
+wfo-0000579340	ref-0000579340	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691019
+wfo-0000579342	ref-0000579342	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691020
+wfo-0000579343	ref-0000579343	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691021
+wfo-0000579344	ref-0000579344	Mant.	http://www.theplantlist.org/tpl1.1/record/kew-2691022
+wfo-0000579345	ref-0000579345	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691023
+wfo-0000579347	ref-0000579347	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691025
+wfo-0000579348	ref-0000579348	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691026
+wfo-0000579349	ref-0000579349	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691027
+wfo-0000579350	ref-0000579350	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691028
+wfo-0000579351	ref-0000579351	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691029
+wfo-0000579353	ref-0000579353	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691030
+wfo-0000579354	ref-0000579354	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691031
+wfo-0000579355	ref-0000579355	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691032
+wfo-0000579356	ref-0000579356	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691033
+wfo-0000579357	ref-0000579357	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691034
+wfo-0000579358	ref-0000579358	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691035
+wfo-0000579359	ref-0000579359	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691036
+wfo-0000579360	ref-0000579360	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691037
+wfo-0000579361	ref-0000579361	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691038
+wfo-0000579362	ref-0000579362	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691039
+wfo-0000579364	ref-0000579364	El Arbol	http://www.theplantlist.org/tpl1.1/record/kew-2691040
+wfo-0000579365	ref-0000579365	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691041
+wfo-0000579366	ref-0000579366	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691042
+wfo-0000579367	ref-0000579367	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691043
+wfo-0000579368	ref-0000579368	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691044
+wfo-0000579369	ref-0000579369	Kongl. Svenska Vetensk. Acad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-2691045
+wfo-0000579370	ref-0000579370	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691046
+wfo-0000579372	ref-0000579372	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691048
+wfo-0000579373	ref-0000579373	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691049
+wfo-0000579375	ref-0000579375	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691050
+wfo-0000579376	ref-0000579376	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691051
+wfo-0000579377	ref-0000579377	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691052
+wfo-0000579378	ref-0000579378	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691053
+wfo-0000579379	ref-0000579379	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691054
+wfo-0000579381	ref-0000579381	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691056
+wfo-0000579382	ref-0000579382	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691057
+wfo-0000579383	ref-0000579383	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691059
+wfo-0000579385	ref-0000579385	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691060
+wfo-0000579386	ref-0000579386	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691061
+wfo-0000579388	ref-0000579388	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691063
+wfo-0000579389	ref-0000579389	Edinburgh New Philos. J.	http://www.theplantlist.org/tpl1.1/record/kew-2691064
+wfo-0000579390	ref-0000579390	Notul. Nat. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691065
+wfo-0000579391	ref-0000579391	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691066
+wfo-0000579392	ref-0000579392	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691067
+wfo-0000579393	ref-0000579393	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691068
+wfo-0000579394	ref-0000579394	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691069
+wfo-0000579396	ref-0000579396	Feddes Repert.	http://www.theplantlist.org/tpl1.1/record/kew-2691070
+wfo-0000579397	ref-0000579397	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691071
+wfo-0000579398	ref-0000579398	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691072
+wfo-0000579399	ref-0000579399	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691073
+wfo-0000579400	ref-0000579400	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691074
+wfo-0000579401	ref-0000579401	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691075
+wfo-0000579402	ref-0000579402	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691076
+wfo-0000579403	ref-0000579403	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691077
+wfo-0000579404	ref-0000579404	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691078
+wfo-0000579406	ref-0000579406	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691080
+wfo-0000579407	ref-0000579407	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691081
+wfo-0000579408	ref-0000579408	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691082
+wfo-0000579409	ref-0000579409	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691083
+wfo-0000579410	ref-0000579410	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691084
+wfo-0000579411	ref-0000579411	Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691085
+wfo-0000579412	ref-0000579412	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691086
+wfo-0000579413	ref-0000579413	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691087
+wfo-0000579414	ref-0000579414	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691088
+wfo-0000579415	ref-0000579415	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691089
+wfo-0000579417	ref-0000579417	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691090
+wfo-0000579418	ref-0000579418	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691091
+wfo-0000579419	ref-0000579419	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691092
+wfo-0000579420	ref-0000579420	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691093
+wfo-0000579421	ref-0000579421	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691094
+wfo-0000579422	ref-0000579422	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691095
+wfo-0000579423	ref-0000579423	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691096
+wfo-0000579424	ref-0000579424	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691097
+wfo-0000579425	ref-0000579425	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691098
+wfo-0000579428	ref-0000579428	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691100
+wfo-0000579430	ref-0000579430	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691102
+wfo-0000579431	ref-0000579431	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691103
+wfo-0000579432	ref-0000579432	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2691104
+wfo-0000579433	ref-0000579433	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691105
+wfo-0000579434	ref-0000579434	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691106
+wfo-0000579436	ref-0000579436	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691108
+wfo-0000579437	ref-0000579437	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691109
+wfo-0000579439	ref-0000579439	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691110
+wfo-0000579440	ref-0000579440	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691111
+wfo-0000579441	ref-0000579441	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691113
+wfo-0000579442	ref-0000579442	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691114
+wfo-0000579443	ref-0000579443	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691115
+wfo-0000579444	ref-0000579444	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691117
+wfo-0000579445	ref-0000579445	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691118
+wfo-0000579446	ref-0000579446	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691119
+wfo-0000579448	ref-0000579448	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691120
+wfo-0000579449	ref-0000579449	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691121
+wfo-0000579450	ref-0000579450	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691122
+wfo-0000579451	ref-0000579451	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691123
+wfo-0000579452	ref-0000579452	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691124
+wfo-0000579453	ref-0000579453	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691125
+wfo-0000579454	ref-0000579454	Tabl. Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691126
+wfo-0000579455	ref-0000579455	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691127
+wfo-0000579456	ref-0000579456	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691128
+wfo-0000579457	ref-0000579457	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691129
+wfo-0000579459	ref-0000579459	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691130
+wfo-0000579460	ref-0000579460	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691131
+wfo-0000579461	ref-0000579461	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691132
+wfo-0000579462	ref-0000579462	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691133
+wfo-0000579463	ref-0000579463	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691134
+wfo-0000579465	ref-0000579465	Abh. Königl. Ges. Wiss. Göttingen	http://www.theplantlist.org/tpl1.1/record/kew-2691136
+wfo-0000579466	ref-0000579466	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691137
+wfo-0000579467	ref-0000579467	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691138
+wfo-0000579468	ref-0000579468	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691139
+wfo-0000579470	ref-0000579470	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691140
+wfo-0000579471	ref-0000579471	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691141
+wfo-0000579473	ref-0000579473	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691145
+wfo-0000579474	ref-0000579474	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691146
+wfo-0000579475	ref-0000579475	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691148
+wfo-0000579476	ref-0000579476	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691149
+wfo-0000579478	ref-0000579478	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691150
+wfo-0000579479	ref-0000579479	Mag. Hort. (Liége)	http://www.theplantlist.org/tpl1.1/record/kew-2691151
+wfo-0000579480	ref-0000579480	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691152
+wfo-0000579481	ref-0000579481	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691153
+wfo-0000579482	ref-0000579482	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691154
+wfo-0000579483	ref-0000579483	Darwiniana	http://www.theplantlist.org/tpl1.1/record/kew-2691155
+wfo-0000579484	ref-0000579484	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691156
+wfo-0000579485	ref-0000579485	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691157
+wfo-0000579486	ref-0000579486	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691158
+wfo-0000579487	ref-0000579487	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691159
+wfo-0000579489	ref-0000579489	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691160
+wfo-0000579490	ref-0000579490	Mem. Reale Accad. Sci. Torino	http://www.theplantlist.org/tpl1.1/record/kew-2691161
+wfo-0000579491	ref-0000579491	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691162
+wfo-0000579492	ref-0000579492	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691163
+wfo-0000579493	ref-0000579493	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691164
+wfo-0000579494	ref-0000579494	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691165
+wfo-0000579495	ref-0000579495	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691166
+wfo-0000579497	ref-0000579497	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691168
+wfo-0000579498	ref-0000579498	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691169
+wfo-0000579500	ref-0000579500	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691170
+wfo-0000579501	ref-0000579501	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691171
+wfo-0000579502	ref-0000579502	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691172
+wfo-0000579503	ref-0000579503	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691173
+wfo-0000579504	ref-0000579504	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691174
+wfo-0000579505	ref-0000579505	Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691175
+wfo-0000579506	ref-0000579506	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691176
+wfo-0000579507	ref-0000579507	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691177
+wfo-0000579508	ref-0000579508	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691178
+wfo-0000579509	ref-0000579509	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691179
+wfo-0000579511	ref-0000579511	Abh. Königl. Ges. Wiss. Göttingen	http://www.theplantlist.org/tpl1.1/record/kew-2691180
+wfo-0000579512	ref-0000579512	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691181
+wfo-0000579513	ref-0000579513	Hort. Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2691182
+wfo-0000579514	ref-0000579514	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691183
+wfo-0000579515	ref-0000579515	Vilm. Blumengärtn. ed. 3	http://www.theplantlist.org/tpl1.1/record/kew-2691184
+wfo-0000579516	ref-0000579516	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2691185
+wfo-0000579517	ref-0000579517	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691186
+wfo-0000579518	ref-0000579518	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691187
+wfo-0000579519	ref-0000579519	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691188
+wfo-0000579521	ref-0000579521	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2691190
+wfo-0000579522	ref-0000579522	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691191
+wfo-0000579523	ref-0000579523	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691192
+wfo-0000579524	ref-0000579524	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691193
+wfo-0000579525	ref-0000579525	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691194
+wfo-0000579526	ref-0000579526	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691195
+wfo-0000579527	ref-0000579527	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691196
+wfo-0000579528	ref-0000579528	Suppl. Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2691197
+wfo-0000579529	ref-0000579529	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691198
+wfo-0000579530	ref-0000579530	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691199
+wfo-0000579533	ref-0000579533	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691200
+wfo-0000579535	ref-0000579535	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691202
+wfo-0000579536	ref-0000579536	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691203
+wfo-0000579537	ref-0000579537	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691204
+wfo-0000579538	ref-0000579538	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691205
+wfo-0000579539	ref-0000579539	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691206
+wfo-0000579540	ref-0000579540	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691207
+wfo-0000579541	ref-0000579541	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691208
+wfo-0000579542	ref-0000579542	Darwiniana	http://www.theplantlist.org/tpl1.1/record/kew-2691209
+wfo-0000579544	ref-0000579544	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691210
+wfo-0000579545	ref-0000579545	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691211
+wfo-0000579546	ref-0000579546	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691212
+wfo-0000579547	ref-0000579547	Index Seminum (Z)	http://www.theplantlist.org/tpl1.1/record/kew-2691213
+wfo-0000579548	ref-0000579548	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691214
+wfo-0000579549	ref-0000579549	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691215
+wfo-0000579550	ref-0000579550	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691216
+wfo-0000579551	ref-0000579551	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691217
+wfo-0000579552	ref-0000579552	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691218
+wfo-0000579553	ref-0000579553	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691219
+wfo-0000579555	ref-0000579555	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691220
+wfo-0000579556	ref-0000579556	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691221
+wfo-0000579557	ref-0000579557	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691222
+wfo-0000579558	ref-0000579558	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691223
+wfo-0000579559	ref-0000579559	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691224
+wfo-0000579560	ref-0000579560	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691225
+wfo-0000579561	ref-0000579561	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691226
+wfo-0000579562	ref-0000579562	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691227
+wfo-0000579563	ref-0000579563	Fl. Cab.	http://www.theplantlist.org/tpl1.1/record/kew-2691228
+wfo-0000579564	ref-0000579564	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691229
+wfo-0000579566	ref-0000579566	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691230
+wfo-0000579567	ref-0000579567	Pl. Hartw.	http://www.theplantlist.org/tpl1.1/record/kew-2691231
+wfo-0000579568	ref-0000579568	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691232
+wfo-0000579569	ref-0000579569	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691233
+wfo-0000579570	ref-0000579570	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691234
+wfo-0000579571	ref-0000579571	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691235
+wfo-0000579572	ref-0000579572	Vilm. Blumengärtn. ed. 3	http://www.theplantlist.org/tpl1.1/record/kew-2691236
+wfo-0000579573	ref-0000579573	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691237
+wfo-0000579574	ref-0000579574	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691238
+wfo-0000579575	ref-0000579575	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691239
+wfo-0000579577	ref-0000579577	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691240
+wfo-0000579578	ref-0000579578	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691242
+wfo-0000579579	ref-0000579579	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691243
+wfo-0000579580	ref-0000579580	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691244
+wfo-0000579581	ref-0000579581	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691245
+wfo-0000579583	ref-0000579583	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2691247
+wfo-0000579584	ref-0000579584	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691248
+wfo-0000579585	ref-0000579585	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691249
+wfo-0000579587	ref-0000579587	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691250
+wfo-0000579588	ref-0000579588	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691251
+wfo-0000579589	ref-0000579589	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691252
+wfo-0000579590	ref-0000579590	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691253
+wfo-0000579591	ref-0000579591	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691255
+wfo-0000579592	ref-0000579592	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691256
+wfo-0000579593	ref-0000579593	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2691257
+wfo-0000579594	ref-0000579594	Suppl. Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2691258
+wfo-0000579595	ref-0000579595	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691259
+wfo-0000579597	ref-0000579597	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691260
+wfo-0000579598	ref-0000579598	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691261
+wfo-0000579599	ref-0000579599	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691262
+wfo-0000579600	ref-0000579600	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691263
+wfo-0000579601	ref-0000579601	Observ. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691264
+wfo-0000579602	ref-0000579602	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691265
+wfo-0000579603	ref-0000579603	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691266
+wfo-0000579604	ref-0000579604	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691267
+wfo-0000579605	ref-0000579605	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691268
+wfo-0000579606	ref-0000579606	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691269
+wfo-0000579608	ref-0000579608	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691270
+wfo-0000579609	ref-0000579609	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691271
+wfo-0000579610	ref-0000579610	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691272
+wfo-0000579611	ref-0000579611	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691273
+wfo-0000579612	ref-0000579612	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691275
+wfo-0000579613	ref-0000579613	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2691276
+wfo-0000579614	ref-0000579614	Syst. Veg. ed. 13	http://www.theplantlist.org/tpl1.1/record/kew-2691277
+wfo-0000579615	ref-0000579615	Suppl. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691278
+wfo-0000579616	ref-0000579616	Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691279
+wfo-0000579618	ref-0000579618	Vilm. Blumengärtn. ed. 3	http://www.theplantlist.org/tpl1.1/record/kew-2691280
+wfo-0000579619	ref-0000579619	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691282
+wfo-0000579620	ref-0000579620	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691283
+wfo-0000579622	ref-0000579622	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2691285
+wfo-0000579623	ref-0000579623	Hickenia	http://www.theplantlist.org/tpl1.1/record/kew-2691286
+wfo-0000579624	ref-0000579624	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691287
+wfo-0000579625	ref-0000579625	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2691288
+wfo-0000579626	ref-0000579626	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691289
+wfo-0000579628	ref-0000579628	Nomencl. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691290
+wfo-0000579629	ref-0000579629	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691291
+wfo-0000579630	ref-0000579630	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691292
+wfo-0000579631	ref-0000579631	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691293
+wfo-0000579632	ref-0000579632	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691294
+wfo-0000579633	ref-0000579633	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691295
+wfo-0000579634	ref-0000579634	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691296
+wfo-0000579635	ref-0000579635	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691297
+wfo-0000579637	ref-0000579637	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691299
+wfo-0000579639	ref-0000579639	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691300
+wfo-0000579640	ref-0000579640	J. Ontario Rock Gard. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2691301
+wfo-0000579641	ref-0000579641	J. Ontario Rock Gard. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2691303
+wfo-0000579642	ref-0000579642	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691304
+wfo-0000579643	ref-0000579643	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691305
+wfo-0000579644	ref-0000579644	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691306
+wfo-0000579645	ref-0000579645	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691307
+wfo-0000579646	ref-0000579646	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691308
+wfo-0000579647	ref-0000579647	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691309
+wfo-0000579649	ref-0000579649	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691310
+wfo-0000579651	ref-0000579651	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691312
+wfo-0000579652	ref-0000579652	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691313
+wfo-0000579653	ref-0000579653	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691314
+wfo-0000579654	ref-0000579654	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691315
+wfo-0000579655	ref-0000579655	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691316
+wfo-0000579656	ref-0000579656	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691317
+wfo-0000579657	ref-0000579657	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691318
+wfo-0000579660	ref-0000579660	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691320
+wfo-0000579661	ref-0000579661	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691321
+wfo-0000579662	ref-0000579662	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691322
+wfo-0000579663	ref-0000579663	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691323
+wfo-0000579664	ref-0000579664	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691324
+wfo-0000579665	ref-0000579665	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691325
+wfo-0000579666	ref-0000579666	Lilloa	http://www.theplantlist.org/tpl1.1/record/kew-2691326
+wfo-0000579668	ref-0000579668	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691328
+wfo-0000579669	ref-0000579669	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691329
+wfo-0000579671	ref-0000579671	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691330
+wfo-0000579672	ref-0000579672	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691331
+wfo-0000579673	ref-0000579673	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691332
+wfo-0000579674	ref-0000579674	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691333
+wfo-0000579675	ref-0000579675	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691334
+wfo-0000579677	ref-0000579677	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691336
+wfo-0000579679	ref-0000579679	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691338
+wfo-0000579682	ref-0000579682	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691340
+wfo-0000579683	ref-0000579683	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691341
+wfo-0000579685	ref-0000579685	Abh. Königl. Ges. Wiss. Göttingen	http://www.theplantlist.org/tpl1.1/record/kew-2691343
+wfo-0000579686	ref-0000579686	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691344
+wfo-0000579687	ref-0000579687	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691345
+wfo-0000579688	ref-0000579688	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691346
+wfo-0000579689	ref-0000579689	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691347
+wfo-0000579690	ref-0000579690	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691348
+wfo-0000579691	ref-0000579691	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691349
+wfo-0000579693	ref-0000579693	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691350
+wfo-0000579694	ref-0000579694	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691351
+wfo-0000579695	ref-0000579695	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691352
+wfo-0000579696	ref-0000579696	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691353
+wfo-0000579697	ref-0000579697	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691355
+wfo-0000579698	ref-0000579698	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691356
+wfo-0000579699	ref-0000579699	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2691357
+wfo-0000579700	ref-0000579700	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691358
+wfo-0000579701	ref-0000579701	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691359
+wfo-0000579704	ref-0000579704	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691361
+wfo-0000579705	ref-0000579705	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691362
+wfo-0000579706	ref-0000579706	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691363
+wfo-0000579707	ref-0000579707	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691364
+wfo-0000579708	ref-0000579708	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691365
+wfo-0000579709	ref-0000579709	Pl. Hartw.	http://www.theplantlist.org/tpl1.1/record/kew-2691366
+wfo-0000579710	ref-0000579710	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691367
+wfo-0000579711	ref-0000579711	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691368
+wfo-0000579712	ref-0000579712	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691369
+wfo-0000579714	ref-0000579714	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691370
+wfo-0000579715	ref-0000579715	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691371
+wfo-0000579716	ref-0000579716	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691372
+wfo-0000579717	ref-0000579717	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691373
+wfo-0000579718	ref-0000579718	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691374
+wfo-0000579719	ref-0000579719	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691375
+wfo-0000579720	ref-0000579720	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691376
+wfo-0000579721	ref-0000579721	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691377
+wfo-0000579722	ref-0000579722	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691378
+wfo-0000579725	ref-0000579725	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691380
+wfo-0000579726	ref-0000579726	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691381
+wfo-0000579727	ref-0000579727	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691382
+wfo-0000579728	ref-0000579728	Fl. Cab.	http://www.theplantlist.org/tpl1.1/record/kew-2691383
+wfo-0000579729	ref-0000579729	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691384
+wfo-0000579731	ref-0000579731	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691386
+wfo-0000579732	ref-0000579732	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691387
+wfo-0000579733	ref-0000579733	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691388
+wfo-0000579734	ref-0000579734	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691389
+wfo-0000579736	ref-0000579736	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691390
+wfo-0000579737	ref-0000579737	Repert. Bot. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691391
+wfo-0000579738	ref-0000579738	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2691392
+wfo-0000579739	ref-0000579739	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691393
+wfo-0000579740	ref-0000579740	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691394
+wfo-0000579741	ref-0000579741	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691395
+wfo-0000579742	ref-0000579742	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691396
+wfo-0000579743	ref-0000579743	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691397
+wfo-0000579744	ref-0000579744	Icon. Pict. Pl. Rar.	http://www.theplantlist.org/tpl1.1/record/kew-2691398
+wfo-0000579745	ref-0000579745	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691399
+wfo-0000579748	ref-0000579748	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691400
+wfo-0000579749	ref-0000579749	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2691401
+wfo-0000579750	ref-0000579750	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691402
+wfo-0000579752	ref-0000579752	Herb. Pedem.	http://www.theplantlist.org/tpl1.1/record/kew-2691404
+wfo-0000579753	ref-0000579753	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691405
+wfo-0000579754	ref-0000579754	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691406
+wfo-0000579755	ref-0000579755	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691407
+wfo-0000579756	ref-0000579756	Frorieps Not. Natur- Heilk.	http://www.theplantlist.org/tpl1.1/record/kew-2691408
+wfo-0000579757	ref-0000579757	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691409
+wfo-0000579759	ref-0000579759	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691410
+wfo-0000579760	ref-0000579760	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691411
+wfo-0000579761	ref-0000579761	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691412
+wfo-0000579762	ref-0000579762	Bot. Comm.	http://www.theplantlist.org/tpl1.1/record/kew-2691413
+wfo-0000579763	ref-0000579763	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691414
+wfo-0000579764	ref-0000579764	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691415
+wfo-0000579765	ref-0000579765	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691416
+wfo-0000579766	ref-0000579766	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691417
+wfo-0000579768	ref-0000579768	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691419
+wfo-0000579770	ref-0000579770	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691420
+wfo-0000579771	ref-0000579771	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691421
+wfo-0000579772	ref-0000579772	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691422
+wfo-0000579774	ref-0000579774	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691424
+wfo-0000579775	ref-0000579775	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691425
+wfo-0000579776	ref-0000579776	Icon. Pict. Pl. Rar.	http://www.theplantlist.org/tpl1.1/record/kew-2691426
+wfo-0000579777	ref-0000579777	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691427
+wfo-0000579778	ref-0000579778	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691428
+wfo-0000579779	ref-0000579779	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691429
+wfo-0000579781	ref-0000579781	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691430
+wfo-0000579782	ref-0000579782	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691431
+wfo-0000579783	ref-0000579783	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691432
+wfo-0000579784	ref-0000579784	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691433
+wfo-0000579785	ref-0000579785	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691434
+wfo-0000579786	ref-0000579786	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691435
+wfo-0000579787	ref-0000579787	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691436
+wfo-0000579788	ref-0000579788	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691437
+wfo-0000579789	ref-0000579789	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691438
+wfo-0000579790	ref-0000579790	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691439
+wfo-0000579792	ref-0000579792	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691440
+wfo-0000579793	ref-0000579793	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691441
+wfo-0000579794	ref-0000579794	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/kew-2691442
+wfo-0000579795	ref-0000579795	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2691443
+wfo-0000579796	ref-0000579796	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691444
+wfo-0000579797	ref-0000579797	Fl. Atacam.	http://www.theplantlist.org/tpl1.1/record/kew-2691445
+wfo-0000579798	ref-0000579798	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691446
+wfo-0000579799	ref-0000579799	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691447
+wfo-0000579800	ref-0000579800	Exot. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-2691448
+wfo-0000579801	ref-0000579801	Suppl. Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2691449
+wfo-0000579803	ref-0000579803	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691450
+wfo-0000579804	ref-0000579804	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691451
+wfo-0000579805	ref-0000579805	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691452
+wfo-0000579806	ref-0000579806	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691454
+wfo-0000579807	ref-0000579807	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691455
+wfo-0000579808	ref-0000579808	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691456
+wfo-0000579809	ref-0000579809	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691457
+wfo-0000579810	ref-0000579810	Rep. Princeton Univ. Exped. Patagonia, Botany	http://www.theplantlist.org/tpl1.1/record/kew-2691458
+wfo-0000579811	ref-0000579811	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691459
+wfo-0000579813	ref-0000579813	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691460
+wfo-0000579814	ref-0000579814	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691461
+wfo-0000579815	ref-0000579815	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691462
+wfo-0000579816	ref-0000579816	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691463
+wfo-0000579817	ref-0000579817	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2691465
+wfo-0000579818	ref-0000579818	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691466
+wfo-0000579819	ref-0000579819	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691467
+wfo-0000579820	ref-0000579820	Lilloa	http://www.theplantlist.org/tpl1.1/record/kew-2691468
+wfo-0000579821	ref-0000579821	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691469
+wfo-0000579823	ref-0000579823	Bol. Soc. Bot. Libertad	http://www.theplantlist.org/tpl1.1/record/kew-2691470
+wfo-0000579824	ref-0000579824	Suppl. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691471
+wfo-0000579825	ref-0000579825	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691472
+wfo-0000579826	ref-0000579826	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691473
+wfo-0000579827	ref-0000579827	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691474
+wfo-0000579828	ref-0000579828	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691475
+wfo-0000579829	ref-0000579829	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691476
+wfo-0000579830	ref-0000579830	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691477
+wfo-0000579831	ref-0000579831	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691478
+wfo-0000579832	ref-0000579832	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691479
+wfo-0000579834	ref-0000579834	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691480
+wfo-0000579835	ref-0000579835	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691481
+wfo-0000579836	ref-0000579836	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691482
+wfo-0000579837	ref-0000579837	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691483
+wfo-0000579839	ref-0000579839	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691485
+wfo-0000579840	ref-0000579840	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691486
+wfo-0000579841	ref-0000579841	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691487
+wfo-0000579842	ref-0000579842	Mant. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691488
+wfo-0000579843	ref-0000579843	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691489
+wfo-0000579845	ref-0000579845	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691490
+wfo-0000579846	ref-0000579846	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691491
+wfo-0000579847	ref-0000579847	Icon. Pict. Pl. Rar.	http://www.theplantlist.org/tpl1.1/record/kew-2691492
+wfo-0000579848	ref-0000579848	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691493
+wfo-0000579849	ref-0000579849	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691494
+wfo-0000579850	ref-0000579850	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691495
+wfo-0000579851	ref-0000579851	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691496
+wfo-0000579853	ref-0000579853	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691498
+wfo-0000579854	ref-0000579854	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691499
+wfo-0000579857	ref-0000579857	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2691500
+wfo-0000579858	ref-0000579858	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691501
+wfo-0000579859	ref-0000579859	Suppl. Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2691502
+wfo-0000579860	ref-0000579860	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691503
+wfo-0000579861	ref-0000579861	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691504
+wfo-0000579862	ref-0000579862	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691505
+wfo-0000579863	ref-0000579863	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691506
+wfo-0000579864	ref-0000579864	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691507
+wfo-0000579865	ref-0000579865	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691508
+wfo-0000579866	ref-0000579866	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691509
+wfo-0000579868	ref-0000579868	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691510
+wfo-0000579870	ref-0000579870	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691512
+wfo-0000579871	ref-0000579871	Kongl. Svenska Vetensk. Acad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-2691513
+wfo-0000579872	ref-0000579872	Fl. Chil.	http://www.theplantlist.org/tpl1.1/record/kew-2691514
+wfo-0000579873	ref-0000579873	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691515
+wfo-0000579874	ref-0000579874	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691516
+wfo-0000579875	ref-0000579875	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2691517
+wfo-0000579876	ref-0000579876	Anales Mus. Nac. Santiago de Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691518
+wfo-0000579877	ref-0000579877	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691519
+wfo-0000579879	ref-0000579879	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691520
+wfo-0000579880	ref-0000579880	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691521
+wfo-0000579881	ref-0000579881	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691523
+wfo-0000579882	ref-0000579882	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691524
+wfo-0000579883	ref-0000579883	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691525
+wfo-0000579884	ref-0000579884	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691526
+wfo-0000579885	ref-0000579885	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2691527
+wfo-0000579886	ref-0000579886	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2691528
+wfo-0000579887	ref-0000579887	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691529
+wfo-0000579889	ref-0000579889	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691530
+wfo-0000579890	ref-0000579890	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691531
+wfo-0000579891	ref-0000579891	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691532
+wfo-0000579892	ref-0000579892	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691533
+wfo-0000579893	ref-0000579893	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691534
+wfo-0000579894	ref-0000579894	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691535
+wfo-0000579895	ref-0000579895	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691536
+wfo-0000579896	ref-0000579896	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691537
+wfo-0000579897	ref-0000579897	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691539
+wfo-0000579899	ref-0000579899	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691540
+wfo-0000579900	ref-0000579900	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691541
+wfo-0000579901	ref-0000579901	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691542
+wfo-0000579902	ref-0000579902	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2691543
+wfo-0000579903	ref-0000579903	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691544
+wfo-0000579904	ref-0000579904	Fl. Nov.-Zel.	http://www.theplantlist.org/tpl1.1/record/kew-2691545
+wfo-0000579905	ref-0000579905	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691546
+wfo-0000579906	ref-0000579906	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691547
+wfo-0000579907	ref-0000579907	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691548
+wfo-0000579908	ref-0000579908	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691549
+wfo-0000579910	ref-0000579910	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2691550
+wfo-0000579911	ref-0000579911	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691551
+wfo-0000579912	ref-0000579912	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691552
+wfo-0000579913	ref-0000579913	Sendtnera	http://www.theplantlist.org/tpl1.1/record/kew-2691553
+wfo-0000579916	ref-0000579916	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691556
+wfo-0000579917	ref-0000579917	Allg. Gartenzeitung	http://www.theplantlist.org/tpl1.1/record/kew-2691557
+wfo-0000579919	ref-0000579919	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691559
+wfo-0000579921	ref-0000579921	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691560
+wfo-0000579922	ref-0000579922	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691561
+wfo-0000579923	ref-0000579923	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691562
+wfo-0000579924	ref-0000579924	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691563
+wfo-0000579925	ref-0000579925	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691564
+wfo-0000579926	ref-0000579926	Syst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691565
+wfo-0000579927	ref-0000579927	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691566
+wfo-0000579928	ref-0000579928	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691567
+wfo-0000579929	ref-0000579929	Exot. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-2691568
+wfo-0000579930	ref-0000579930	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691569
+wfo-0000579932	ref-0000579932	Fl. Cuenca Santiago de Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691570
+wfo-0000579933	ref-0000579933	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691571
+wfo-0000579934	ref-0000579934	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691572
+wfo-0000579935	ref-0000579935	Gen. Sp. Pl. Argent.	http://www.theplantlist.org/tpl1.1/record/kew-2691573
+wfo-0000579936	ref-0000579936	Gen. Sp. Pl. Argent.	http://www.theplantlist.org/tpl1.1/record/kew-2691574
+wfo-0000579937	ref-0000579937	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691575
+wfo-0000579938	ref-0000579938	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691576
+wfo-0000579939	ref-0000579939	Bol. Soc. Bot. Libertad	http://www.theplantlist.org/tpl1.1/record/kew-2691577
+wfo-0000579940	ref-0000579940	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691578
+wfo-0000579941	ref-0000579941	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691579
+wfo-0000579943	ref-0000579943	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691580
+wfo-0000579944	ref-0000579944	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691582
+wfo-0000579945	ref-0000579945	Herb. Pedem.	http://www.theplantlist.org/tpl1.1/record/kew-2691583
+wfo-0000579946	ref-0000579946	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691584
+wfo-0000579947	ref-0000579947	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691585
+wfo-0000579948	ref-0000579948	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691586
+wfo-0000579949	ref-0000579949	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691587
+wfo-0000579950	ref-0000579950	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2691589
+wfo-0000579952	ref-0000579952	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691590
+wfo-0000579953	ref-0000579953	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691591
+wfo-0000579954	ref-0000579954	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691592
+wfo-0000579955	ref-0000579955	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691593
+wfo-0000579956	ref-0000579956	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691594
+wfo-0000579957	ref-0000579957	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691596
+wfo-0000579958	ref-0000579958	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2691597
+wfo-0000579959	ref-0000579959	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691598
+wfo-0000579960	ref-0000579960	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691599
+wfo-0000579963	ref-0000579963	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691600
+wfo-0000579964	ref-0000579964	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691601
+wfo-0000579965	ref-0000579965	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691602
+wfo-0000579966	ref-0000579966	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691603
+wfo-0000579968	ref-0000579968	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691605
+wfo-0000579970	ref-0000579970	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691607
+wfo-0000579971	ref-0000579971	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691608
+wfo-0000579972	ref-0000579972	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691609
+wfo-0000579974	ref-0000579974	Hookers Icon. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691610
+wfo-0000579975	ref-0000579975	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/kew-2691611
+wfo-0000579976	ref-0000579976	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691612
+wfo-0000579977	ref-0000579977	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691613
+wfo-0000579978	ref-0000579978	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691614
+wfo-0000579979	ref-0000579979	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691615
+wfo-0000579980	ref-0000579980	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691616
+wfo-0000579981	ref-0000579981	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691617
+wfo-0000579982	ref-0000579982	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691618
+wfo-0000579983	ref-0000579983	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691619
+wfo-0000579985	ref-0000579985	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691620
+wfo-0000579986	ref-0000579986	Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur.	http://www.theplantlist.org/tpl1.1/record/kew-2691621
+wfo-0000579987	ref-0000579987	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691622
+wfo-0000579988	ref-0000579988	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691623
+wfo-0000579990	ref-0000579990	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691625
+wfo-0000579991	ref-0000579991	Paxtons Mag. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691626
+wfo-0000579992	ref-0000579992	Anales Mus. Nac. Santiago de Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691627
+wfo-0000579993	ref-0000579993	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691628
+wfo-0000579994	ref-0000579994	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691629
+wfo-0000579996	ref-0000579996	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691630
+wfo-0000579997	ref-0000579997	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2691631
+wfo-0000579998	ref-0000579998	Nov. Gen. Sp.	http://www.theplantlist.org/tpl1.1/record/kew-2691632
+wfo-0000580000	ref-0000580000	Trans. & Proc. New Zealand Inst.	http://www.theplantlist.org/tpl1.1/record/kew-2691634
+wfo-0000580001	ref-0000580001	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691635
+wfo-0000580002	ref-0000580002	Sendtnera	http://www.theplantlist.org/tpl1.1/record/kew-2691636
+wfo-0000580003	ref-0000580003	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691637
+wfo-0000580005	ref-0000580005	Nov. Gen. Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691639
+wfo-0000580007	ref-0000580007	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691640
+wfo-0000580008	ref-0000580008	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691641
+wfo-0000580009	ref-0000580009	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691642
+wfo-0000580010	ref-0000580010	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691643
+wfo-0000580011	ref-0000580011	Bot. Not.	http://www.theplantlist.org/tpl1.1/record/kew-2691644
+wfo-0000580012	ref-0000580012	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691645
+wfo-0000580013	ref-0000580013	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691646
+wfo-0000580014	ref-0000580014	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691647
+wfo-0000580015	ref-0000580015	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691648
+wfo-0000580016	ref-0000580016	Abh. Königl. Ges. Wiss. Göttingen	http://www.theplantlist.org/tpl1.1/record/kew-2691649
+wfo-0000580018	ref-0000580018	Abh. Königl. Ges. Wiss. Göttingen	http://www.theplantlist.org/tpl1.1/record/kew-2691650
+wfo-0000580020	ref-0000580020	Edinburgh New Philos. J.	http://www.theplantlist.org/tpl1.1/record/kew-2691652
+wfo-0000580021	ref-0000580021	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691653
+wfo-0000580022	ref-0000580022	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691654
+wfo-0000580023	ref-0000580023	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2691655
+wfo-0000580024	ref-0000580024	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691656
+wfo-0000580025	ref-0000580025	Bull. Acad. Roy. Sci. Bruxelles	http://www.theplantlist.org/tpl1.1/record/kew-2691657
+wfo-0000580026	ref-0000580026	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2691658
+wfo-0000580027	ref-0000580027	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691659
+wfo-0000580029	ref-0000580029	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691660
+wfo-0000580030	ref-0000580030	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691661
+wfo-0000580031	ref-0000580031	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691662
+wfo-0000580032	ref-0000580032	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691663
+wfo-0000580033	ref-0000580033	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691664
+wfo-0000580034	ref-0000580034	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691665
+wfo-0000580035	ref-0000580035	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2691666
+wfo-0000580036	ref-0000580036	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691667
+wfo-0000580037	ref-0000580037	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691668
+wfo-0000580038	ref-0000580038	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691669
+wfo-0000580039	ref-0000580039	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691670
+wfo-0000580040	ref-0000580040	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691671
+wfo-0000580041	ref-0000580041	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691672
+wfo-0000580042	ref-0000580042	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691673
+wfo-0000580043	ref-0000580043	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691674
+wfo-0000580044	ref-0000580044	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691675
+wfo-0000580045	ref-0000580045	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691676
+wfo-0000580046	ref-0000580046	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691677
+wfo-0000580047	ref-0000580047	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691678
+wfo-0000580048	ref-0000580048	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691679
+wfo-0000580050	ref-0000580050	Pittieria	http://www.theplantlist.org/tpl1.1/record/kew-2691681
+wfo-0000580051	ref-0000580051	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691682
+wfo-0000580052	ref-0000580052	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691683
+wfo-0000580053	ref-0000580053	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691684
+wfo-0000580054	ref-0000580054	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691685
+wfo-0000580055	ref-0000580055	Lilloa	http://www.theplantlist.org/tpl1.1/record/kew-2691686
+wfo-0000580056	ref-0000580056	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691687
+wfo-0000580057	ref-0000580057	Chlor. Andina	http://www.theplantlist.org/tpl1.1/record/kew-2691688
+wfo-0000580058	ref-0000580058	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691689
+wfo-0000580060	ref-0000580060	Tabl. Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2691690
+wfo-0000580061	ref-0000580061	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691691
+wfo-0000580062	ref-0000580062	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691692
+wfo-0000580063	ref-0000580063	Fl. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691693
+wfo-0000580064	ref-0000580064	Kongl. Svenska Vetensk. Acad. Handl.	http://www.theplantlist.org/tpl1.1/record/kew-2691694
+wfo-0000580065	ref-0000580065	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2691695
+wfo-0000580066	ref-0000580066	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691696
+wfo-0000580067	ref-0000580067	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2691697
+wfo-0000580068	ref-0000580068	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691698
+wfo-0000580069	ref-0000580069	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691699
+wfo-0000580072	ref-0000580072	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691700
+wfo-0000580073	ref-0000580073	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691701
+wfo-0000580074	ref-0000580074	Biblioth. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691702
+wfo-0000580075	ref-0000580075	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691703
+wfo-0000580076	ref-0000580076	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691704
+wfo-0000580077	ref-0000580077	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2691705
+wfo-0000580078	ref-0000580078	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691706
+wfo-0000580079	ref-0000580079	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691707
+wfo-0000580081	ref-0000580081	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691709
+wfo-0000580084	ref-0000580084	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691711
+wfo-0000580085	ref-0000580085	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2691712
+wfo-0000580086	ref-0000580086	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691713
+wfo-0000580088	ref-0000580088	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691715
+wfo-0000580089	ref-0000580089	Icon.	http://www.theplantlist.org/tpl1.1/record/kew-2691716
+wfo-0000580090	ref-0000580090	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691717
+wfo-0000580091	ref-0000580091	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2691718
+wfo-0000580092	ref-0000580092	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/kew-2691719
+wfo-0000580094	ref-0000580094	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691720
+wfo-0000580095	ref-0000580095	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2691721
+wfo-0000580096	ref-0000580096	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-2691722
+wfo-0000580097	ref-0000580097	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691723
+wfo-0000580098	ref-0000580098	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691724
+wfo-0000580099	ref-0000580099	Oesterr. Bot. Z.	http://www.theplantlist.org/tpl1.1/record/kew-2691725
+wfo-0000580100	ref-0000580100	Brit. Fl. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2691726
+wfo-0000580101	ref-0000580101	Anales Univ. Chile	http://www.theplantlist.org/tpl1.1/record/kew-2691727
+wfo-0000580102	ref-0000580102	Ann. K. K. Naturhist. Hofmus.	http://www.theplantlist.org/tpl1.1/record/kew-2691728
+wfo-0000580103	ref-0000580103	Raymondiana	http://www.theplantlist.org/tpl1.1/record/kew-2691729
+wfo-0000580105	ref-0000580105	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2691730
+wfo-0000580106	ref-0000580106	Acta Bot. Venez.	http://www.theplantlist.org/tpl1.1/record/kew-2691731
+wfo-0000580107	ref-0000580107	Nordic J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2691732
+wfo-0000580108	ref-0000580108	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2691733
+wfo-0000590086	ref-0000590086	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2704903
+wfo-0000685069	ref-0000685069	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2806952
+wfo-0000685070	ref-0000685070	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806953
+wfo-0000685071	ref-0000685071	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806954
+wfo-0000685072	ref-0000685072	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806955
+wfo-0000685073	ref-0000685073	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806956
+wfo-0000685074	ref-0000685074	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806957
+wfo-0000685075	ref-0000685075	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806958
+wfo-0000685076	ref-0000685076	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806959
+wfo-0000685078	ref-0000685078	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806960
+wfo-0000685081	ref-0000685081	Mem. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2806963
+wfo-0000685082	ref-0000685082	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806964
+wfo-0000685083	ref-0000685083	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806965
+wfo-0000685084	ref-0000685084	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806966
+wfo-0000685085	ref-0000685085	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806967
+wfo-0000685086	ref-0000685086	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806968
+wfo-0000685087	ref-0000685087	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806969
+wfo-0000685089	ref-0000685089	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806970
+wfo-0000685090	ref-0000685090	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2806972
+wfo-0000685091	ref-0000685091	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2806973
+wfo-0000685092	ref-0000685092	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806974
+wfo-0000685093	ref-0000685093	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806975
+wfo-0000685094	ref-0000685094	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806976
+wfo-0000685095	ref-0000685095	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806977
+wfo-0000685096	ref-0000685096	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806978
+wfo-0000685097	ref-0000685097	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806979
+wfo-0000685099	ref-0000685099	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806980
+wfo-0000685100	ref-0000685100	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806981
+wfo-0000685102	ref-0000685102	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806983
+wfo-0000685103	ref-0000685103	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806984
+wfo-0000685104	ref-0000685104	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806985
+wfo-0000685105	ref-0000685105	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806986
+wfo-0000685106	ref-0000685106	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806987
+wfo-0000685107	ref-0000685107	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806988
+wfo-0000685110	ref-0000685110	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806990
+wfo-0000685111	ref-0000685111	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806991
+wfo-0000685112	ref-0000685112	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806992
+wfo-0000685113	ref-0000685113	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806993
+wfo-0000685114	ref-0000685114	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2806994
+wfo-0000685115	ref-0000685115	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806995
+wfo-0000685116	ref-0000685116	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806997
+wfo-0000685117	ref-0000685117	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2806998
+wfo-0000685118	ref-0000685118	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2806999
+wfo-0000685122	ref-0000685122	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807000
+wfo-0000685123	ref-0000685123	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807001
+wfo-0000685124	ref-0000685124	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807002
+wfo-0000685125	ref-0000685125	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807003
+wfo-0000685126	ref-0000685126	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807004
+wfo-0000685127	ref-0000685127	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807005
+wfo-0000685128	ref-0000685128	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807006
+wfo-0000685129	ref-0000685129	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807007
+wfo-0000685130	ref-0000685130	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807008
+wfo-0000685131	ref-0000685131	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807009
+wfo-0000685133	ref-0000685133	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807010
+wfo-0000685134	ref-0000685134	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807011
+wfo-0000685135	ref-0000685135	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807012
+wfo-0000685136	ref-0000685136	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807013
+wfo-0000685137	ref-0000685137	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807014
+wfo-0000685138	ref-0000685138	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807015
+wfo-0000685139	ref-0000685139	Syst. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2807016
+wfo-0000685140	ref-0000685140	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807017
+wfo-0000685141	ref-0000685141	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807018
+wfo-0000685144	ref-0000685144	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807020
+wfo-0000685145	ref-0000685145	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807021
+wfo-0000685146	ref-0000685146	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807022
+wfo-0000685147	ref-0000685147	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807023
+wfo-0000685148	ref-0000685148	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807024
+wfo-0000685149	ref-0000685149	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807025
+wfo-0000685150	ref-0000685150	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807026
+wfo-0000685151	ref-0000685151	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807027
+wfo-0000685152	ref-0000685152	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807028
+wfo-0000685153	ref-0000685153	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807029
+wfo-0000685155	ref-0000685155	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807030
+wfo-0000685156	ref-0000685156	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807031
+wfo-0000685157	ref-0000685157	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807032
+wfo-0000685158	ref-0000685158	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807033
+wfo-0000685159	ref-0000685159	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807034
+wfo-0000685160	ref-0000685160	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807035
+wfo-0000685161	ref-0000685161	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807036
+wfo-0000685162	ref-0000685162	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807037
+wfo-0000685163	ref-0000685163	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807038
+wfo-0000685164	ref-0000685164	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807039
+wfo-0000685166	ref-0000685166	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807040
+wfo-0000685167	ref-0000685167	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807041
+wfo-0000685168	ref-0000685168	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807042
+wfo-0000685169	ref-0000685169	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807043
+wfo-0000685170	ref-0000685170	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807044
+wfo-0000685171	ref-0000685171	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807045
+wfo-0000685172	ref-0000685172	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807046
+wfo-0000685173	ref-0000685173	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807047
+wfo-0000685174	ref-0000685174	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807048
+wfo-0000685175	ref-0000685175	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807049
+wfo-0000685177	ref-0000685177	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807050
+wfo-0000685179	ref-0000685179	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807052
+wfo-0000685180	ref-0000685180	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2807053
+wfo-0000685181	ref-0000685181	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807054
+wfo-0000685182	ref-0000685182	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807055
+wfo-0000685184	ref-0000685184	J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2807057
+wfo-0000685186	ref-0000685186	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807059
+wfo-0000685189	ref-0000685189	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807061
+wfo-0000685190	ref-0000685190	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807062
+wfo-0000685191	ref-0000685191	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807063
+wfo-0000685192	ref-0000685192	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807064
+wfo-0000685193	ref-0000685193	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/kew-2807065
+wfo-0000685195	ref-0000685195	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807067
+wfo-0000685196	ref-0000685196	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807068
+wfo-0000685197	ref-0000685197	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807069
+wfo-0000685199	ref-0000685199	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807070
+wfo-0000685200	ref-0000685200	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807071
+wfo-0000685201	ref-0000685201	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807072
+wfo-0000685202	ref-0000685202	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807073
+wfo-0000685204	ref-0000685204	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807075
+wfo-0000685205	ref-0000685205	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807076
+wfo-0000685206	ref-0000685206	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807077
+wfo-0000685207	ref-0000685207	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807078
+wfo-0000685208	ref-0000685208	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807079
+wfo-0000685210	ref-0000685210	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807080
+wfo-0000685211	ref-0000685211	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807081
+wfo-0000685212	ref-0000685212	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807082
+wfo-0000685213	ref-0000685213	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807083
+wfo-0000685214	ref-0000685214	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807084
+wfo-0000685215	ref-0000685215	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2807085
+wfo-0000685216	ref-0000685216	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807086
+wfo-0000685218	ref-0000685218	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807088
+wfo-0000685222	ref-0000685222	Mem. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2807091
+wfo-0000685223	ref-0000685223	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807092
+wfo-0000685224	ref-0000685224	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807093
+wfo-0000685225	ref-0000685225	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807094
+wfo-0000685226	ref-0000685226	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807095
+wfo-0000685227	ref-0000685227	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807096
+wfo-0000685229	ref-0000685229	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807098
+wfo-0000685232	ref-0000685232	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807100
+wfo-0000685233	ref-0000685233	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2807101
+wfo-0000742643	ref-0000742643	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2892534
+wfo-0000743456	ref-0000743456	Gayana, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2895672
+wfo-0000745682	ref-0000745682	Gayana, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2898642
+wfo-0000746270	ref-0000746270	Gayana, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2899513
+wfo-0000748891	ref-0000748891	J. Bot. Res. Inst. Texas	http://www.theplantlist.org/tpl1.1/record/kew-2903360
+wfo-0001064689	ref-0001064689	Syn. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-14000873
+wfo-0001136655	ref-0001136655	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/tro-29200703
+wfo-0001136682	ref-0001136682	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/tro-29200805
+wfo-0001137222	ref-0001137222	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-29201919
+wfo-0001137260	ref-0001137260	Jahrb. Gewächsk.	http://www.theplantlist.org/tpl1.1/record/tro-29202109
+wfo-0001137261	ref-0001137261	Phytologia	http://www.theplantlist.org/tpl1.1/record/tro-29202120
+wfo-0001137266	ref-0001137266	Fl. Peruv.	http://www.theplantlist.org/tpl1.1/record/tro-29202199
+wfo-0001137268	ref-0001137268	Symb. Ant.	http://www.theplantlist.org/tpl1.1/record/tro-29202215
+wfo-0001137290	ref-0001137290	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/tro-29202280
+wfo-0001137291	ref-0001137291	Icon.	http://www.theplantlist.org/tpl1.1/record/tro-29202281
+wfo-0001137292	ref-0001137292	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/tro-29202283
+wfo-0001138138	ref-0001138138	Gen. Hist.	http://www.theplantlist.org/tpl1.1/record/tro-29203749
+wfo-0001139114	ref-0001139114	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206487
+wfo-0001139115	ref-0001139115	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206489
+wfo-0001139116	ref-0001139116	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206490
+wfo-0001139117	ref-0001139117	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206491
+wfo-0001139118	ref-0001139118	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206492
+wfo-0001139119	ref-0001139119	Fl. Ecuador	http://www.theplantlist.org/tpl1.1/record/tro-29206493
+wfo-0001139222	ref-0001139222	Fl. Neotrop.	http://www.theplantlist.org/tpl1.1/record/tro-29206918
+wfo-0001139223	ref-0001139223	Fl. Neotrop.	http://www.theplantlist.org/tpl1.1/record/tro-29206919
+wfo-0001240218	ref-0001240218	Proc. Acad. Nat. Sci. Philadelphia	http://www.theplantlist.org/tpl1.1/record/tro-50106546
+wfo-0001262699	ref-0001262699	World Checkl. Seed Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50203562
+wfo-4000005987	ref-4000005987	Kongl. Vetensk. Acad. Handl. 31: 286. 1770. (Oct-Dec 1770)	http://www.theplantlist.org/1.1/browse/A/Calceolariaceae/Calceolaria/
+wfo-4000019624	ref-4000019624	Fl. Peruv. 1: 12. 1798.	http://www.theplantlist.org/1.1/browse/A/Calceolariaceae/Jovellana/
+wfo-4000030942	ref-4000030942	Gen. Hist. 4: 608. 1838.	http://www.theplantlist.org/1.1/browse/A/Calceolariaceae/Porodittia/
+wfo-4000036453	ref-4000036453	Nat. Pflanzenfam., Gesamtreg. 462. 1899. (Mar 1899)	http://www.theplantlist.org/1.1/browse/A/Calceolariaceae/Stemotria/

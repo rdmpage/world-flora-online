@@ -1,0 +1,78 @@
+wfo-0000154796	ref-0000154796	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/ifn-56610
+wfo-0000154813	ref-0000154813	Prodr. Pl. Cap.	http://www.theplantlist.org/tpl1.1/record/ifn-56666
+wfo-0000154814	ref-0000154814	Deut. Fl.	http://www.theplantlist.org/tpl1.1/record/ifn-56667
+wfo-0000154815	ref-0000154815	Syn. Fil. (Swartz)	http://www.theplantlist.org/tpl1.1/record/ifn-56668
+wfo-0000154816	ref-0000154816	Fl. Bor.-Amer. (Michaux)	http://www.theplantlist.org/tpl1.1/record/ifn-56673
+wfo-0000154817	ref-0000154817	Krypt. Gew.	http://www.theplantlist.org/tpl1.1/record/ifn-56674
+wfo-0000154818	ref-0000154818	in Rees, Cycl.	http://www.theplantlist.org/tpl1.1/record/ifn-56678
+wfo-0000154819	ref-0000154819	Schrad. Journ.	http://www.theplantlist.org/tpl1.1/record/ifn-56681
+wfo-0000154820	ref-0000154820	Schrift. Akad. Erf.	http://www.theplantlist.org/tpl1.1/record/ifn-56682
+wfo-0000154821	ref-0000154821	Syn. Fil. (Swartz)	http://www.theplantlist.org/tpl1.1/record/ifn-56683
+wfo-0000154823	ref-0000154823	Syn. Fil. (Swartz)	http://www.theplantlist.org/tpl1.1/record/ifn-56690
+wfo-0000154824	ref-0000154824	Syn. Fil. (Swartz)	http://www.theplantlist.org/tpl1.1/record/ifn-56693
+wfo-0000154826	ref-0000154826	Encycl. (Lamarck) Suppl. 4.	http://www.theplantlist.org/tpl1.1/record/ifn-56701
+wfo-0000154849	ref-0000154849	Lingnan Sc. Journ.	http://www.theplantlist.org/tpl1.1/record/ifn-56774
+wfo-0000154850	ref-0000154850	Lingnan Sc. Journ.	http://www.theplantlist.org/tpl1.1/record/ifn-56775
+wfo-0000154853	ref-0000154853	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/ifn-56797
+wfo-0000154854	ref-0000154854	Tent. Pterid.	http://www.theplantlist.org/tpl1.1/record/ifn-56800
+wfo-0000154855	ref-0000154855	Tent. Pterid.	http://www.theplantlist.org/tpl1.1/record/ifn-56801
+wfo-0001042288	ref-0001042288	Phytotaxa	http://www.theplantlist.org/tpl1.1/record/tro-100374568
+wfo-0001109164	ref-0001109164	Giorn. Sci. Nat. Econ. Palermo	http://www.theplantlist.org/tpl1.1/record/tro-26602315
+wfo-0001109165	ref-0001109165	Amer. Fern J.	http://www.theplantlist.org/tpl1.1/record/tro-26602316
+wfo-0001109206	ref-0001109206	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-26602361
+wfo-0001111120	ref-0001111120	Deutschl. Fl.	http://www.theplantlist.org/tpl1.1/record/tro-26604815
+wfo-0001111121	ref-0001111121	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-26604816
+wfo-0001111122	ref-0001111122	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-26604817
+wfo-0001111123	ref-0001111123	Amer. Midl. Naturalist	http://www.theplantlist.org/tpl1.1/record/tro-26604818
+wfo-0001111124	ref-0001111124	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-26604819
+wfo-0001111150	ref-0001111150	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-26604877
+wfo-0001111151	ref-0001111151	Fl. Pedem.	http://www.theplantlist.org/tpl1.1/record/tro-26604878
+wfo-0001111260	ref-0001111260	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-26605118
+wfo-0001111261	ref-0001111261	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-26605119
+wfo-0001111262	ref-0001111262	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-26605120
+wfo-0001111362	ref-0001111362	Naturaliste Canad.	http://www.theplantlist.org/tpl1.1/record/tro-26605390
+wfo-0001111364	ref-0001111364	Amer. Midl. Naturalist	http://www.theplantlist.org/tpl1.1/record/tro-26605392
+wfo-0001111365	ref-0001111365	Rep. Michigan Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-26605393
+wfo-0001111367	ref-0001111367	Mém. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/tro-26605398
+wfo-0001111369	ref-0001111369	Deutschl. Krypt. Gew.	http://www.theplantlist.org/tpl1.1/record/tro-26605400
+wfo-0001113719	ref-0001113719	Amer. Fern J.	http://www.theplantlist.org/tpl1.1/record/tro-26608037
+wfo-0001117102	ref-0001117102	Sec. Cent. Ferns	http://www.theplantlist.org/tpl1.1/record/tro-26611877
+wfo-0001117103	ref-0001117103	Atti Ist. Veneto Sci.	http://www.theplantlist.org/tpl1.1/record/tro-26611878
+wfo-0001117104	ref-0001117104	Prim. Fl. Amur.	http://www.theplantlist.org/tpl1.1/record/tro-26611879
+wfo-0001123244	ref-0001123244	Index Filic.	http://www.theplantlist.org/tpl1.1/record/tro-26618951
+wfo-0001123245	ref-0001123245	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/tro-26618952
+wfo-0001127309	ref-0001127309	Fl. Tsinling.	http://www.theplantlist.org/tpl1.1/record/tro-26624072
+wfo-0001127904	ref-0001127904	Sp. Fil.	http://www.theplantlist.org/tpl1.1/record/tro-26624803
+wfo-0001127905	ref-0001127905	Fern Gaz.	http://www.theplantlist.org/tpl1.1/record/tro-26624804
+wfo-0001128840	ref-0001128840	Taxon	http://www.theplantlist.org/tpl1.1/record/tro-26626083
+wfo-0001128841	ref-0001128841	Taxon	http://www.theplantlist.org/tpl1.1/record/tro-26626084
+wfo-0001128842	ref-0001128842	Fl. Jap.	http://www.theplantlist.org/tpl1.1/record/tro-26626085
+wfo-0001224900	ref-0001224900	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50042654
+wfo-0001229789	ref-0001229789	Hist. Nat. Vég.	http://www.theplantlist.org/tpl1.1/record/tro-50060761
+wfo-0001232469	ref-0001232469	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/tro-50071108
+wfo-0001232471	ref-0001232471	Cycl.	http://www.theplantlist.org/tpl1.1/record/tro-50071112
+wfo-0001232473	ref-0001232473	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50071115
+wfo-0001232476	ref-0001232476	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50071122
+wfo-0001232477	ref-0001232477	Bull. Acad. Int. Géogr. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-50071123
+wfo-0001232478	ref-0001232478	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/tro-50071124
+wfo-0001232479	ref-0001232479	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/tro-50071125
+wfo-0001232480	ref-0001232480	Index Filic., Suppl. 3,	http://www.theplantlist.org/tpl1.1/record/tro-50071126
+wfo-0001232481	ref-0001232481	Fil. Spec.	http://www.theplantlist.org/tpl1.1/record/tro-50071127
+wfo-0001232482	ref-0001232482	J. Bot. (Schrader)	http://www.theplantlist.org/tpl1.1/record/tro-50071128
+wfo-0001232483	ref-0001232483	Tent. Pterid.	http://www.theplantlist.org/tpl1.1/record/tro-50071129
+wfo-0001232484	ref-0001232484	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50071131
+wfo-0001246921	ref-0001246921	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138904
+wfo-0001246922	ref-0001246922	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-50138907
+wfo-0001246923	ref-0001246923	Index No. Amer. Ferns	http://www.theplantlist.org/tpl1.1/record/tro-50138911
+wfo-0001246924	ref-0001246924	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138912
+wfo-0001246925	ref-0001246925	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138914
+wfo-0001246926	ref-0001246926	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138916
+wfo-0001246927	ref-0001246927	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138918
+wfo-0001246928	ref-0001246928	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138919
+wfo-0001246929	ref-0001246929	Fern Bull.	http://www.theplantlist.org/tpl1.1/record/tro-50138920
+wfo-0001246930	ref-0001246930	Rhodora	http://www.theplantlist.org/tpl1.1/record/tro-50138922
+wfo-4000023333	ref-4000023333	Giorn. Sci. Nat. Econ. Palermo 1(3–4): 235. 1866.	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/Matteuccia/
+wfo-4000026881	ref-4000026881	Sp. Pl. 2: 1062. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/Onoclea/
+wfo-4000026883	ref-4000026883	Amer. Fern J. 35: 1. 1945.	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/Onocleopsis/
+wfo-4000031902	ref-4000031902	Revis. Gen. Pl. 2: 819. 1891. (5 Nov 1891)	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/Pterinodes/
+wfo-4000032485	ref-4000032485	Tent. Pterid. 95–96, pl. 3, f. 9–10. 1836.	http://www.theplantlist.org/1.1/browse/P/Onocleaceae/Ragiopteris/

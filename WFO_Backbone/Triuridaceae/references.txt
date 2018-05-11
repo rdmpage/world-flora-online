@@ -1,0 +1,156 @@
+wfo-0000658985	ref-0000658985	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-278040
+wfo-0000658993	ref-0000658993	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-278041
+wfo-0000665918	ref-0000665918	Calcutta J. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-278711
+wfo-0000676363	ref-0000676363	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-279776
+wfo-0000720197	ref-0000720197	Iconogr. Pl. Asiae Orient.	http://www.theplantlist.org/tpl1.1/record/kew-284614
+wfo-0000720274	ref-0000720274	Iconogr. Pl. Asiae Orient.	http://www.theplantlist.org/tpl1.1/record/kew-284625
+wfo-0000720278	ref-0000720278	Madroño	http://www.theplantlist.org/tpl1.1/record/kew-284626
+wfo-0000720280	ref-0000720280	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-284627
+wfo-0000738938	ref-0000738938	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-287708
+wfo-0000739000	ref-0000739000	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-287732
+wfo-0000739007	ref-0000739007	Acta Bot. Neerl.	http://www.theplantlist.org/tpl1.1/record/kew-287738
+wfo-0000739009	ref-0000739009	Acta Bot. Neerl.	http://www.theplantlist.org/tpl1.1/record/kew-287739
+wfo-0000739011	ref-0000739011	Pacific Sci.	http://www.theplantlist.org/tpl1.1/record/kew-287740
+wfo-0000739077	ref-0000739077	in Fl. Males.	http://www.theplantlist.org/tpl1.1/record/kew-287768
+wfo-0000739408	ref-0000739408	Mem. Coll. Agric. Natl. Taiwan Univ.	http://www.theplantlist.org/tpl1.1/record/kew-287873
+wfo-0000740033	ref-0000740033	Mus. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288138
+wfo-0000740034	ref-0000740034	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288139
+wfo-0000740036	ref-0000740036	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-288140
+wfo-0000740037	ref-0000740037	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288141
+wfo-0000740038	ref-0000740038	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288142
+wfo-0000740039	ref-0000740039	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288143
+wfo-0000740040	ref-0000740040	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288144
+wfo-0000740041	ref-0000740041	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288145
+wfo-0000740042	ref-0000740042	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288146
+wfo-0000740043	ref-0000740043	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288147
+wfo-0000740044	ref-0000740044	Fl. Schutzgeb. Südsee	http://www.theplantlist.org/tpl1.1/record/kew-288148
+wfo-0000740045	ref-0000740045	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288149
+wfo-0000740047	ref-0000740047	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288150
+wfo-0000740048	ref-0000740048	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288151
+wfo-0000740049	ref-0000740049	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288152
+wfo-0000740050	ref-0000740050	Proc. Biol. Soc. Wash.	http://www.theplantlist.org/tpl1.1/record/kew-288153
+wfo-0000740051	ref-0000740051	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288154
+wfo-0000740052	ref-0000740052	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288155
+wfo-0000740053	ref-0000740053	Fl. Schutzgeb. Südsee	http://www.theplantlist.org/tpl1.1/record/kew-288156
+wfo-0000740054	ref-0000740054	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288157
+wfo-0000740055	ref-0000740055	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-288159
+wfo-0000740057	ref-0000740057	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-288160
+wfo-0000740058	ref-0000740058	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288161
+wfo-0000740059	ref-0000740059	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-288162
+wfo-0000740060	ref-0000740060	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288163
+wfo-0000740061	ref-0000740061	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-288164
+wfo-0000740062	ref-0000740062	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288165
+wfo-0000740063	ref-0000740063	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288166
+wfo-0000740064	ref-0000740064	J. Indian Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288167
+wfo-0000740065	ref-0000740065	Enum. Pl. Zeyl.	http://www.theplantlist.org/tpl1.1/record/kew-288168
+wfo-0000740066	ref-0000740066	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288169
+wfo-0000740068	ref-0000740068	Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-288170
+wfo-0000740069	ref-0000740069	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288171
+wfo-0000740070	ref-0000740070	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288172
+wfo-0000740071	ref-0000740071	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288173
+wfo-0000740072	ref-0000740072	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288174
+wfo-0000740073	ref-0000740073	Ann. Bot. (Oxford)	http://www.theplantlist.org/tpl1.1/record/kew-288175
+wfo-0000740074	ref-0000740074	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288176
+wfo-0000740075	ref-0000740075	Nova Guinea	http://www.theplantlist.org/tpl1.1/record/kew-288177
+wfo-0000740076	ref-0000740076	Bernice P. Bishop Mus. Bull.	http://www.theplantlist.org/tpl1.1/record/kew-288178
+wfo-0000740077	ref-0000740077	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288179
+wfo-0000740079	ref-0000740079	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288180
+wfo-0000740080	ref-0000740080	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288181
+wfo-0000740081	ref-0000740081	Notizbl. Bot. Gart. Berlin-Dahlem	http://www.theplantlist.org/tpl1.1/record/kew-288182
+wfo-0000740082	ref-0000740082	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288183
+wfo-0000740083	ref-0000740083	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288184
+wfo-0000740084	ref-0000740084	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288185
+wfo-0000740085	ref-0000740085	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-288186
+wfo-0000740087	ref-0000740087	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-288191
+wfo-0000740088	ref-0000740088	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-288192
+wfo-0000740089	ref-0000740089	Handb. Fl. Java	http://www.theplantlist.org/tpl1.1/record/kew-288193
+wfo-0000740090	ref-0000740090	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288194
+wfo-0000740091	ref-0000740091	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-288195
+wfo-0000740092	ref-0000740092	Nova Guinea	http://www.theplantlist.org/tpl1.1/record/kew-288196
+wfo-0000740093	ref-0000740093	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288197
+wfo-0000740094	ref-0000740094	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288198
+wfo-0000740096	ref-0000740096	Bull. Mens. Soc. Linn. Paris	http://www.theplantlist.org/tpl1.1/record/kew-288199
+wfo-0000740099	ref-0000740099	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-288200
+wfo-0000740100	ref-0000740100	Jahrb. Wiss. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288201
+wfo-0000740101	ref-0000740101	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288202
+wfo-0000740102	ref-0000740102	Nova Guinea	http://www.theplantlist.org/tpl1.1/record/kew-288203
+wfo-0000740103	ref-0000740103	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288204
+wfo-0000740104	ref-0000740104	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/kew-288205
+wfo-0000740105	ref-0000740105	Bijdr.	http://www.theplantlist.org/tpl1.1/record/kew-288206
+wfo-0000740106	ref-0000740106	Dansk Bot. Ark.	http://www.theplantlist.org/tpl1.1/record/kew-288207
+wfo-0000740107	ref-0000740107	Fl. Schutzgeb. Südsee	http://www.theplantlist.org/tpl1.1/record/kew-288208
+wfo-0000740108	ref-0000740108	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-288209
+wfo-0000740110	ref-0000740110	Acta Bot. Neerl.	http://www.theplantlist.org/tpl1.1/record/kew-288210
+wfo-0000740112	ref-0000740112	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288212
+wfo-0000740144	ref-0000740144	Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn	http://www.theplantlist.org/tpl1.1/record/kew-288248
+wfo-0000740145	ref-0000740145	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288249
+wfo-0000740147	ref-0000740147	Ann. Bot. (Oxford)	http://www.theplantlist.org/tpl1.1/record/kew-288250
+wfo-0000740148	ref-0000740148	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288251
+wfo-0000740149	ref-0000740149	J. Fed. Malay States Mus.	http://www.theplantlist.org/tpl1.1/record/kew-288252
+wfo-0000740150	ref-0000740150	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288253
+wfo-0000740151	ref-0000740151	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-288254
+wfo-0000740152	ref-0000740152	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-288255
+wfo-0000740154	ref-0000740154	Proc. Biol. Soc. Wash.	http://www.theplantlist.org/tpl1.1/record/kew-288257
+wfo-0000740155	ref-0000740155	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288258
+wfo-0000740156	ref-0000740156	Hookers Icon. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-288259
+wfo-0000740158	ref-0000740158	Nova Guinea	http://www.theplantlist.org/tpl1.1/record/kew-288260
+wfo-0000740159	ref-0000740159	Mus. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-288261
+wfo-0000740160	ref-0000740160	Fl. Schutzgeb. Südsee	http://www.theplantlist.org/tpl1.1/record/kew-288262
+wfo-0000740161	ref-0000740161	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288263
+wfo-0000740162	ref-0000740162	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-288264
+wfo-0000740163	ref-0000740163	Malesia	http://www.theplantlist.org/tpl1.1/record/kew-288265
+wfo-0000740164	ref-0000740164	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-288266
+wfo-0000740173	ref-0000740173	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-288274
+wfo-0000740175	ref-0000740175	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/kew-288276
+wfo-0000743114	ref-0000743114	Pl. Syst. Evol.	http://www.theplantlist.org/tpl1.1/record/kew-289451
+wfo-0000745530	ref-0000745530	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-289847
+wfo-0000746029	ref-0000746029	Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-289920
+wfo-0000746033	ref-0000746033	Descr. Fis. Econ. Parag.	http://www.theplantlist.org/tpl1.1/record/kew-289921
+wfo-0000746042	ref-0000746042	Bot. Tidsskr.	http://www.theplantlist.org/tpl1.1/record/kew-289922
+wfo-0000746049	ref-0000746049	Rev. Jard. Bot. Mus. Hist. Nat. Paraguay	http://www.theplantlist.org/tpl1.1/record/kew-289923
+wfo-0000746069	ref-0000746069	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-289927
+wfo-0000746214	ref-0000746214	Proc. Linn. Soc. London	http://www.theplantlist.org/tpl1.1/record/kew-289945
+wfo-0000746274	ref-0000746274	Arq. Serv. Florest.	http://www.theplantlist.org/tpl1.1/record/kew-289952
+wfo-0000747294	ref-0000747294	Pl. Syst. Evol.	http://www.theplantlist.org/tpl1.1/record/kew-290085
+wfo-0000752547	ref-0000752547	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-292041
+wfo-0000752549	ref-0000752549	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-292043
+wfo-0000753361	ref-0000753361	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/kew-292829
+wfo-0000753412	ref-0000753412	Revista Brasil. Biol.	http://www.theplantlist.org/tpl1.1/record/kew-292876
+wfo-0000753448	ref-0000753448	Ber. Deutsch. Bot. Ges.	http://www.theplantlist.org/tpl1.1/record/kew-292908
+wfo-0000760062	ref-0000760062	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299135
+wfo-0000760063	ref-0000760063	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299136
+wfo-0000760064	ref-0000760064	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299137
+wfo-0000760065	ref-0000760065	Bull. Jard. Bot. Buitenzorg	http://www.theplantlist.org/tpl1.1/record/kew-299138
+wfo-0000760066	ref-0000760066	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299139
+wfo-0000760068	ref-0000760068	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299140
+wfo-0000760069	ref-0000760069	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299141
+wfo-0000760070	ref-0000760070	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299142
+wfo-0000760071	ref-0000760071	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299143
+wfo-0000760072	ref-0000760072	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299144
+wfo-0000760073	ref-0000760073	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299145
+wfo-0000760074	ref-0000760074	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299146
+wfo-0000760075	ref-0000760075	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299147
+wfo-0000760076	ref-0000760076	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299148
+wfo-0000760077	ref-0000760077	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299149
+wfo-0000760079	ref-0000760079	Bot. Mag. (Tokyo)	http://www.theplantlist.org/tpl1.1/record/kew-299150
+wfo-0000760080	ref-0000760080	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299151
+wfo-0000760081	ref-0000760081	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-299152
+wfo-0000760082	ref-0000760082	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/kew-299153
+wfo-0000760849	ref-0000760849	Calcutta J. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-299866
+wfo-0000771171	ref-0000771171	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-309858
+wfo-0000771172	ref-0000771172	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-309859
+wfo-0000771174	ref-0000771174	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-309860
+wfo-0000771351	ref-0000771351	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-310022
+wfo-0000810162	ref-0000810162	Taiwania	http://www.theplantlist.org/tpl1.1/record/kew-348421
+wfo-0000810163	ref-0000810163	Taiwania	http://www.theplantlist.org/tpl1.1/record/kew-348422
+wfo-0000921029	ref-0000921029	Novon	http://www.theplantlist.org/tpl1.1/record/kew-466603
+wfo-0001142879	ref-0001142879	Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-32800100
+wfo-4000019996	ref-4000019996	Kew Bull. 58: 943. 2003[2004].	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Kihansia/
+wfo-4000020295	ref-4000020295	Kew Bull. 58: 225. 2003.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Kupea/
+wfo-4000020340	ref-4000020340	Ann. Missouri Bot. Gard. 76(1): 128. 1989.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Lacandonia/
+wfo-4000028517	ref-4000028517	Proc. Linn. Soc. Lond. 1: 176. 1843.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Peltophyllum/
+wfo-4000034670	ref-4000034670	Bijdr. Fl. Ned. Ind. 514. 1825.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Sciaphila/
+wfo-4000035222	ref-4000035222	Ann. Bot. (Oxford) 21: 74. 1907.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Seychellaria/
+wfo-4000035803	ref-4000035803	Proc. Linn. Soc. Lond. 2: 74. 1850.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Soridium/
+wfo-4000039415	ref-4000039415	Pl. Syst. Evol. 192: 257–262, f. 1. 1994.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Triuridopsis/
+wfo-4000039416	ref-4000039416	Proc. Linn. Soc. Lond. 1: 96. 1841.	http://www.theplantlist.org/1.1/browse/A/Triuridaceae/Triuris/

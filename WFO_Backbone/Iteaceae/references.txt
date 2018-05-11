@@ -1,0 +1,64 @@
+wfo-0000463829	ref-0000463829	Enum. Pl. Jap.	http://www.theplantlist.org/tpl1.1/record/kew-2527529
+wfo-0000484695	ref-0000484695	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2566881
+wfo-0000484696	ref-0000484696	Naturaleza (Madrid)	http://www.theplantlist.org/tpl1.1/record/kew-2566883
+wfo-0000603427	ref-0000603427	London J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2719526
+wfo-0000603428	ref-0000603428	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2719527
+wfo-0000603429	ref-0000603429	Notizbl. Bot. Gart. Berlin-Dahlem	http://www.theplantlist.org/tpl1.1/record/kew-2719528
+wfo-0000603430	ref-0000603430	Index Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2719529
+wfo-0000646134	ref-0000646134	Autik. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2766792
+wfo-0000732850	ref-0000732850	Acta Phytotax. Sin.	http://www.theplantlist.org/tpl1.1/record/kew-2867742
+wfo-0000732853	ref-0000732853	Fl. Ind.	http://www.theplantlist.org/tpl1.1/record/kew-2867748
+wfo-0000732855	ref-0000732855	Symb. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2867755
+wfo-0000732856	ref-0000732856	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2867756
+wfo-0000732857	ref-0000732857	Bijdr.	http://www.theplantlist.org/tpl1.1/record/kew-2867757
+wfo-0000732859	ref-0000732859	Leafl. Philipp. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2867761
+wfo-0000732860	ref-0000732860	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2867768
+wfo-0000732862	ref-0000732862	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/kew-2867770
+wfo-0000732863	ref-0000732863	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2867774
+wfo-0000732864	ref-0000732864	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2867775
+wfo-0000732867	ref-0000732867	Fl. Ind. ed. 1832	http://www.theplantlist.org/tpl1.1/record/kew-2867781
+wfo-0001135933	ref-0001135933	Ann. Bot. (Oxford)	http://www.theplantlist.org/tpl1.1/record/tro-29101190
+wfo-0001135967	ref-0001135967	Ill. Bot. Himal. Mts.	http://www.theplantlist.org/tpl1.1/record/tro-29101288
+wfo-0001136048	ref-0001136048	Ill. Handb. Laubholzk.	http://www.theplantlist.org/tpl1.1/record/tro-29101551
+wfo-0001136512	ref-0001136512	Bot. Beechey Voy.	http://www.theplantlist.org/tpl1.1/record/tro-29102353
+wfo-0001136513	ref-0001136513	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/tro-29102355
+wfo-0001136519	ref-0001136519	Sunyatsenia	http://www.theplantlist.org/tpl1.1/record/tro-29102365
+wfo-0001136525	ref-0001136525	J. Bot. (Morot)	http://www.theplantlist.org/tpl1.1/record/tro-29102374
+wfo-0001220188	ref-0001220188	Icon. Pl. Formosan.	http://www.theplantlist.org/tpl1.1/record/tro-50003092
+wfo-0001221578	ref-0001221578	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-50009330
+wfo-0001221579	ref-0001221579	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-50009331
+wfo-0001226888	ref-0001226888	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/tro-50049993
+wfo-0001228624	ref-0001228624	Annual Rep. Taihoku Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/tro-50055822
+wfo-0001228625	ref-0001228625	Mélanges Biol. Bull. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg	http://www.theplantlist.org/tpl1.1/record/tro-50055823
+wfo-0001234066	ref-0001234066	Notul. Syst. (Paris)	http://www.theplantlist.org/tpl1.1/record/tro-50077907
+wfo-0001234067	ref-0001234067	J. Linn. Soc., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-50077908
+wfo-0001234068	ref-0001234068	Hookers Icon. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50077911
+wfo-0001234069	ref-0001234069	Fl. Ind., ed. 1820	http://www.theplantlist.org/tpl1.1/record/tro-50077912
+wfo-0001234071	ref-0001234071	Fl. Yunnan.	http://www.theplantlist.org/tpl1.1/record/tro-50077914
+wfo-0001234072	ref-0001234072	Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz.	http://www.theplantlist.org/tpl1.1/record/tro-50077915
+wfo-0001234073	ref-0001234073	Acta Phytotax. Sin.	http://www.theplantlist.org/tpl1.1/record/tro-50077916
+wfo-0001234075	ref-0001234075	Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz.	http://www.theplantlist.org/tpl1.1/record/tro-50077918
+wfo-0001234076	ref-0001234076	Univ. Calif. Publ. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-50077921
+wfo-0001234079	ref-0001234079	Fl. Yunnan.	http://www.theplantlist.org/tpl1.1/record/tro-50077924
+wfo-0001234081	ref-0001234081	Acta Sci. Nat. Univ. Sunyatseni	http://www.theplantlist.org/tpl1.1/record/tro-50077926
+wfo-0001234275	ref-0001234275	Nat. Pflanzenfam. (ed. 2)	http://www.theplantlist.org/tpl1.1/record/tro-50078499
+wfo-0001234276	ref-0001234276	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-50078500
+wfo-0001234277	ref-0001234277	Bot. Jahrb. Syst.	http://www.theplantlist.org/tpl1.1/record/tro-50078502
+wfo-0001234278	ref-0001234278	Pl. Wilson.	http://www.theplantlist.org/tpl1.1/record/tro-50078503
+wfo-0001234279	ref-0001234279	Acta Phytotax. Sin.	http://www.theplantlist.org/tpl1.1/record/tro-50078504
+wfo-0001234280	ref-0001234280	Acta Phytotax. Sin.	http://www.theplantlist.org/tpl1.1/record/tro-50078505
+wfo-0001234281	ref-0001234281	Fl. Cambodge, Laos & Vietnam	http://www.theplantlist.org/tpl1.1/record/tro-50078506
+wfo-0001234282	ref-0001234282	Acta Phytotax. Sin.	http://www.theplantlist.org/tpl1.1/record/tro-50078507
+wfo-0001234283	ref-0001234283	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/tro-50078508
+wfo-0001234284	ref-0001234284	Acta Phytotax. Geobot.	http://www.theplantlist.org/tpl1.1/record/tro-50078509
+wfo-0001234285	ref-0001234285	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-50078510
+wfo-0001234287	ref-0001234287	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-50078514
+wfo-0001250928	ref-0001250928	Acta Bot. Mex.	http://www.theplantlist.org/tpl1.1/record/tro-50158921
+wfo-0001253158	ref-0001253158	Fl. Kouy-Tchéou	http://www.theplantlist.org/tpl1.1/record/tro-50169100
+wfo-0001259206	ref-0001259206	Guihaia	http://www.theplantlist.org/tpl1.1/record/tro-50190629
+wfo-0001263639	ref-0001263639	Pl. Vasc. Gen.	http://www.theplantlist.org/tpl1.1/record/tro-50209438
+wfo-0001263641	ref-0001263641	J. Sun Yatsen Univ., Nat. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-50209441
+wfo-4000008113	ref-4000008113	London J. Bot. 1: 19. 1842.	http://www.theplantlist.org/1.1/browse/A/Iteaceae/Choristylis/
+wfo-4000011500	ref-4000011500	Fam. Pl. 2: 165. 1763.	http://www.theplantlist.org/1.1/browse/A/Iteaceae/Diconangia/
+wfo-4000019360	ref-4000019360	Sp. Pl. 1: 199. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Iteaceae/Itea/
+wfo-4000032036	ref-4000032036	Linnaea 20(6): 736–737. 1847. (Dec 1847)	http://www.theplantlist.org/1.1/browse/A/Iteaceae/Pterostemon/

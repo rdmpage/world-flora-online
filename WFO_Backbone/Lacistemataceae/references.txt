@@ -1,0 +1,64 @@
+wfo-0000363926	ref-0000363926	Bull. Herb. Boissier	http://www.theplantlist.org/tpl1.1/record/kew-2348707
+wfo-0000363927	ref-0000363927	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-2348708
+wfo-0000363928	ref-0000363928	Fl. Neotrop. Monogr.	http://www.theplantlist.org/tpl1.1/record/kew-2348709
+wfo-0000363930	ref-0000363930	Bull. Soc. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/kew-2348710
+wfo-0000363931	ref-0000363931	Prodr. Veg. Ind. Occ.	http://www.theplantlist.org/tpl1.1/record/kew-2348713
+wfo-0000363932	ref-0000363932	Candollea	http://www.theplantlist.org/tpl1.1/record/kew-2348717
+wfo-0000363935	ref-0000363935	Bull. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2348725
+wfo-0000363936	ref-0000363936	Neue Entdeck. Pflanzenk.	http://www.theplantlist.org/tpl1.1/record/kew-2348727
+wfo-0000363937	ref-0000363937	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2348730
+wfo-0000363938	ref-0000363938	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2348732
+wfo-0000363939	ref-0000363939	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-2348734
+wfo-0000363940	ref-0000363940	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-2348735
+wfo-0000363941	ref-0000363941	Mant.	http://www.theplantlist.org/tpl1.1/record/kew-2348738
+wfo-0000363943	ref-0000363943	Mant.	http://www.theplantlist.org/tpl1.1/record/kew-2348741
+wfo-0000363944	ref-0000363944	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2348742
+wfo-0000363945	ref-0000363945	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2348744
+wfo-0000363946	ref-0000363946	Contr. U. S. Natl. Herb.	http://www.theplantlist.org/tpl1.1/record/kew-2348745
+wfo-0000363948	ref-0000363948	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2348747
+wfo-0000363955	ref-0000363955	Repert. Spec. Nov. Regni Veg. Beih.	http://www.theplantlist.org/tpl1.1/record/kew-2348755
+wfo-0000363957	ref-0000363957	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2348761
+wfo-0000367565	ref-0000367565	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2355808
+wfo-0000394785	ref-0000394785	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2408437
+wfo-0000394855	ref-0000394855	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2408571
+wfo-0000479654	ref-0000479654	Acta Helv. Phys.-Math.	http://www.theplantlist.org/tpl1.1/record/kew-2559279
+wfo-0000646617	ref-0000646617	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2767330
+wfo-0000646618	ref-0000646618	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2767331
+wfo-0001062678	ref-0001062678	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/tro-13200234
+wfo-0001062679	ref-0001062679	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/tro-13200235
+wfo-0001062827	ref-0001062827	Notizbl. Bot. Gart. Berlin-Dahlem	http://www.theplantlist.org/tpl1.1/record/tro-13200503
+wfo-0001062828	ref-0001062828	Fl. Peruv. Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-13200504
+wfo-0001062956	ref-0001062956	Actes Soc. Hist. Nat. Paris	http://www.theplantlist.org/tpl1.1/record/tro-13200764
+wfo-0001069557	ref-0001069557	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-17400005
+wfo-0001069559	ref-0001069559	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-17400009
+wfo-0001069560	ref-0001069560	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-17400010
+wfo-0001069561	ref-0001069561	Nov. Gen. Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-17400011
+wfo-0001069562	ref-0001069562	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-17400012
+wfo-0001069563	ref-0001069563	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-17400013
+wfo-0001069565	ref-0001069565	Nov. Gen. Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-17400015
+wfo-0001069566	ref-0001069566	Notizbl. Bot. Gart. Berlin-Dahlem	http://www.theplantlist.org/tpl1.1/record/tro-17400016
+wfo-0001069567	ref-0001069567	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/tro-17400021
+wfo-0001069568	ref-0001069568	Candollea	http://www.theplantlist.org/tpl1.1/record/tro-17400022
+wfo-0001069569	ref-0001069569	Candollea	http://www.theplantlist.org/tpl1.1/record/tro-17400023
+wfo-0001069570	ref-0001069570	Candollea	http://www.theplantlist.org/tpl1.1/record/tro-17400024
+wfo-0001069571	ref-0001069571	Candollea	http://www.theplantlist.org/tpl1.1/record/tro-17400025
+wfo-0001069572	ref-0001069572	Candollea	http://www.theplantlist.org/tpl1.1/record/tro-17400026
+wfo-0001069573	ref-0001069573	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/tro-17400030
+wfo-0001069574	ref-0001069574	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/tro-17400031
+wfo-0001069575	ref-0001069575	Publ. Field Mus. Nat. Hist., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/tro-17400032
+wfo-0001069576	ref-0001069576	Phytologia	http://www.theplantlist.org/tpl1.1/record/tro-17400033
+wfo-0001069577	ref-0001069577	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-17400034
+wfo-0001069578	ref-0001069578	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-17400035
+wfo-0001069579	ref-0001069579	Bull. Soc. Bot. France	http://www.theplantlist.org/tpl1.1/record/tro-17400036
+wfo-0001069580	ref-0001069580	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/tro-17400037
+wfo-0001069581	ref-0001069581	Fieldiana, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-17400038
+wfo-0001069582	ref-0001069582	Fieldiana, Bot.	http://www.theplantlist.org/tpl1.1/record/tro-17400040
+wfo-0001069583	ref-0001069583	Anais Reunião Sul-Amer. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-17400041
+wfo-0001069584	ref-0001069584	Phytologia	http://www.theplantlist.org/tpl1.1/record/tro-17400042
+wfo-0001093464	ref-0001093464	Pl. Guian.	http://www.theplantlist.org/tpl1.1/record/tro-25002797
+wfo-0001249717	ref-0001249717	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-50150758
+wfo-0001249718	ref-0001249718	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/tro-50150759
+wfo-0001250397	ref-0001250397	Bull. Soc. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/tro-50155566
+wfo-4000011615	ref-4000011615	Sp. Pl. 4(2): 971. 1805[1806].	http://www.theplantlist.org/1.1/browse/A/Lacistemataceae/Didymandra/
+wfo-4000020383	ref-4000020383	Prodr. 1, 12. 1788. (20 Jun-29 Jul 1788)	http://www.theplantlist.org/1.1/browse/A/Lacistemataceae/Lacistema/
+wfo-4000022364	ref-4000022364	Sem. Nuev. Granad. 1810(3a): 20. 1810.	http://www.theplantlist.org/1.1/browse/A/Lacistemataceae/Lozania/

@@ -1,0 +1,600 @@
+wfo-0000263297	ref-0000263297	Gard. Dict. ed. 8	http://www.theplantlist.org/tpl1.1/record/kew-146394
+wfo-0000395669	ref-0000395669	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409754
+wfo-0000395670	ref-0000395670	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409755
+wfo-0000395671	ref-0000395671	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409756
+wfo-0000395672	ref-0000395672	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409757
+wfo-0000395673	ref-0000395673	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409758
+wfo-0000395674	ref-0000395674	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409759
+wfo-0000395676	ref-0000395676	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409760
+wfo-0000395677	ref-0000395677	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409761
+wfo-0000395678	ref-0000395678	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409763
+wfo-0000395687	ref-0000395687	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2409776
+wfo-0000396769	ref-0000396769	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411518
+wfo-0000396816	ref-0000396816	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411576
+wfo-0000396842	ref-0000396842	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411602
+wfo-0000396847	ref-0000396847	Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss.	http://www.theplantlist.org/tpl1.1/record/kew-2411609
+wfo-0000396849	ref-0000396849	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411611
+wfo-0000396851	ref-0000396851	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411613
+wfo-0000396853	ref-0000396853	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411615
+wfo-0000396854	ref-0000396854	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411616
+wfo-0000396855	ref-0000396855	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411617
+wfo-0000396856	ref-0000396856	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411618
+wfo-0000396857	ref-0000396857	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411619
+wfo-0000396859	ref-0000396859	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411620
+wfo-0000396860	ref-0000396860	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411621
+wfo-0000396861	ref-0000396861	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411622
+wfo-0000396862	ref-0000396862	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411623
+wfo-0000396863	ref-0000396863	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411624
+wfo-0000396864	ref-0000396864	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411625
+wfo-0000396865	ref-0000396865	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2411626
+wfo-0000429666	ref-0000429666	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2469595
+wfo-0000429667	ref-0000429667	Verh. Bot. Vereins Prov. Brandenburg	http://www.theplantlist.org/tpl1.1/record/kew-2469596
+wfo-0000429668	ref-0000429668	J. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2469597
+wfo-0000429669	ref-0000429669	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469598
+wfo-0000429670	ref-0000429670	Linzer Biol. Beitr.	http://www.theplantlist.org/tpl1.1/record/kew-2469599
+wfo-0000429672	ref-0000429672	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469600
+wfo-0000429673	ref-0000429673	Allg. Gartenzeitung	http://www.theplantlist.org/tpl1.1/record/kew-2469601
+wfo-0000429674	ref-0000429674	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469603
+wfo-0000429675	ref-0000429675	Verh. Vereins Beförd. Gartenbaues Königl. Preuss. Staaten	http://www.theplantlist.org/tpl1.1/record/kew-2469604
+wfo-0000429676	ref-0000429676	Arch. Néerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2469605
+wfo-0000429677	ref-0000429677	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2469606
+wfo-0000429678	ref-0000429678	Fruct. Sem. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2469608
+wfo-0000429679	ref-0000429679	Pl. Cult. Serres Jard. Bot. Brux.	http://www.theplantlist.org/tpl1.1/record/kew-2469609
+wfo-0000429681	ref-0000429681	Delpinoa	http://www.theplantlist.org/tpl1.1/record/kew-2469611
+wfo-0000429682	ref-0000429682	Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam	http://www.theplantlist.org/tpl1.1/record/kew-2469612
+wfo-0000429683	ref-0000429683	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2469613
+wfo-0000429684	ref-0000429684	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469614
+wfo-0000429685	ref-0000429685	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2469615
+wfo-0000429686	ref-0000429686	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2469616
+wfo-0000429687	ref-0000429687	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2469618
+wfo-0000429688	ref-0000429688	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2469619
+wfo-0000429690	ref-0000429690	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2469621
+wfo-0000429691	ref-0000429691	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469622
+wfo-0000429692	ref-0000429692	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2469623
+wfo-0000429693	ref-0000429693	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469624
+wfo-0000429694	ref-0000429694	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2469625
+wfo-0000429695	ref-0000429695	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469626
+wfo-0000429696	ref-0000429696	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2469627
+wfo-0000429697	ref-0000429697	Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam	http://www.theplantlist.org/tpl1.1/record/kew-2469628
+wfo-0000429698	ref-0000429698	Syst. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469629
+wfo-0000429701	ref-0000429701	Monatsber. Königl. Preuss. Akad. Wiss. Berlin	http://www.theplantlist.org/tpl1.1/record/kew-2469631
+wfo-0000429719	ref-0000429719	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469657
+wfo-0000429811	ref-0000429811	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2469791
+wfo-0000429835	ref-0000429835	Allg. Gartenzeitung	http://www.theplantlist.org/tpl1.1/record/kew-2469824
+wfo-0000429849	ref-0000429849	Prodr. Pl. Cap.	http://www.theplantlist.org/tpl1.1/record/kew-2469841
+wfo-0000429850	ref-0000429850	Prodr. Syst. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2469843
+wfo-0000429851	ref-0000429851	Tijdschr. Natuurk. Wetensch. Kunsten	http://www.theplantlist.org/tpl1.1/record/kew-2469844
+wfo-0000429852	ref-0000429852	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2469845
+wfo-0000429853	ref-0000429853	Cat. Pl. Utrecht	http://www.theplantlist.org/tpl1.1/record/kew-2469846
+wfo-0000429854	ref-0000429854	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2469847
+wfo-0000429855	ref-0000429855	Collectanea	http://www.theplantlist.org/tpl1.1/record/kew-2469848
+wfo-0000429856	ref-0000429856	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469849
+wfo-0000429858	ref-0000429858	Fl. Serres Jard. Eur.	http://www.theplantlist.org/tpl1.1/record/kew-2469852
+wfo-0000429859	ref-0000429859	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469853
+wfo-0000429860	ref-0000429860	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469854
+wfo-0000429861	ref-0000429861	Bot. Voy. Herald	http://www.theplantlist.org/tpl1.1/record/kew-2469855
+wfo-0000429862	ref-0000429862	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2469856
+wfo-0000429863	ref-0000429863	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469857
+wfo-0000429870	ref-0000429870	Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam	http://www.theplantlist.org/tpl1.1/record/kew-2469865
+wfo-0000429873	ref-0000429873	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469869
+wfo-0000429875	ref-0000429875	Publ. Field Columb. Mus., Bot. Ser.	http://www.theplantlist.org/tpl1.1/record/kew-2469870
+wfo-0000429876	ref-0000429876	Nom. Bot. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2469871
+wfo-0000429877	ref-0000429877	in Fl. Colombia	http://www.theplantlist.org/tpl1.1/record/kew-2469872
+wfo-0000429878	ref-0000429878	Fairchild Trop. Gard. Bull.	http://www.theplantlist.org/tpl1.1/record/kew-2469873
+wfo-0000429879	ref-0000429879	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2469874
+wfo-0000429893	ref-0000429893	Flora	http://www.theplantlist.org/tpl1.1/record/kew-2469920
+wfo-0000429894	ref-0000429894	Fragm. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469921
+wfo-0000429898	ref-0000429898	Florist & Pomol.	http://www.theplantlist.org/tpl1.1/record/kew-2469929
+wfo-0000429906	ref-0000429906	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2469946
+wfo-0000429907	ref-0000429907	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469947
+wfo-0000429908	ref-0000429908	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2469948
+wfo-0000429909	ref-0000429909	Pl. Hort. Schoenbr.	http://www.theplantlist.org/tpl1.1/record/kew-2469949
+wfo-0000429911	ref-0000429911	in Fl. Colombia	http://www.theplantlist.org/tpl1.1/record/kew-2469951
+wfo-0000429912	ref-0000429912	Prodr. Syst. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2469952
+wfo-0000429913	ref-0000429913	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2469953
+wfo-0000429914	ref-0000429914	Encycl. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2469954
+wfo-0000429915	ref-0000429915	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469955
+wfo-0000429916	ref-0000429916	Monatsber. Königl. Preuss. Akad. Wiss. Berlin	http://www.theplantlist.org/tpl1.1/record/kew-2469956
+wfo-0000429917	ref-0000429917	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2469957
+wfo-0000429918	ref-0000429918	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2469958
+wfo-0000429919	ref-0000429919	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2469959
+wfo-0000429920	ref-0000429920	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469960
+wfo-0000429921	ref-0000429921	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2469961
+wfo-0000429922	ref-0000429922	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469962
+wfo-0000429923	ref-0000429923	Nom. Bot. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2469963
+wfo-0000429924	ref-0000429924	Allg. Gartenzeitung	http://www.theplantlist.org/tpl1.1/record/kew-2469965
+wfo-0000429925	ref-0000429925	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469966
+wfo-0000429926	ref-0000429926	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2469967
+wfo-0000429927	ref-0000429927	Index Palm.	http://www.theplantlist.org/tpl1.1/record/kew-2469968
+wfo-0000429928	ref-0000429928	Bot. Mus. Leafl.	http://www.theplantlist.org/tpl1.1/record/kew-2469969
+wfo-0000429930	ref-0000429930	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2469970
+wfo-0000429931	ref-0000429931	Prodr. Syst. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2469971
+wfo-0000429932	ref-0000429932	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2469972
+wfo-0000429933	ref-0000429933	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2469973
+wfo-0000429934	ref-0000429934	Fragm. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2469974
+wfo-0000429935	ref-0000429935	Bull. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2469975
+wfo-0000429936	ref-0000429936	Verh. Kon. Akad. Welensch., Afd. Natuurk.	http://www.theplantlist.org/tpl1.1/record/kew-2469976
+wfo-0000429937	ref-0000429937	Monatsber. Königl. Preuss. Akad. Wiss. Berlin	http://www.theplantlist.org/tpl1.1/record/kew-2469977
+wfo-0000429938	ref-0000429938	Allg. Gartenzeitung	http://www.theplantlist.org/tpl1.1/record/kew-2469978
+wfo-0000429939	ref-0000429939	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469980
+wfo-0000429940	ref-0000429940	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2469981
+wfo-0000429941	ref-0000429941	Hort. Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2469985
+wfo-0000429942	ref-0000429942	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2469987
+wfo-0000429943	ref-0000429943	Sp. Pl. ed. 2	http://www.theplantlist.org/tpl1.1/record/kew-2469988
+wfo-0000429944	ref-0000429944	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469989
+wfo-0000429946	ref-0000429946	Cat. Gén.	http://www.theplantlist.org/tpl1.1/record/kew-2469990
+wfo-0000429947	ref-0000429947	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469991
+wfo-0000429948	ref-0000429948	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469992
+wfo-0000429949	ref-0000429949	in Fl. Veracruz	http://www.theplantlist.org/tpl1.1/record/kew-2469994
+wfo-0000429950	ref-0000429950	Delpinoa	http://www.theplantlist.org/tpl1.1/record/kew-2469995
+wfo-0000429951	ref-0000429951	Arch. Jard. Bot. Rio de Janeiro	http://www.theplantlist.org/tpl1.1/record/kew-2469996
+wfo-0000429952	ref-0000429952	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469997
+wfo-0000429953	ref-0000429953	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2469998
+wfo-0000429954	ref-0000429954	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2469999
+wfo-0000429957	ref-0000429957	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2470000
+wfo-0000429958	ref-0000429958	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-2470001
+wfo-0000429959	ref-0000429959	Fl. Bras.	http://www.theplantlist.org/tpl1.1/record/kew-2470002
+wfo-0000429960	ref-0000429960	Arch. Jard. Bot. Rio de Janeiro	http://www.theplantlist.org/tpl1.1/record/kew-2470003
+wfo-0000429961	ref-0000429961	Symb. Antill.	http://www.theplantlist.org/tpl1.1/record/kew-2470004
+wfo-0000429962	ref-0000429962	Verh. Kon. Akad. Welensch., Afd. Natuurk.	http://www.theplantlist.org/tpl1.1/record/kew-2470005
+wfo-0000429963	ref-0000429963	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2470006
+wfo-0000429964	ref-0000429964	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470007
+wfo-0000429965	ref-0000429965	Bot. Voy. Herald	http://www.theplantlist.org/tpl1.1/record/kew-2470008
+wfo-0000429966	ref-0000429966	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2470009
+wfo-0000429968	ref-0000429968	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470010
+wfo-0000429969	ref-0000429969	Hort. Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2470012
+wfo-0000429970	ref-0000429970	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2470013
+wfo-0000429971	ref-0000429971	Nom. Bot. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2470014
+wfo-0000429972	ref-0000429972	in Fl. Colombia	http://www.theplantlist.org/tpl1.1/record/kew-2470015
+wfo-0000429973	ref-0000429973	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470016
+wfo-0000429974	ref-0000429974	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2470017
+wfo-0000429975	ref-0000429975	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470019
+wfo-0000429977	ref-0000429977	Hortus Van Houtteanus	http://www.theplantlist.org/tpl1.1/record/kew-2470021
+wfo-0000429978	ref-0000429978	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2470022
+wfo-0000429979	ref-0000429979	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2470023
+wfo-0000429980	ref-0000429980	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470024
+wfo-0000429981	ref-0000429981	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470025
+wfo-0000429982	ref-0000429982	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470028
+wfo-0000429984	ref-0000429984	J. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2470030
+wfo-0000429985	ref-0000429985	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2470031
+wfo-0000429986	ref-0000429986	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2470032
+wfo-0000429987	ref-0000429987	Arch. Jard. Bot. Rio de Janeiro	http://www.theplantlist.org/tpl1.1/record/kew-2470033
+wfo-0000429988	ref-0000429988	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470034
+wfo-0000429989	ref-0000429989	Suppl. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2470035
+wfo-0000429990	ref-0000429990	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2470036
+wfo-0000429992	ref-0000429992	Hort. Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2470040
+wfo-0000429993	ref-0000429993	Syll. Pl. Nov.	http://www.theplantlist.org/tpl1.1/record/kew-2470042
+wfo-0000429994	ref-0000429994	in Fl. Colombia	http://www.theplantlist.org/tpl1.1/record/kew-2470043
+wfo-0000429995	ref-0000429995	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2470044
+wfo-0000429996	ref-0000429996	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2470046
+wfo-0000429997	ref-0000429997	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470047
+wfo-0000429998	ref-0000429998	Nom. Bot. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2470048
+wfo-0000429999	ref-0000429999	Hort. Kew.	http://www.theplantlist.org/tpl1.1/record/kew-2470049
+wfo-0000430001	ref-0000430001	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2470053
+wfo-0000430002	ref-0000430002	in Fl. Veracruz	http://www.theplantlist.org/tpl1.1/record/kew-2470054
+wfo-0000430003	ref-0000430003	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470055
+wfo-0000430004	ref-0000430004	in Fl. Colombia	http://www.theplantlist.org/tpl1.1/record/kew-2470056
+wfo-0000430005	ref-0000430005	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2470057
+wfo-0000430006	ref-0000430006	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2470058
+wfo-0000430007	ref-0000430007	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2470059
+wfo-0000430008	ref-0000430008	Fragm. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470060
+wfo-0000430009	ref-0000430009	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2470061
+wfo-0000430010	ref-0000430010	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470062
+wfo-0000430012	ref-0000430012	Mutisia	http://www.theplantlist.org/tpl1.1/record/kew-2470064
+wfo-0000430013	ref-0000430013	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470066
+wfo-0000430014	ref-0000430014	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2470068
+wfo-0000430015	ref-0000430015	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470069
+wfo-0000430017	ref-0000430017	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470071
+wfo-0000430018	ref-0000430018	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470073
+wfo-0000430019	ref-0000430019	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2470074
+wfo-0000430020	ref-0000430020	Caribbean Forester	http://www.theplantlist.org/tpl1.1/record/kew-2470075
+wfo-0000430021	ref-0000430021	Anales Acad. Ci. Méd. Habana	http://www.theplantlist.org/tpl1.1/record/kew-2470076
+wfo-0000430022	ref-0000430022	J. Wash. Acad. Sci.	http://www.theplantlist.org/tpl1.1/record/kew-2470077
+wfo-0000430023	ref-0000430023	Fragm. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2470078
+wfo-0000430025	ref-0000430025	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2470080
+wfo-0000430026	ref-0000430026	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2470081
+wfo-0000430027	ref-0000430027	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2470082
+wfo-0000430838	ref-0000430838	Bull. Soc. Imp. Naturalistes Moscou	http://www.theplantlist.org/tpl1.1/record/kew-2472541
+wfo-0000430839	ref-0000430839	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472542
+wfo-0000430840	ref-0000430840	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472543
+wfo-0000430841	ref-0000430841	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2472544
+wfo-0000430844	ref-0000430844	Bull. Soc. Vaud. Sci. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2472550
+wfo-0000430845	ref-0000430845	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2472551
+wfo-0000430846	ref-0000430846	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472552
+wfo-0000430847	ref-0000430847	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472553
+wfo-0000430848	ref-0000430848	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2472554
+wfo-0000430849	ref-0000430849	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472555
+wfo-0000430850	ref-0000430850	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472556
+wfo-0000430851	ref-0000430851	Cycad Classific. Concepts & Recommend.	http://www.theplantlist.org/tpl1.1/record/kew-2472557
+wfo-0000430852	ref-0000430852	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472559
+wfo-0000430854	ref-0000430854	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2472560
+wfo-0000430856	ref-0000430856	Contr. U. S. Natl. Herb.	http://www.theplantlist.org/tpl1.1/record/kew-2472562
+wfo-0000430857	ref-0000430857	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472565
+wfo-0000430858	ref-0000430858	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2472566
+wfo-0000430859	ref-0000430859	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2472567
+wfo-0000430860	ref-0000430860	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472569
+wfo-0000430862	ref-0000430862	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472571
+wfo-0000430865	ref-0000430865	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472589
+wfo-0000430867	ref-0000430867	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472591
+wfo-0000430868	ref-0000430868	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2472592
+wfo-0000430869	ref-0000430869	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2472593
+wfo-0000430870	ref-0000430870	Revista Acad. Colomb. Ci. Exact.	http://www.theplantlist.org/tpl1.1/record/kew-2472594
+wfo-0000430871	ref-0000430871	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472595
+wfo-0000430872	ref-0000430872	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472596
+wfo-0000430873	ref-0000430873	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472597
+wfo-0000430874	ref-0000430874	Arq. Inst. Biol. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2472599
+wfo-0000430876	ref-0000430876	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2472600
+wfo-0000430878	ref-0000430878	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2472605
+wfo-0000441614	ref-0000441614	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2489842
+wfo-0000441615	ref-0000441615	Hookers J. Bot. Kew Gard. Misc.	http://www.theplantlist.org/tpl1.1/record/kew-2489843
+wfo-0000441616	ref-0000441616	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2489844
+wfo-0000441617	ref-0000441617	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2489845
+wfo-0000445254	ref-0000445254	Verh. Kon. Akad. Welensch., Afd. Natuurk.	http://www.theplantlist.org/tpl1.1/record/kew-2497186
+wfo-0000445258	ref-0000445258	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2497196
+wfo-0000445262	ref-0000445262	Bull. Soc. Imp. Naturalistes Moscou	http://www.theplantlist.org/tpl1.1/record/kew-2497202
+wfo-0000447241	ref-0000447241	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2500505
+wfo-0000451693	ref-0000451693	Syn. Queensl. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-2507771
+wfo-0000451694	ref-0000451694	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507773
+wfo-0000451702	ref-0000451702	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2507782
+wfo-0000451703	ref-0000451703	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507783
+wfo-0000451704	ref-0000451704	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507784
+wfo-0000451705	ref-0000451705	Rev. Hort. Belge Étrangère	http://www.theplantlist.org/tpl1.1/record/kew-2507785
+wfo-0000451706	ref-0000451706	Queensland Agric. J.	http://www.theplantlist.org/tpl1.1/record/kew-2507786
+wfo-0000451707	ref-0000451707	Arch. Néerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2507787
+wfo-0000451708	ref-0000451708	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2507788
+wfo-0000451709	ref-0000451709	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507789
+wfo-0000451711	ref-0000451711	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507790
+wfo-0000451712	ref-0000451712	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507791
+wfo-0000451713	ref-0000451713	Syn. Queensl. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-2507792
+wfo-0000451714	ref-0000451714	Australas. Chem. Druggist	http://www.theplantlist.org/tpl1.1/record/kew-2507793
+wfo-0000451715	ref-0000451715	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507794
+wfo-0000451716	ref-0000451716	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2507795
+wfo-0000451717	ref-0000451717	Arch. Néerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2507796
+wfo-0000451718	ref-0000451718	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2507797
+wfo-0000451719	ref-0000451719	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507799
+wfo-0000451722	ref-0000451722	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2507800
+wfo-0000451723	ref-0000451723	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2507801
+wfo-0000451726	ref-0000451726	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2507810
+wfo-0000451727	ref-0000451727	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2507811
+wfo-0000451728	ref-0000451728	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507812
+wfo-0000451729	ref-0000451729	Verh. Kon. Akad. Welensch., Afd. Natuurk.	http://www.theplantlist.org/tpl1.1/record/kew-2507814
+wfo-0000451730	ref-0000451730	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507815
+wfo-0000451731	ref-0000451731	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2507816
+wfo-0000451732	ref-0000451732	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507818
+wfo-0000451734	ref-0000451734	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507820
+wfo-0000451735	ref-0000451735	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507822
+wfo-0000451736	ref-0000451736	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2507824
+wfo-0000451737	ref-0000451737	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507828
+wfo-0000451738	ref-0000451738	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507829
+wfo-0000451740	ref-0000451740	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507830
+wfo-0000451741	ref-0000451741	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2507831
+wfo-0000451742	ref-0000451742	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507832
+wfo-0000451743	ref-0000451743	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507833
+wfo-0000451744	ref-0000451744	Enum. Pl. Austr. Occ.	http://www.theplantlist.org/tpl1.1/record/kew-2507834
+wfo-0000451745	ref-0000451745	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507835
+wfo-0000451746	ref-0000451746	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507836
+wfo-0000451747	ref-0000451747	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2507837
+wfo-0000451748	ref-0000451748	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507839
+wfo-0000451750	ref-0000451750	Verh. Kon. Akad. Welensch., Afd. Natuurk.	http://www.theplantlist.org/tpl1.1/record/kew-2507840
+wfo-0000451752	ref-0000451752	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507842
+wfo-0000451753	ref-0000451753	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2507843
+wfo-0000451754	ref-0000451754	Telopea	http://www.theplantlist.org/tpl1.1/record/kew-2507844
+wfo-0000451755	ref-0000451755	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507845
+wfo-0000451756	ref-0000451756	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507847
+wfo-0000451757	ref-0000451757	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2507848
+wfo-0000451759	ref-0000451759	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2507850
+wfo-0000451760	ref-0000451760	in Fl. Australia	http://www.theplantlist.org/tpl1.1/record/kew-2507851
+wfo-0000451761	ref-0000451761	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507852
+wfo-0000451762	ref-0000451762	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2507853
+wfo-0000451763	ref-0000451763	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507855
+wfo-0000451764	ref-0000451764	Austrobaileya	http://www.theplantlist.org/tpl1.1/record/kew-2507856
+wfo-0000451765	ref-0000451765	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507858
+wfo-0000451766	ref-0000451766	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2507859
+wfo-0000451768	ref-0000451768	Cat.	http://www.theplantlist.org/tpl1.1/record/kew-2507861
+wfo-0000451769	ref-0000451769	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2507862
+wfo-0000453770	ref-0000453770	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512181
+wfo-0000453771	ref-0000453771	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512182
+wfo-0000453779	ref-0000453779	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512218
+wfo-0000453780	ref-0000453780	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512219
+wfo-0000453782	ref-0000453782	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2512220
+wfo-0000453783	ref-0000453783	Proc. Linn. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2512221
+wfo-0000453784	ref-0000453784	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2512222
+wfo-0000453785	ref-0000453785	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2512224
+wfo-0000453786	ref-0000453786	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2512226
+wfo-0000453787	ref-0000453787	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2512228
+wfo-0000453791	ref-0000453791	J. Proc. Roy. Soc. New South Wales	http://www.theplantlist.org/tpl1.1/record/kew-2512232
+wfo-0000453792	ref-0000453792	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512233
+wfo-0000453793	ref-0000453793	Rev. Hort. Belge Étrangère	http://www.theplantlist.org/tpl1.1/record/kew-2512234
+wfo-0000453794	ref-0000453794	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512235
+wfo-0000453795	ref-0000453795	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512236
+wfo-0000453796	ref-0000453796	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512238
+wfo-0000453797	ref-0000453797	Enum. Pl. Austr. Occ.	http://www.theplantlist.org/tpl1.1/record/kew-2512239
+wfo-0000453799	ref-0000453799	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512240
+wfo-0000453800	ref-0000453800	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512241
+wfo-0000453801	ref-0000453801	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512242
+wfo-0000453802	ref-0000453802	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512243
+wfo-0000453803	ref-0000453803	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512244
+wfo-0000453804	ref-0000453804	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512246
+wfo-0000453805	ref-0000453805	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512247
+wfo-0000453806	ref-0000453806	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512248
+wfo-0000453807	ref-0000453807	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512249
+wfo-0000453809	ref-0000453809	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2512251
+wfo-0000453810	ref-0000453810	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2512253
+wfo-0000453811	ref-0000453811	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2512254
+wfo-0000453812	ref-0000453812	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2512257
+wfo-0000453813	ref-0000453813	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2512258
+wfo-0000453815	ref-0000453815	Census N.S.W. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2512260
+wfo-0000453816	ref-0000453816	Census N.S.W. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2512261
+wfo-0000453817	ref-0000453817	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2512262
+wfo-0000453818	ref-0000453818	Census N.S.W. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2512263
+wfo-0000453819	ref-0000453819	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2512264
+wfo-0000453820	ref-0000453820	Fl. Austral.	http://www.theplantlist.org/tpl1.1/record/kew-2512265
+wfo-0000492061	ref-0000492061	Hist. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2580327
+wfo-0000506762	ref-0000506762	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2603916
+wfo-0000508739	ref-0000508739	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2606625
+wfo-0000508740	ref-0000508740	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2606626
+wfo-0000509153	ref-0000509153	J. E. Afr. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2607050
+wfo-0000510660	ref-0000510660	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2609251
+wfo-0000510661	ref-0000510661	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2609252
+wfo-0000510662	ref-0000510662	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2609253
+wfo-0000556940	ref-0000556940	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666251
+wfo-0000556941	ref-0000556941	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666252
+wfo-0000556942	ref-0000556942	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666253
+wfo-0000556943	ref-0000556943	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666254
+wfo-0000556944	ref-0000556944	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666255
+wfo-0000556945	ref-0000556945	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2666256
+wfo-0000570066	ref-0000570066	Bot. Gaz.	http://www.theplantlist.org/tpl1.1/record/kew-2680957
+wfo-0000570067	ref-0000570067	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2680958
+wfo-0000570068	ref-0000570068	Syn. Queensl. Fl.	http://www.theplantlist.org/tpl1.1/record/kew-2680959
+wfo-0000570070	ref-0000570070	Retail List New Beautiful Rare Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2680960
+wfo-0000590786	ref-0000590786	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2705566
+wfo-0000590787	ref-0000590787	Verh. Kon. Akad. Wetensch., Afd. Natuurk., Sect. 2	http://www.theplantlist.org/tpl1.1/record/kew-2705567
+wfo-0000596583	ref-0000596583	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2711318
+wfo-0000596584	ref-0000596584	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2711319
+wfo-0000596586	ref-0000596586	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2711320
+wfo-0000596587	ref-0000596587	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711321
+wfo-0000596588	ref-0000596588	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2711322
+wfo-0000596589	ref-0000596589	Sci. Proc. Roy. Dublin Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2711323
+wfo-0000596590	ref-0000596590	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2711324
+wfo-0000596591	ref-0000596591	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2711325
+wfo-0000596592	ref-0000596592	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2711326
+wfo-0000596593	ref-0000596593	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711327
+wfo-0000596594	ref-0000596594	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2711328
+wfo-0000596595	ref-0000596595	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2711329
+wfo-0000596597	ref-0000596597	Bull. Soc. Imp. Naturalistes Moscou	http://www.theplantlist.org/tpl1.1/record/kew-2711330
+wfo-0000596598	ref-0000596598	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711331
+wfo-0000596599	ref-0000596599	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711332
+wfo-0000596600	ref-0000596600	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711333
+wfo-0000596601	ref-0000596601	Lloydia	http://www.theplantlist.org/tpl1.1/record/kew-2711334
+wfo-0000596602	ref-0000596602	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2711335
+wfo-0000596603	ref-0000596603	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2711336
+wfo-0000596604	ref-0000596604	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2711337
+wfo-0000596605	ref-0000596605	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2711338
+wfo-0000596606	ref-0000596606	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2711339
+wfo-0000596608	ref-0000596608	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2711340
+wfo-0000596609	ref-0000596609	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2711341
+wfo-0000596610	ref-0000596610	Madroño	http://www.theplantlist.org/tpl1.1/record/kew-2711343
+wfo-0000596611	ref-0000596611	Index Palm.	http://www.theplantlist.org/tpl1.1/record/kew-2711344
+wfo-0000596612	ref-0000596612	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2711345
+wfo-0000596613	ref-0000596613	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2711346
+wfo-0000596614	ref-0000596614	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2711347
+wfo-0000596615	ref-0000596615	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2711348
+wfo-0000596616	ref-0000596616	Rech. App. Lib. Lign. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2711349
+wfo-0000596617	ref-0000596617	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2711350
+wfo-0000596618	ref-0000596618	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2711351
+wfo-0000596619	ref-0000596619	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2711352
+wfo-0000596620	ref-0000596620	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2711353
+wfo-0000596621	ref-0000596621	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2711354
+wfo-0000601989	ref-0000601989	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2718071
+wfo-0000601990	ref-0000601990	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2718072
+wfo-0000631500	ref-0000631500	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2749497
+wfo-0000631508	ref-0000631508	Nova Acta Regiae Soc. Sci. Upsal.	http://www.theplantlist.org/tpl1.1/record/kew-2749503
+wfo-0000631642	ref-0000631642	Voy. Uranie	http://www.theplantlist.org/tpl1.1/record/kew-2749631
+wfo-0000631685	ref-0000631685	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2749670
+wfo-0000631689	ref-0000631689	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2749674
+wfo-0000648106	ref-0000648106	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2768997
+wfo-0000648107	ref-0000648107	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2768998
+wfo-0000648108	ref-0000648108	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2768999
+wfo-0000648112	ref-0000648112	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769000
+wfo-0000648113	ref-0000648113	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769001
+wfo-0000648114	ref-0000648114	Edwardss Bot. Reg.	http://www.theplantlist.org/tpl1.1/record/kew-2769002
+wfo-0000648115	ref-0000648115	Kalmia	http://www.theplantlist.org/tpl1.1/record/kew-2769003
+wfo-0000648116	ref-0000648116	Arch. Neerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2769004
+wfo-0000648117	ref-0000648117	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2769006
+wfo-0000648118	ref-0000648118	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2769007
+wfo-0000648119	ref-0000648119	in Fl. Novo-Galiciana	http://www.theplantlist.org/tpl1.1/record/kew-2769008
+wfo-0000648120	ref-0000648120	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769009
+wfo-0000648122	ref-0000648122	Tijdschr. Wis.- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2769010
+wfo-0000648123	ref-0000648123	Ceiba	http://www.theplantlist.org/tpl1.1/record/kew-2769011
+wfo-0000648124	ref-0000648124	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769012
+wfo-0000648125	ref-0000648125	Contr. U. S. Natl. Herb.	http://www.theplantlist.org/tpl1.1/record/kew-2769013
+wfo-0000648126	ref-0000648126	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769014
+wfo-0000648127	ref-0000648127	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2769015
+wfo-0000648128	ref-0000648128	Gart.-Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/kew-2769016
+wfo-0000648129	ref-0000648129	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2769017
+wfo-0000648130	ref-0000648130	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769018
+wfo-0000648131	ref-0000648131	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-2769019
+wfo-0000650986	ref-0000650986	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2771823
+wfo-0000667330	ref-0000667330	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2788577
+wfo-0000667331	ref-0000667331	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788578
+wfo-0000667332	ref-0000667332	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788579
+wfo-0000667334	ref-0000667334	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2788580
+wfo-0000667335	ref-0000667335	Ann. Rep. Bot. Gard. Natal	http://www.theplantlist.org/tpl1.1/record/kew-2788581
+wfo-0000667336	ref-0000667336	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788582
+wfo-0000667337	ref-0000667337	Ned. Kruidk. Arch.	http://www.theplantlist.org/tpl1.1/record/kew-2788583
+wfo-0000667338	ref-0000667338	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2788585
+wfo-0000667339	ref-0000667339	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788586
+wfo-0000667340	ref-0000667340	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788587
+wfo-0000667341	ref-0000667341	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2788588
+wfo-0000667342	ref-0000667342	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2788589
+wfo-0000667344	ref-0000667344	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788590
+wfo-0000667345	ref-0000667345	J. S. African Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788591
+wfo-0000667346	ref-0000667346	Arch. Néerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-2788592
+wfo-0000667347	ref-0000667347	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788594
+wfo-0000667348	ref-0000667348	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788595
+wfo-0000667349	ref-0000667349	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-2788596
+wfo-0000667350	ref-0000667350	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788597
+wfo-0000667351	ref-0000667351	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2788598
+wfo-0000667352	ref-0000667352	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788599
+wfo-0000667355	ref-0000667355	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788600
+wfo-0000667356	ref-0000667356	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788601
+wfo-0000667357	ref-0000667357	Durban Mus. Novit.	http://www.theplantlist.org/tpl1.1/record/kew-2788602
+wfo-0000667358	ref-0000667358	Kirkia	http://www.theplantlist.org/tpl1.1/record/kew-2788603
+wfo-0000667359	ref-0000667359	Kirkia	http://www.theplantlist.org/tpl1.1/record/kew-2788604
+wfo-0000667360	ref-0000667360	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788605
+wfo-0000667361	ref-0000667361	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788606
+wfo-0000667362	ref-0000667362	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788607
+wfo-0000667363	ref-0000667363	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788608
+wfo-0000667364	ref-0000667364	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2788609
+wfo-0000667366	ref-0000667366	Ann. Gembloux	http://www.theplantlist.org/tpl1.1/record/kew-2788610
+wfo-0000667367	ref-0000667367	Quart. J. Trans. Pharm. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-2788611
+wfo-0000667368	ref-0000667368	Bull. Jard. Bot. Natl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-2788612
+wfo-0000667369	ref-0000667369	Syst. Census Austral. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2788613
+wfo-0000667370	ref-0000667370	Melbourne Chem. Druggist	http://www.theplantlist.org/tpl1.1/record/kew-2788614
+wfo-0000667371	ref-0000667371	Bull. Jard. Bot. Natl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-2788615
+wfo-0000667372	ref-0000667372	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788616
+wfo-0000667373	ref-0000667373	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788617
+wfo-0000667374	ref-0000667374	J. S. African Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788618
+wfo-0000667375	ref-0000667375	Bull. Jard. Bot. Natl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-2788619
+wfo-0000667377	ref-0000667377	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788620
+wfo-0000667378	ref-0000667378	Mem. Reale Accad. Sci. Ist. Bologna	http://www.theplantlist.org/tpl1.1/record/kew-2788621
+wfo-0000667379	ref-0000667379	Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2788622
+wfo-0000667380	ref-0000667380	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788623
+wfo-0000667381	ref-0000667381	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2788624
+wfo-0000667382	ref-0000667382	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788625
+wfo-0000667383	ref-0000667383	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2788626
+wfo-0000667384	ref-0000667384	Unknown	http://www.theplantlist.org/tpl1.1/record/kew-2788627
+wfo-0000667385	ref-0000667385	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788628
+wfo-0000667386	ref-0000667386	Index Seminum (B)	http://www.theplantlist.org/tpl1.1/record/kew-2788629
+wfo-0000667388	ref-0000667388	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788630
+wfo-0000667389	ref-0000667389	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788631
+wfo-0000667390	ref-0000667390	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2788632
+wfo-0000667391	ref-0000667391	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2788633
+wfo-0000667392	ref-0000667392	Bot. Mag.	http://www.theplantlist.org/tpl1.1/record/kew-2788634
+wfo-0000667393	ref-0000667393	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2788635
+wfo-0000667394	ref-0000667394	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788636
+wfo-0000667395	ref-0000667395	Novon	http://www.theplantlist.org/tpl1.1/record/kew-2788637
+wfo-0000667396	ref-0000667396	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788638
+wfo-0000667397	ref-0000667397	Mem. New York Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2788639
+wfo-0000667399	ref-0000667399	Utafiti	http://www.theplantlist.org/tpl1.1/record/kew-2788640
+wfo-0000667400	ref-0000667400	Bull. Misc. Inform. Kew	http://www.theplantlist.org/tpl1.1/record/kew-2788641
+wfo-0000667401	ref-0000667401	Man. Pl. Transvaal	http://www.theplantlist.org/tpl1.1/record/kew-2788642
+wfo-0000667402	ref-0000667402	Man. Pl. Transvaal	http://www.theplantlist.org/tpl1.1/record/kew-2788643
+wfo-0000667403	ref-0000667403	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788644
+wfo-0000667404	ref-0000667404	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2788645
+wfo-0000667405	ref-0000667405	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788646
+wfo-0000667406	ref-0000667406	Ann. Mus. Congo Belge, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788647
+wfo-0000667407	ref-0000667407	Fl. Pl. Africa	http://www.theplantlist.org/tpl1.1/record/kew-2788648
+wfo-0000667408	ref-0000667408	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788649
+wfo-0000667410	ref-0000667410	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2788650
+wfo-0000667411	ref-0000667411	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2788651
+wfo-0000667412	ref-0000667412	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/kew-2788652
+wfo-0000667413	ref-0000667413	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/kew-2788653
+wfo-0000667414	ref-0000667414	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788654
+wfo-0000667415	ref-0000667415	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2788655
+wfo-0000667416	ref-0000667416	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788656
+wfo-0000667417	ref-0000667417	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788657
+wfo-0000667418	ref-0000667418	Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2788658
+wfo-0000667419	ref-0000667419	Bot. J. Linn. Soc.	http://www.theplantlist.org/tpl1.1/record/kew-2788659
+wfo-0000667421	ref-0000667421	Encephalartos	http://www.theplantlist.org/tpl1.1/record/kew-2788660
+wfo-0000667422	ref-0000667422	Trans. Rhodesia Sci. Assoc.	http://www.theplantlist.org/tpl1.1/record/kew-2788661
+wfo-0000667423	ref-0000667423	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788662
+wfo-0000667424	ref-0000667424	Bull. Soc. Roy. Bot. Belgique	http://www.theplantlist.org/tpl1.1/record/kew-2788663
+wfo-0000667425	ref-0000667425	Monogr. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-2788664
+wfo-0000667426	ref-0000667426	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788665
+wfo-0000667427	ref-0000667427	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2788666
+wfo-0000667428	ref-0000667428	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2788667
+wfo-0000667429	ref-0000667429	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788668
+wfo-0000667430	ref-0000667430	Kirkia	http://www.theplantlist.org/tpl1.1/record/kew-2788669
+wfo-0000667432	ref-0000667432	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788670
+wfo-0000667433	ref-0000667433	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788671
+wfo-0000667434	ref-0000667434	Fl. Pl. Africa	http://www.theplantlist.org/tpl1.1/record/kew-2788672
+wfo-0000667435	ref-0000667435	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2788673
+wfo-0000667436	ref-0000667436	Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2788674
+wfo-0000667437	ref-0000667437	Man. Pl. Transvaal	http://www.theplantlist.org/tpl1.1/record/kew-2788675
+wfo-0000667438	ref-0000667438	Quart. J. Trans. Pharm. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-2788676
+wfo-0000667439	ref-0000667439	Verh. Bot. Vereins Prov. Brandenburg	http://www.theplantlist.org/tpl1.1/record/kew-2788677
+wfo-0000667440	ref-0000667440	Quart. J. Trans. Pharm. Soc. Victoria	http://www.theplantlist.org/tpl1.1/record/kew-2788678
+wfo-0000667441	ref-0000667441	J. S. African Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788679
+wfo-0000667443	ref-0000667443	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2788680
+wfo-0000667444	ref-0000667444	Kirkia	http://www.theplantlist.org/tpl1.1/record/kew-2788681
+wfo-0000667445	ref-0000667445	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2788682
+wfo-0000667446	ref-0000667446	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788683
+wfo-0000667447	ref-0000667447	Retail List New Beautiful Rare Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2788684
+wfo-0000667448	ref-0000667448	Bothalia	http://www.theplantlist.org/tpl1.1/record/kew-2788685
+wfo-0000667449	ref-0000667449	Bull. Jard. Bot. Natl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-2788686
+wfo-0000667450	ref-0000667450	Bull. Jard. Bot. Natl. Belg.	http://www.theplantlist.org/tpl1.1/record/kew-2788687
+wfo-0000667451	ref-0000667451	Delpinoa	http://www.theplantlist.org/tpl1.1/record/kew-2788688
+wfo-0000667452	ref-0000667452	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788689
+wfo-0000667454	ref-0000667454	Nat. Pflanzenfam.	http://www.theplantlist.org/tpl1.1/record/kew-2788690
+wfo-0000667455	ref-0000667455	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788691
+wfo-0000667456	ref-0000667456	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788692
+wfo-0000667457	ref-0000667457	Fragm.	http://www.theplantlist.org/tpl1.1/record/kew-2788693
+wfo-0000667458	ref-0000667458	Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-2788694
+wfo-0000667459	ref-0000667459	Man. Pl. Transvaal	http://www.theplantlist.org/tpl1.1/record/kew-2788695
+wfo-0000667460	ref-0000667460	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788696
+wfo-0000667461	ref-0000667461	Kew Bull.	http://www.theplantlist.org/tpl1.1/record/kew-2788697
+wfo-0000667462	ref-0000667462	Man. Pl. Transvaal	http://www.theplantlist.org/tpl1.1/record/kew-2788699
+wfo-0000667465	ref-0000667465	Nov. Stirp. Pug.	http://www.theplantlist.org/tpl1.1/record/kew-2788700
+wfo-0000667466	ref-0000667466	J. S. African Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788701
+wfo-0000667467	ref-0000667467	Garcia de Orta, Sér. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788702
+wfo-0000667468	ref-0000667468	Fl. Pl. Africa	http://www.theplantlist.org/tpl1.1/record/kew-2788703
+wfo-0000667469	ref-0000667469	Tijdschr. Natuurl. Gesch. Physiol.	http://www.theplantlist.org/tpl1.1/record/kew-2788704
+wfo-0000667470	ref-0000667470	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788705
+wfo-0000667471	ref-0000667471	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2788706
+wfo-0000667472	ref-0000667472	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2788707
+wfo-0000667473	ref-0000667473	Ill. Hort.	http://www.theplantlist.org/tpl1.1/record/kew-2788708
+wfo-0000667474	ref-0000667474	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2788709
+wfo-0000667476	ref-0000667476	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2788710
+wfo-0000667477	ref-0000667477	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2788711
+wfo-0000667478	ref-0000667478	Ann. Missouri Bot. Gard.	http://www.theplantlist.org/tpl1.1/record/kew-2788712
+wfo-0000667479	ref-0000667479	Phytologia	http://www.theplantlist.org/tpl1.1/record/kew-2788713
+wfo-0000667480	ref-0000667480	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/kew-2788714
+wfo-0000668616	ref-0000668616	Blumea	http://www.theplantlist.org/tpl1.1/record/kew-2789985
+wfo-0000737178	ref-0000737178	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2872866
+wfo-0000737179	ref-0000737179	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2872867
+wfo-0000737180	ref-0000737180	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/kew-2872868
+wfo-0000737181	ref-0000737181	Bull. Soc. Imp. Naturalistes Moscou	http://www.theplantlist.org/tpl1.1/record/kew-2872869
+wfo-0000737182	ref-0000737182	Amer. Fossil Cycads	http://www.theplantlist.org/tpl1.1/record/kew-2872870
+wfo-0000909349	ref-0000909349	Prodr. Syst. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-452891
+wfo-0000909350	ref-0000909350	Arch. Neerl. Sci. Exact. Nat.	http://www.theplantlist.org/tpl1.1/record/kew-452892
+wfo-0000909353	ref-0000909353	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-452902
+wfo-0000909354	ref-0000909354	Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/kew-452905
+wfo-0000911206	ref-0000911206	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-456060
+wfo-0000911207	ref-0000911207	Prodr. Syst. Cycad.	http://www.theplantlist.org/tpl1.1/record/kew-456061
+wfo-0000911208	ref-0000911208	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-456063
+wfo-0000911954	ref-0000911954	Cycad Newslett.	http://www.theplantlist.org/tpl1.1/record/kew-456845
+wfo-0000912227	ref-0000912227	Syst. Biodivers.	http://www.theplantlist.org/tpl1.1/record/kew-457149
+wfo-0000914748	ref-0000914748	Cycad Newslett.	http://www.theplantlist.org/tpl1.1/record/kew-459757
+wfo-0000914749	ref-0000914749	J. Bot. Res. Inst. Texas	http://www.theplantlist.org/tpl1.1/record/kew-459758
+wfo-0000914750	ref-0000914750	Ceiba	http://www.theplantlist.org/tpl1.1/record/kew-459759
+wfo-0000914752	ref-0000914752	Ceiba	http://www.theplantlist.org/tpl1.1/record/kew-459760
+wfo-0000914753	ref-0000914753	Taxon	http://www.theplantlist.org/tpl1.1/record/kew-459761
+wfo-0000914754	ref-0000914754	Ceiba	http://www.theplantlist.org/tpl1.1/record/kew-459762
+wfo-0000916775	ref-0000916775	Phytotaxa	http://www.theplantlist.org/tpl1.1/record/kew-462007
+wfo-0000916776	ref-0000916776	J. Bot. Res. Inst. Texas	http://www.theplantlist.org/tpl1.1/record/kew-462008
+wfo-0000916777	ref-0000916777	Brittonia	http://www.theplantlist.org/tpl1.1/record/kew-462009
+wfo-0000922711	ref-0000922711	Brenesia	http://www.theplantlist.org/tpl1.1/record/kew-468344
+wfo-0001034375	ref-0001034375	Kalmia	http://www.theplantlist.org/tpl1.1/record/tro-100324117
+wfo-0001039472	ref-0001039472	Syst. Biodivers.	http://www.theplantlist.org/tpl1.1/record/tro-100364498
+wfo-0001249577	ref-0001249577	Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/tro-50150049
+wfo-0001249578	ref-0001249578	Trudy Imp. S.-Peterburgsk. Bot. Sada	http://www.theplantlist.org/tpl1.1/record/tro-50150051
+wfo-0001250069	ref-0001250069	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-50153286
+wfo-0001253258	ref-0001253258	Gard. Chron.	http://www.theplantlist.org/tpl1.1/record/tro-50170176
+wfo-0001263599	ref-0001263599	Proc. Roy. Dubl. Soc.	http://www.theplantlist.org/tpl1.1/record/tro-50209243
+wfo-0001301550	ref-0001301550	Pflanzenr.	http://www.theplantlist.org/tpl1.1/record/tro-9600010
+wfo-0001301554	ref-0001301554	Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch.	http://www.theplantlist.org/tpl1.1/record/tro-9600094
+wfo-0001301555	ref-0001301555	Biol. Cent.-Amer., Bot.	http://www.theplantlist.org/tpl1.1/record/tro-9600104
+wfo-0001301556	ref-0001301556	Fl. Trop. Afr.	http://www.theplantlist.org/tpl1.1/record/tro-9600107
+wfo-0001301575	ref-0001301575	Bot. Zeitung (Berlin)	http://www.theplantlist.org/tpl1.1/record/tro-9600202
+wfo-0001301579	ref-0001301579	S. African J. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-9600241
+wfo-0001301586	ref-0001301586	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-9600297
+wfo-4000005149	ref-4000005149	Bot. Mag. 89: pl. 5398. 1863.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Bowenia/
+wfo-4000007391	ref-4000007391	Ann. Sci. Nat., Bot., sér. 3, 5: 7–8. 1846.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Ceratozamia/
+wfo-4000011837	ref-4000011837	Edwardss Bot. Reg. 29: misc. 59–60. 1843.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Dioon/
+wfo-4000013360	ref-4000013360	Nov. Stirp. Pug. 6: 3. 1834.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Encephalartos/
+wfo-4000021149	ref-4000021149	Bull. Soc. Imp. Naturalistes Moscou 30(1): 182. 1857.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Lepidozamia/
+wfo-4000022805	ref-4000022805	Monogr. Cycad. 35. 1842.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Macrozamia/
+wfo-4000024096	ref-4000024096	Prodr. 16(2): 538. 1868.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Microcycas/
+wfo-4000036276	ref-4000036276	Hookers J. Bot. Kew Gard. Misc. 5: 228. 1853.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Stangeria/
+wfo-4000041136	ref-4000041136	Sp. Pl. (ed. 2) 2: 1659. 1763.	http://www.theplantlist.org/1.1/browse/G/Zamiaceae/Zamia/

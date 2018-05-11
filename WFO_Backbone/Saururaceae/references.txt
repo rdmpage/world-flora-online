@@ -1,0 +1,40 @@
+wfo-0000380889	ref-0000380889	Nuovo Giorn. Bot. Ital.	http://www.theplantlist.org/tpl1.1/record/kew-2382002
+wfo-0000487342	ref-0000487342	Fl. Cochinch.	http://www.theplantlist.org/tpl1.1/record/kew-2570849
+wfo-0000487344	ref-0000487344	Gen. Sp. Candoll.	http://www.theplantlist.org/tpl1.1/record/kew-2570850
+wfo-0000493599	ref-0000493599	Biol. Morphol. Untersuch. Wasser- Sumpfgewächse	http://www.theplantlist.org/tpl1.1/record/kew-2582992
+wfo-0000493600	ref-0000493600	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2582993
+wfo-0000493601	ref-0000493601	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2582994
+wfo-0000505740	ref-0000505740	Fl. Cochinch.	http://www.theplantlist.org/tpl1.1/record/kew-2602552
+wfo-0000507424	ref-0000507424	Bull. Bot. Res., Harbin	http://www.theplantlist.org/tpl1.1/record/kew-2604650
+wfo-0000534994	ref-0000534994	Ann. Nat. Hist.	http://www.theplantlist.org/tpl1.1/record/kew-2637943
+wfo-0000534995	ref-0000534995	Contr. W. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2637944
+wfo-0000536018	ref-0000536018	Linnaea	http://www.theplantlist.org/tpl1.1/record/kew-2638909
+wfo-0000536020	ref-0000536020	Bot. Beechey Voy.	http://www.theplantlist.org/tpl1.1/record/kew-2638910
+wfo-0000536021	ref-0000536021	Amer. Midl. Naturalist	http://www.theplantlist.org/tpl1.1/record/kew-2638911
+wfo-0000536022	ref-0000536022	Gartenflora	http://www.theplantlist.org/tpl1.1/record/kew-2638913
+wfo-0000713198	ref-0000713198	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2836357
+wfo-0000713199	ref-0000713199	Contr. Biol. Lab. Chin. Assoc. Advancem. Sci., Sect. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2836358
+wfo-0000725053	ref-0000725053	Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2853864
+wfo-0000725054	ref-0000725054	Bot. California	http://www.theplantlist.org/tpl1.1/record/kew-2853865
+wfo-0000725055	ref-0000725055	Kongl. Vetensk. Acad. Nya Handl.	http://www.theplantlist.org/tpl1.1/record/kew-2853867
+wfo-0000725056	ref-0000725056	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2853868
+wfo-0000725057	ref-0000725057	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2853869
+wfo-0000725059	ref-0000725059	J. Jap. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2853870
+wfo-0000725060	ref-0000725060	J. Phytogeogr. Taxon.	http://www.theplantlist.org/tpl1.1/record/kew-2853871
+wfo-0000725061	ref-0000725061	Hort. Brit.	http://www.theplantlist.org/tpl1.1/record/kew-2853872
+wfo-0000737186	ref-0000737186	Prodr.	http://www.theplantlist.org/tpl1.1/record/kew-2872874
+wfo-0000737187	ref-0000737187	Adansonia	http://www.theplantlist.org/tpl1.1/record/kew-2872875
+wfo-0000737188	ref-0000737188	Ann. Sci. Nat., Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2872876
+wfo-0000737189	ref-0000737189	Mant. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2872877
+wfo-0000760963	ref-0000760963	Fl. Mexic.	http://www.theplantlist.org/tpl1.1/record/kew-299974
+wfo-0000919693	ref-0000919693	Fl. Jap.	http://www.theplantlist.org/tpl1.1/record/kew-465151
+wfo-0000919694	ref-0000919694	Bull. Soc. Imp. Naturalistes Moscou	http://www.theplantlist.org/tpl1.1/record/kew-465152
+wfo-0001033812	ref-0001033812	Linnaea	http://www.theplantlist.org/tpl1.1/record/tro-100289103
+wfo-0001123898	ref-0001123898	Bol. Soc. Brot., sér. 2,	http://www.theplantlist.org/tpl1.1/record/tro-26619786
+wfo-0001135367	ref-0001135367	Prodr.	http://www.theplantlist.org/tpl1.1/record/tro-29000015
+wfo-0001248363	ref-0001248363	Revis. Gen. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-50146140
+wfo-4000002061	ref-4000002061	Bot. Beechey Voy. 390, pl. 92. 1841[1840]. (Feb-Mar 1840)	http://www.theplantlist.org/1.1/browse/A/Saururaceae/Anemopsis/
+wfo-4000016558	ref-4000016558	Ann. Sci. Nat., Bot., sér. 3, 3: 100. 1845.	http://www.theplantlist.org/1.1/browse/A/Saururaceae/Gymnotheca/
+wfo-4000018342	ref-4000018342	Kongl. Vetensk. Acad. Nya Handl. 4: 149–152, t. 5. 1783. (Apr-Jun)	http://www.theplantlist.org/1.1/browse/A/Saururaceae/Houttuynia/
+wfo-4000025618	ref-4000025618	Nuovo Giorn. Bot. Ital., n.s. 17(2): 263–264, f. 5. 1910.	http://www.theplantlist.org/1.1/browse/A/Saururaceae/Neobiondia/
+wfo-4000034180	ref-4000034180	Sp. Pl. 1: 341. 1753. (1 May 1753)	http://www.theplantlist.org/1.1/browse/A/Saururaceae/Saururus/

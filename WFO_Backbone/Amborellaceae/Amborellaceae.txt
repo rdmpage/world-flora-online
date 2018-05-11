@@ -1,0 +1,4 @@
+﻿kew-7867	Amborella trichopoda	sp.		Amborella		trichopoda				Baill.	Adansonia	10: 354		1873		Accepted		wcs	7867	2012-03-23 15:30:23		Amborellaceae	H	A	Accepted		0	wfo-g01554		SPECIES	Baill.		ICNafp				
+wfo-f00020	Amborellaceae	family								Pichon	Bull. Mus. Natl. Hist. Nat., sér. 2 20: 384. 1948. (25 Oct 1948) 			1948		Accepted												wfo-o00014		family	Pichon		ICNafp	Bulletin du Muséum d'Histoire Naturelle, sér. 2 20: 384. 1948. (25 Oct 1948) 			
+wfo-g01554	Amborella	genus								Baill.	Hist. Pl. 1: 328. 1869. 	1: 328	328	1869		Accepted						Amborellaceae						wfo-f00020		genus	Baill.		ICNafp	Histoire des Plantes 1: 328. 1869. 			
+wfo-o00014	Amborellales	order									14 Symp. Biodiv. Evolutionsbiol. 122. 1999. (1 Sep 1922) 			1999		Accepted														order	Melikyan, A.V. Bobrov & Zaytzeva		ICNafp	14 Symp. Biodiv. Evolutionsbiol. 122. 1999. (1 Sep 1922) 			

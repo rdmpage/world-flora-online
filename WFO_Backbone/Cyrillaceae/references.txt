@@ -1,0 +1,43 @@
+wfo-0000376100	ref-0000376100	Enum. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2371644
+wfo-0000499076	ref-0000499076	Reis. Br.-Guiana	http://www.theplantlist.org/tpl1.1/record/kew-2592207
+wfo-0000534278	ref-0000534278	Arbust. Amer.	http://www.theplantlist.org/tpl1.1/record/kew-2637262
+wfo-0000611835	ref-0000611835	Syst. Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2727841
+wfo-0000611836	ref-0000611836	Silva	http://www.theplantlist.org/tpl1.1/record/kew-2727842
+wfo-0000611837	ref-0000611837	Suppl. Carp.	http://www.theplantlist.org/tpl1.1/record/kew-2727843
+wfo-0000634792	ref-0000634792	Fl. Bor.-Amer.	http://www.theplantlist.org/tpl1.1/record/kew-2752971
+wfo-0000634794	ref-0000634794	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2752973
+wfo-0000634795	ref-0000634795	Trans. Linn. Soc. London, Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2752974
+wfo-0000634796	ref-0000634796	Fl. Bor.-Amer.	http://www.theplantlist.org/tpl1.1/record/kew-2752975
+wfo-0000634797	ref-0000634797	Mem. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2752976
+wfo-0000634798	ref-0000634798	Bot. Közlem.	http://www.theplantlist.org/tpl1.1/record/kew-2752977
+wfo-0000634799	ref-0000634799	Bot. Közlem.	http://www.theplantlist.org/tpl1.1/record/kew-2752978
+wfo-0000634800	ref-0000634800	Autik. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2752979
+wfo-0000634803	ref-0000634803	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2752981
+wfo-0000634804	ref-0000634804	Repert. Spec. Nov. Regni Veg.	http://www.theplantlist.org/tpl1.1/record/kew-2752982
+wfo-0000634807	ref-0000634807	Autik. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2752985
+wfo-0000634808	ref-0000634808	Bull. Torrey Bot. Club	http://www.theplantlist.org/tpl1.1/record/kew-2752986
+wfo-0000634809	ref-0000634809	Annuaire Conserv. Jard. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/kew-2752987
+wfo-0000634810	ref-0000634810	Autik. Bot.	http://www.theplantlist.org/tpl1.1/record/kew-2752988
+wfo-0000634813	ref-0000634813	Mant. Pl.	http://www.theplantlist.org/tpl1.1/record/kew-2752990
+wfo-0000634814	ref-0000634814	Acta Bot. Venez.	http://www.theplantlist.org/tpl1.1/record/kew-2752991
+wfo-0000634815	ref-0000634815	Kalmia	http://www.theplantlist.org/tpl1.1/record/kew-2752992
+wfo-0000634816	ref-0000634816	J. Arnold Arbor.	http://www.theplantlist.org/tpl1.1/record/kew-2752993
+wfo-0000634817	ref-0000634817	Rhodora	http://www.theplantlist.org/tpl1.1/record/kew-2752994
+wfo-0000732849	ref-0000732849	Encycl.	http://www.theplantlist.org/tpl1.1/record/kew-2867740
+wfo-0000732851	ref-0000732851	Prodr. Veg. Ind. Occ.	http://www.theplantlist.org/tpl1.1/record/kew-2867744
+wfo-0000732852	ref-0000732852	Prodr. Stirp. Chap. Allerton	http://www.theplantlist.org/tpl1.1/record/kew-2867745
+wfo-0000739728	ref-0000739728	Annuaire Conserv. Jard. Bot. Genève	http://www.theplantlist.org/tpl1.1/record/kew-2879424
+wfo-0000743694	ref-0000743694	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895940
+wfo-0000743695	ref-0000743695	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895941
+wfo-0000743696	ref-0000743696	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895942
+wfo-0000743697	ref-0000743697	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895943
+wfo-0000743698	ref-0000743698	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895944
+wfo-0000743699	ref-0000743699	Willdenowia	http://www.theplantlist.org/tpl1.1/record/kew-2895946
+wfo-0001033169	ref-0001033169	Encycl. Meth. Bot.	http://www.theplantlist.org/tpl1.1/record/tro-100001665
+wfo-0001034286	ref-0001034286	Kalmia	http://www.theplantlist.org/tpl1.1/record/tro-100319422
+wfo-0001135532	ref-0001135532	Sp. Pl.	http://www.theplantlist.org/tpl1.1/record/tro-29100402
+wfo-0001135936	ref-0001135936	Stirp. Nov.	http://www.theplantlist.org/tpl1.1/record/tro-29101197
+wfo-0001251539	ref-0001251539	Tabl. Encycl.	http://www.theplantlist.org/tpl1.1/record/tro-50161373
+wfo-0001285394	ref-0001285394	Kalmia	http://www.theplantlist.org/tpl1.1/record/tro-50327722
+wfo-4000008614	ref-4000008614	Suppl. Carp. 246–247, pl. 225, f. 5. 1807.	http://www.theplantlist.org/1.1/browse/A/Cyrillaceae/Cliftonia/
+wfo-4000010491	ref-4000010491	Syst. Nat. (ed. 12) 2: 182. 1767.	http://www.theplantlist.org/1.1/browse/A/Cyrillaceae/Cyrilla/
